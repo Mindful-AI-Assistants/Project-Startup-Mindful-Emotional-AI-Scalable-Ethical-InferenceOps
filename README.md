@@ -13,6 +13,65 @@
 <br><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 ## 🧑🏼‍🚀 [Team Members]():
 
 | Name                    | Role                                             |
@@ -21,3 +80,6 @@
 | **Fabiana ⚡️ Campanari** | [Github](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari)   |
 | **Pedro Barrenco ** |   [Github](https://github.com/LeonardoXF)  - [Contact]()  |
 |  **Pedro Vyctor Almeida** |  [Github](https://github.com/ppvyctor) - [Contact]()    |
+
+
+<br><br>
