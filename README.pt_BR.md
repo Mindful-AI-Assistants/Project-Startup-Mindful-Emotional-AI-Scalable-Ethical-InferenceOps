@@ -82,6 +82,7 @@
 ## 💌 [Let the data flow... Ping Us]()
 
 
+
 - 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
 
 - 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
@@ -89,6 +90,7 @@
 - 👨🏽‍🚀 **Pedro Barrenco** - []()
   
 - 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+
 
 
 
