@@ -83,3 +83,48 @@
 
 
 <br><br>
+
+<br><br>
+
+## 💌 [Let the data flow... Ping Us]()
+
+
+- 👩🏻‍🚀 **Fabiana Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+  
+- 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+
+- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+
+
+<br> 
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br>
+
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
+
+
+#
+
+##### <p align="center"> Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE)
+
+
+
