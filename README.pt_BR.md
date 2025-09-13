@@ -3,6 +3,9 @@
  \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
 
+ #  <p align="center">  InferenceOps: Scalable, Governed, and Ethical AI
+
+
   <br><br> 
 
 
