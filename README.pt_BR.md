@@ -2,11 +2,7 @@
  
  \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
-  <br><br> 
 
- InferenceOps: Inovação Embutida para Escalabilidade, Ética e Lucratividade em IA
-
-  
   <br><br> 
 
 
