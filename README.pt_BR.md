@@ -6,7 +6,7 @@
   <br><br> 
 
 
- #  <p align="center">  InferenceOps: Scalable, Governed, and Ethical AI
+ #  <p align="center">  InferenceOps: Inovação Embutida para Escalabilidade, Ética e Lucratividade em IA
 
 
   <br><br> 
