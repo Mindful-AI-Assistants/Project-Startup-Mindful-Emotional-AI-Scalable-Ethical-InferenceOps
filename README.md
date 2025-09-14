@@ -24,11 +24,11 @@
 >   5. [Direct Comparison](#5-direct-comparison)   
 >   6. [Ethical Dimension](#6-ethical-dimension)    
 >   7. [Real Market Use Cases](#7-real-market-use-cases) 
->
+>   8. [Practical Case — Fraud Detection](#8-practical-case--fraud-detection)
+>   9. [Implementation Best Practices](#9-implementation-best-practices)  
+>   10. [Social Impact](#10-social-impact) 
+> 
  
-8. [Practical Case — Fraud Detection](#8-practical-case--fraud-detection)  
-9. [Implementation Best Practices](#9-implementation-best-practices)  
-10. [Social Impact](#10-social-impact)  
 11. [KPIs and Success Metrics](#11-kpis-and-success-metrics)  
 12. [Business Plan and Profitability](#12-business-plan-and-profitability)  
 13. [Implementation Roadmap](#13-implementation-roadmap)  
