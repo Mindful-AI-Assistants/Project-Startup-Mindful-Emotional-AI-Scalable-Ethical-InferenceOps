@@ -37,11 +37,11 @@
 14. [FAQ (Frequently Asked Questions)](#14-faq-frequently-asked-questions)  
 15. [Repository Structure](#15-repository-structure)  
 16. [📊 Financial Plan (InferenceOps-Innovation)](#16-financial-plan-inferenceops-innovation)  
-17.  Revenue vs Costs - Code
-18. Additional Code Examples
-     - Financial Analysis Code 
-     - Fraud Detection Simulation
-19. Bibliography
+17. [Revenue vs Costs - Code]()
+18. [Additional Code Examples]()
+     - [Financial Analysis Code]() 
+     - [Fraud Detection Simulation]()
+19. Bibliography]()
 
 
 
