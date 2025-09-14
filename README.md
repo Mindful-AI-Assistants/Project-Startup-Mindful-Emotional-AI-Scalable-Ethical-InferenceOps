@@ -140,8 +140,8 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 |-------------------------|--------------------------------------------------|
 | **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contact]() |
 | **Fabiana ⚡️ Campanari** | [Github](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari)   |
-| **Luan Fabiano**         | [Github]() -  [Contact]() |
-| **Pedro Barrenco**       |   [Github]()  - [Contact]() -  |
+| **Luan Fabiano**         | [Github]() -  [Contact](https://github.com/LuanFabiano28) |
+| **Pedro Barrenco**       |   [Github]()  - [Contact]()   |
 |  **Pedro Vyctor Almeida** |  [Github](https://github.com/ppvyctor) - [Contact]()    |
 
 
