@@ -5,11 +5,8 @@
 
   <br><br>
 
-
  
  #  <p align="center">  InferenceOps: Scalable, Governed, and Ethical AI
-
-
 
  <br><br>
 
@@ -42,8 +39,7 @@
      - [Financial Analysis Code]() 
      - [Fraud Detection Simulation]()
 19. 🧑🏼‍🚀 [Team Members]():
-2o. [Bibliography]()
-
+20. [Bibliography]()
 
 
 
@@ -63,7 +59,7 @@ InferenceOps is not just a technical shift; it represents an **innovative, ethic
 This repository combines **technical foundations**, **real-world applications**, and a **financial plan** to illustrate how InferenceOps can be implemented sustainably and profitably.
 
 
-
+<br><br>
 
 
 
@@ -119,7 +115,7 @@ This repository combines **technical foundations**, **real-world applications**,
 <br><br>
 <br><br>
 
-## 🧑🏼‍🚀 [Team Members]():
+## 19. 🧑🏼‍🚀 [Team Members]():
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
@@ -130,6 +126,9 @@ This repository combines **technical foundations**, **real-world applications**,
 
 
 <br><br>
+
+20. [Bibliography]()
+
 
 <br><br>
 
