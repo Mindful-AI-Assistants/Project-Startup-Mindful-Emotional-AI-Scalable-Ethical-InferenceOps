@@ -16,15 +16,16 @@
 <br><br>
 
 
-##  Table of Contents
-
-1. [Introduction](#1-introduction)  
-2. [The Problem: Traditional ML vs Modern AI](#2-the-problem-traditional-ml-vs-modern-ai)  
-3. [The Solution — InferenceOps](#3-the-solution--inferenceops)  
-4. [Explanatory Diagrams](#4-explanatory-diagrams)  
-5. [Direct Comparison](#5-direct-comparison)  
-6. [Ethical Dimension](#6-ethical-dimension)  
-7. [Real Market Use Cases](#7-real-market-use-cases)  
+> [!TIP]
+>   1. [Introduction](#1-introduction)  
+>   2. [The Problem: Traditional ML vs Modern AI](#2-the-problem-traditional-ml-vs-modern-ai)  
+>   3. [The Solution — InferenceOps](#3-the-solution--inferenceops)
+>   4. [Explanatory Diagrams](#4-explanatory-diagrams) 
+>   5. [Direct Comparison](#5-direct-comparison)   
+>   6. [Ethical Dimension](#6-ethical-dimension)    
+>   7. [Real Market Use Cases](#7-real-market-use-cases) 
+>
+ 
 8. [Practical Case — Fraud Detection](#8-practical-case--fraud-detection)  
 9. [Implementation Best Practices](#9-implementation-best-practices)  
 10. [Social Impact](#10-social-impact)  
@@ -40,6 +41,45 @@
      - [Fraud Detection Simulation]()
 19. 🧑🏼‍🚀 [Team Members]():
 20. [Bibliography]()
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+
+
+
+
+
+
+> 
+>
+
+##  Table of Contents
+
+
 
 
 
