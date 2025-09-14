@@ -40,7 +40,7 @@
 >   16. [📊 Financial Plan (InferenceOps-Innovation)](#16-financial-plan-inferenceops-innovation)  
 >   17. [Revenue vs Costs - Code]()
 >   18. [Additional Code Examples]()
->      - [Financial Analysis Code]() 
+>    - [Financial Analysis Code]() 
 >    - [Fraud Detection Simulation]()
 >   19. 🧑🏼‍🚀 [Team Members]():
 >  20. [Bibliography]()
