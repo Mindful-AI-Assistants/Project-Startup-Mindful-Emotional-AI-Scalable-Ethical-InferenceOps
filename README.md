@@ -41,7 +41,8 @@
 18. [Additional Code Examples]()
      - [Financial Analysis Code]() 
      - [Fraud Detection Simulation]()
-19. [Bibliography]()
+19. 🧑🏼‍🚀 [Team Members]():
+2o. [Bibliography]()
 
 
 
