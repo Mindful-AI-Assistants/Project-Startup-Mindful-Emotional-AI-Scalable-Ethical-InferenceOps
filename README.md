@@ -127,7 +127,7 @@ This repository combines **technical foundations**, **real-world applications**,
 
 <br><br>
 
-20. [Bibliography]()
+20. ## [Bibliography]()
 
 
 <br><br>
