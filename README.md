@@ -22,6 +22,19 @@
 
 
 
+## Introduction
+
+This project was developed for the course **Entrepreneurship and Innovation** as part of the **Humanistic AI and Data Science undergraduate program at PIUC - São Paulo**, under the guidance of **Professor Wagner**.  
+
+The objective of this work is to demonstrate how organizations can move **beyond traditional MLOps practices** and adopt **InferenceOps** as a new operational paradigm for Artificial Intelligence.  
+
+While MLOps was designed to manage Machine Learning pipelines and model lifecycles, **InferenceOps** addresses the unique challenges of deploying and scaling AI systems that go beyond statistical models — systems capable of reasoning, adapting, and interacting in real time.  
+
+InferenceOps is not just a technical shift; it represents an **innovative, ethical, and financially viable approach** to AI adoption, ensuring scalability, governance, and trust.  
+
+This repository combines **technical foundations**, **real-world applications**, and a **financial plan** to illustrate how InferenceOps can be implemented sustainably and profitably.
+
+
 
 
 
