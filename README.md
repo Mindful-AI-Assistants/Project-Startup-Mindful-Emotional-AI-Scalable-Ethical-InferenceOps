@@ -188,7 +188,7 @@ flowchart TD
 
 <br><br>
 
-| Aspect]()          | [Traditional ML Ops]()        | [InferenceOps]()                     |
+| [Aspect]()          | [Traditional ML Ops]()        | [InferenceOps]()                     |
 |--------------------|--------------------------|----------------------------------|
 | [Infrastructure]()     | Each team runs servers   | Centralized shared platform      |
 | [Costs]()              | High (duplication)       | Optimized (shared infra)         |
