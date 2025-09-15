@@ -65,7 +65,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-## Introduction
+## 1. [Introduction]()
+
+
 
 This project was developed for the course **Entrepreneurship and Innovation** as part of the [**Humanistic AI and Data Science undergraduate program at PIUC - São Paulo**](), under the guidance of [**Professor Wagner  Tufano**]().
 
@@ -81,6 +83,26 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 <br><br>
 
 
+## 2. [The Problem: Traditional ML vs Modern AI]()
+
+<br>
+
+
+### [Traditional ML (past)]()
+
+
+- Each team had its own model (fraud, marketing, logistics).
+- It worked because models were simple and isolated.
+
+<br>
+  
+- [Examples:]()
+  
+  - A bank with a basic fraud model only for credit cards.
+  - An e-commerce with a simple product recommendation model.
+
+
+<br>
 
 
 
@@ -90,6 +112,7 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 
 
 
+<br><br>
 
 
 
