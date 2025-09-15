@@ -240,8 +240,15 @@ flowchart TD
 
 ## 8. [Practical Case — Fraud Detection]()
 
-Before: each team had its own fraud model.
-After: a centralized model detects fraud in real time and generates automatic audit logs.
+<br><br>
+
+
+#### [-]() A simple demonstration script is provided [here]().
+
+#### [-]() A detailed demonstration script is provided [here]().
+
+<br><br>
+
 
 ```mermaid
 flowchart TD
@@ -251,12 +258,6 @@ flowchart TD
     P --> L[Logs / Audit]
 ```
 
-<br><br>
-
-
-#### [-]() A simple demonstration script is provided [here]().
-
-#### [-]() A detailed demonstration script is provided [here]().
 
 
 <br><br>
