@@ -179,7 +179,11 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 
 <br><br>
 
+
 20. ## [References / Bibliography]()
+    
+
+<br><br>    
 
 
 ```mermaid
