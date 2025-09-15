@@ -171,6 +171,20 @@ flowchart TD
 <br><br>
 
 
+## 5. [Comparação Direta]()
+
+<br><br>
+
+| [Aspecto]()          | [ML Tradicional]()        | [InferenceOps]()                     |
+|--------------------|--------------------------|----------------------------------|
+| [Infraestrutura]()     | Cada equipe executa seus próprios servidores   | Plataforma centralizada e compartilhada      |
+| [Custos]()              | Altos (duplicação)       | Otimizados (infra compartilhada)         |
+| [Governança]()         | Fragmentada               | Centralizada e auditável          |
+| [Confiabilidade]()        | Inconsistente             | Padronizada e robusta            |
+| [Escalabilidade]()        | Limitada                  | Multiuso e expansível         |
+| [Ética & Conformidade]() | Difícil de garantir           | Integrada desde o design               |
+
+<br><br>
 
 
 
