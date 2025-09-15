@@ -96,20 +96,29 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 
 <br>
   
-- [Examples:]()
+- [Examples]():
   
   - A bank with a basic fraud model only for credit cards.
   - An e-commerce with a simple product recommendation model.
 
 
+<br><br>
+
+
+### [Modern AI (present)]()
+
 <br>
 
+- Models are **complex, heavy, multimodal** (text, image, audio).
+- They require GPUs, clusters, and continuous monitoring.
 
+<br>
 
-
-
-
-
+- [If each team runs its own model]():
+  
+  - Costs skyrocket.
+  - Results are inconsistent.
+  - Auditing becomes impossible.
 
 
 <br><br>
