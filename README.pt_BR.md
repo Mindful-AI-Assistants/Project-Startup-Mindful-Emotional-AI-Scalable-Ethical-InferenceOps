@@ -18,11 +18,24 @@
   <br><br> 
 
 
+https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
+
+###### 🎶  ***[Vivaldi - The Four Seasons 'Winter']()  ⚡️ Art by Fabi***  
+
+
+
+<!--Confidentiality Statement-->
+
+<br><br>
 
 
 
 
 
+
+
+
+<br><br>
 
 
 ## 1. [Introdução]()
