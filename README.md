@@ -193,6 +193,38 @@ TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from
 
 European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
 
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {
+    'primaryColor': '#1abc9c',
+    'edgeLabelBackground':'#1abc9c',
+    'lineColor': '#1abc9c',
+    'secondaryColor':'#16a085',
+    'tertiaryColor':'#0e6655',
+    'fontSize':'16px',
+    'fontFamily':'Arial',
+    'textColor':'#ffffff'
+}}}%%
+flowchart TD
+    A[📚 InferenceOps Knowledge Base] --> B[AI Ethics]
+    A --> C[Machine Learning Foundations]
+    A --> D[Industry & Practice]
+    A --> E[Innovation & Entrepreneurship]
+
+    B --> B1["Floridi, L. (2019). The Ethics of Artificial Intelligence. OUP"]
+    B --> B2["EU AI Act (2024)"]
+    B --> B3["Brazil LGPD (2020)"]
+
+    C --> C1["Goodfellow, I., Bengio, Y., Courville, A. (2016). Deep Learning. MIT Press"]
+    C --> C2["Jordan, M. & Mitchell, T. (2015). Machine Learning: Trends, Perspectives, and Prospects. Science"]
+
+    D --> D1["TitanML (2025). Inference Engine: Efficient AI at Scale. titanml.co"]
+    D --> D2["Hugging Face — Model Hub"]
+    D --> D3["RunAI — GPU Orchestration"]
+
+    E --> E1["Course: Entrepreneurship & Innovation — PIUC-SP"]
+    E --> E2["Guidance: Prof. Wagner"]
+```
+
 
 <br><br>
 
