@@ -179,7 +179,19 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 
 <br><br>
 
-20. ## [Bibliography]()
+20. ## [References / Bibliography]()
+
+
+
+Jordan, M. & Mitchell, T. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245).
+
+Floridi, L. (2019). The Ethics of Artificial Intelligence. Oxford University Press.
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+
+TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
+
+European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
 
 
 <br><br>
