@@ -128,7 +128,6 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 <br><br>
 
 
-
 ## 3. [The Solution — InferenceOps]()
 
 [**InferenceOps**]() is a centralized inference platform. It provides:
@@ -145,7 +144,7 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 
 
 
-
+<br><br>
 
 
 
