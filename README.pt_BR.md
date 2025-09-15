@@ -29,6 +29,35 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
+## Índice
+
+<br>
+
+> [!TIP]
+>   1. [Introdução](#1-introdução)  
+>   2. [O Problema: ML Tradicional vs IA Moderna](#2-o-problema-ml-tradicional-vs-ia-moderna)  
+>   3. [A Solução — InferenceOps](#3-a-solução--inferenceops)
+>   4. [Diagramas Explicativos](#4-diagramas-explicativos) 
+>   5. [Comparação Direta](#5-comparação-direta)   
+>   6. [Dimensão Ética](#6-dimensão-ética)    
+>   7. [Casos Reais de Mercado](#7-casos-reais-de-mercado) 
+>   8. [Caso Prático — Detecção de Fraudes](#8-caso-prático--detecção-de-fraudes)
+>   9. [Melhores Práticas de Implementação](#9-melhores-práticas-de-implementação)  
+>   10. [Impacto Social](#10-impacto-social) 
+>   11. [KPIs e Métricas de Sucesso](#11-kpis-e-métricas-de-sucesso)  
+>   12. [Plano de Negócios e Rentabilidade](#12-plano-de-negócios-e-rentabilidade)  
+>   13. [Roteiro de Implementação](#13-roteiro-de-implementação)  
+>   14. [FAQ (Perguntas Frequentes)](#14-faq-perguntas-frequentes) 
+>   15. [Estrutura do Repositório](#15-estrutura-do-repositório) 
+>   16. [📊 Plano Financeiro (InferenceOps-Inovação)](#16-plano-financeiro-inferenceops-inovação)  
+>   17. [Receitas vs Custos - Código]()
+>   18. [Exemplos de Código Adicionais]()
+>    - [Código de Análise Financeira]() 
+>    - [Simulação de Detecção de Fraudes]()
+>   19. 🧑🏼‍🚀 [Membros da Equipe]():
+>   20. [Bibliografia]()
+>
+<br><br>
 
 
 
