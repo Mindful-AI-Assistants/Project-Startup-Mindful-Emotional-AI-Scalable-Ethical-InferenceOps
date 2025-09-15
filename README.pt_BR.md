@@ -132,9 +132,43 @@ Este repositório combina [**fundamentos técnicos**](), [**aplicações no mund
 
 [-]() Conformidade regulatória desde o design.
 
+
 <br><br>
 
+## 4. [Diagramas Explicativos]()
 
+<br>
+
+### [Antes (ML Tradicional)]()
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Equipe de Fraude] --> B[Modelo Próprio]
+    C[Equipe de Marketing] --> D[Modelo Próprio]
+    E[Equipe de Logística] --> F[Modelo Próprio]
+```
+
+<br>
+
+#
+
+<br>
+
+
+
+### [Depois (InferenceOps)]()
+
+```mermaid
+flowchart TD
+    A[Equipe de Fraude] --> Z[InferenceOps]
+    C[Equipe de Marketing] --> Z
+    E[Equipe de Logística] --> Z
+    Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
+```
+
+<br><br>
 
 
 
@@ -265,10 +299,6 @@ flowchart TD
 - 👨🏽‍🚀 **Pedro Barrenco** - []()
   
 - 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
-
-
-
-
 
 
 
