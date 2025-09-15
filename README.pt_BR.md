@@ -85,6 +85,18 @@
 
  ##  20. ## [Referências / Bibliografias]()
 
+<br>
+
+[-]() Jordan, M. & Mitchell, T. (2015). **Aprendizado de Máquina: Tendências, Perspectivas e Prospectos.** *Science, 349(6245).*  
+
+[-]() Floridi, L. (2019). **A Ética da Inteligência Artificial.** Oxford University Press.  
+
+[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). **Aprendizado Profundo (Deep Learning).** MIT Press.  
+
+[-]() TitanML. (2025). **TitanML Inference Engine: IA Eficiente em Escala.** Recuperado de https://www.titanml.co  
+
+[-]() União Europeia. (2024). **AI Act da União Europeia — Regulamento sobre Inteligência Artificial.**  
+
 
 <br><br>
 
@@ -120,19 +132,6 @@ flowchart TD
     E --> E1["Disciplina: Empreendedorismo & Inovação — PIUC-SP"]
     E --> E2["Orientação: Prof. Wagner"]
 ```
-
-<br><br>
-
-
-[-]() Jordan, M. & Mitchell, T. (2015). **Aprendizado de Máquina: Tendências, Perspectivas e Prospectos.** *Science, 349(6245).*  
-
-[-]() Floridi, L. (2019). **A Ética da Inteligência Artificial.** Oxford University Press.  
-
-[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). **Aprendizado Profundo (Deep Learning).** MIT Press.  
-
-[-]() TitanML. (2025). **TitanML Inference Engine: IA Eficiente em Escala.** Recuperado de https://www.titanml.co  
-
-[-]() União Europeia. (2024). **AI Act da União Europeia — Regulamento sobre Inteligência Artificial.**  
 
 
 
