@@ -25,6 +25,67 @@
 
 
 
+## 1. [Introdução]()
+
+Este projeto foi desenvolvido para a disciplina **Empreendedorismo e Inovação** como parte do [**programa de graduação em IA Humanística e Ciência de Dados da PIUC - São Paulo**](), sob a orientação do [**Professor Wagner Tufano**]().
+
+O objetivo deste trabalho é demonstrar como as organizações podem ir [**além das práticas tradicionais de MLOps**]() e adotar [**InferenceOps**]() como um novo paradigma operacional para Inteligência Artificial.  
+
+Enquanto o MLOps foi projetado para gerenciar pipelines de Machine Learning e ciclos de vida de modelos, [**InferenceOps**]() aborda os desafios únicos de implantar e escalar sistemas de IA que vão além de modelos estatísticos — sistemas capazes de raciocinar, se adaptar e interagir em tempo real.  
+
+InferenceOps não é apenas uma mudança técnica; representa uma [**abordagem inovadora, ética e financeiramente viável**]() para adoção de IA, garantindo escalabilidade, governança e confiança.  
+
+Este repositório combina [**fundamentos técnicos**](), [**aplicações no mundo real**]() e um [**plano financeiro**]() para ilustrar como InferenceOps pode ser implementado de forma sustentável e lucrativa.
+
+<br><br>
+
+## 2. [O Problema: ML Tradicional vs IA Moderna]()
+
+<br>
+
+### [ML Tradicional (passado)]()
+
+- Cada equipe tinha seu próprio modelo (fraude, marketing, logística).  
+- Funcionava porque os modelos eram simples e isolados.
+
+<br>
+  
+[Exemplos]():
+  
+  - Um banco com um modelo básico de fraude apenas para cartões de crédito.  
+  - Um e-commerce com um modelo simples de recomendação de produtos.
+
+<br>
+
+#
+
+<br>
+
+### [IA Moderna (presente)]()
+
+<br>
+
+- Os modelos são **complexos, pesados, multimodais** (texto, imagem, áudio).  
+- Eles exigem GPUs, clusters e monitoramento contínuo.
+
+[Se cada equipe executa seu próprio modelo]():
+  
+  - Os custos disparam.  
+  - Os resultados são inconsistentes.  
+  - A auditoria se torna impossível.
+
+<br><br>
+
+## 3. [A Solução — InferenceOps]()
+
+[**InferenceOps**]() é uma plataforma de inferência centralizada. E
+
+
+
+
+
+
+
 
 
 
