@@ -134,9 +134,13 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 [**InferenceOps**]() is a centralized inference platform. It provides:
 
 [-]() Scalability across multiple teams.
+
 [-]() Clear and auditable governance.
+
 [-]() Reduced infrastructure duplication costs.
+
 [-]() Real-time metrics and monitoring.
+
 [-]() Regulatory compliance by design.
 
 
