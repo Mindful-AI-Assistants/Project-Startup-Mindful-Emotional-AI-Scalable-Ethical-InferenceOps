@@ -205,10 +205,23 @@ flowchart TD
  
 [-]() Sustentabilidade: consumo de energia reduzido.
 
+
 <br><br>
 
 
+## 7. [Casos Reais de Mercado]()
 
+<br>
+
+- [**Bancos & Fintechs**]() — decisões consistentes de crédito e fraude.
+  
+- [**Saúde**]() — diagnósticos confiáveis e auditáveis.
+  
+- [**E-commerce**]() — recomendações e logística unificadas.
+
+- [**Setor Público**]() — políticas transparentes impulsionadas por IA.
+
+<br><br>
 
 
 
