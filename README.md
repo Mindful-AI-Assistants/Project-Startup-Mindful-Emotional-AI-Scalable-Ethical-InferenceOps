@@ -94,15 +94,16 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 - Each team had its own model (fraud, marketing, logistics).
 - It worked because models were simple and isolated.
 
+ 
 <br>
   
-- [Examples]():
+[Examples]():
   
   - A bank with a basic fraud model only for credit cards.
   - An e-commerce with a simple product recommendation model.
 
 
-<br><br>
+<br>
 
 
 ### [Modern AI (present)]()
@@ -112,9 +113,8 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 - Models are **complex, heavy, multimodal** (text, image, audio).
 - They require GPUs, clusters, and continuous monitoring.
 
-<br>
 
-- [If each team runs its own model]():
+[If each team runs its own model]():
   
   - Costs skyrocket.
   - Results are inconsistent.
