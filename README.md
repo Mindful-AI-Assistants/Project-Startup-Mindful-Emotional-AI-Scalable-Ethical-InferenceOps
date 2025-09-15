@@ -238,7 +238,7 @@ flowchart TD
 <br><br>
 
 
-## 8. Practical Case — Fraud Detection
+## 8. [Practical Case — Fraud Detection]()
 
 Before: each team had its own fraud model.
 After: a centralized model detects fraud in real time and generates automatic audit logs.
