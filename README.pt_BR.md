@@ -187,6 +187,25 @@ flowchart TD
 <br><br>
 
 
+## 6. [Dimensão Ética]()
+
+<br>
+
+[InferenceOps incorpora ética na arquitetura]():
+
+<br>
+
+[-]() Transparência: decisões auditáveis.
+ 
+[-]() Responsabilidade: registros centralizados.
+ 
+[-]() Privacidade: criptografia de ponta a ponta.
+
+[-]() Conformidade: GDPR, LGPD, AI Act.
+ 
+[-]() Sustentabilidade: consumo de energia reduzido.
+
+<br><br>
 
 
 
