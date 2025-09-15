@@ -143,14 +143,50 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 [-]() Regulatory compliance by design.
 
 
-
 <br><br>
 
 
+## 4. [Explanatory Diagrams]()
+
+<br>
+
+### Before (Traditional ML)
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> B[Own Model]
+    C[Marketing Team] --> D[Own Model]
+    E[Logistics Team] --> F[Own Model]
+```
 
 
+<br>
+
+#
+
+<br>
 
 
+### After (InferenceOps)
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> Z[InferenceOps]
+    C[Marketing Team] --> Z
+    E[Logistics Team] --> Z
+    Z --> M[Centralized Model / Shared Infrastructure]
+```
+
+<br>
+
+Extended (dark theme) comparison is available [here]().
+
+
+<br><br>
 
 
 
