@@ -200,6 +200,32 @@ flowchart TD
 
 <br><br>
 
+## 6. [Ethical Dimension]()
+
+<br>
+
+[InferenceOps embeds ethics into the architecture]():
+
+<br>
+
+[-]() Transparency: auditable decisions.
+ 
+[-]() Accountability: centralized logs.
+ 
+[-]() Privacy: end-to-end encryption.
+
+[-]() Compliance: GDPR, LGPD, AI Act.
+ 
+[-]() Sustainability: reduced energy consumption.
+
+
+<br><br>
+
+
+
+
+
+
 
 
 
