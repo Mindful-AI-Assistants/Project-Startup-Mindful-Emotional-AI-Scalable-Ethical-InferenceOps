@@ -150,7 +150,7 @@ This repository combines [**technical foundations**](), [**real-world applicatio
 
 <br>
 
-### Before (Traditional ML)
+### [Before (Traditional ML)]()
 
 <br><br>
 
@@ -169,7 +169,7 @@ flowchart TD
 <br>
 
 
-### After (InferenceOps)
+### [After (InferenceOps)]()
 
 <br><br>
 
