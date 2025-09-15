@@ -223,8 +223,27 @@ flowchart TD
 
 <br><br>
 
+## 8. [Caso Prático — Detecção de Fraudes]()
+
+Antes: cada equipe tinha seu próprio modelo de fraude.  
+Depois: um modelo centralizado detecta fraudes em tempo real e gera registros de auditoria automáticos.
+
+```mermaid
+flowchart TD
+    T[Transação do Cliente] --> P[InferenceOps]
+    P --> M[Modelo Centralizado de Fraude]
+    M --> A[Aprovar ou Rejeitar]
+    P --> L[Registros / Auditoria]
+```
+
+<br><br>
+
+[-]() Um script de demonstração simples é fornecido [aqui]()
 
 
+[-]() Um script de demonstração detalhado é fornecido [aqui]()
+
+<br><br>
 
 
 
