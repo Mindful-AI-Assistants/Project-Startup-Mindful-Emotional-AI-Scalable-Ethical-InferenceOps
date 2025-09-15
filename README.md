@@ -181,11 +181,6 @@ flowchart TD
     Z --> M[Centralized Model / Shared Infrastructure]
 ```
 
-<br>
-
-Extended (dark theme) comparison is available [here]().
-
-
 <br><br>
 
 
