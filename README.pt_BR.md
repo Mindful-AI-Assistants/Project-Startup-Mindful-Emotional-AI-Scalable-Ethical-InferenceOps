@@ -33,34 +33,32 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-> [!TIP]  
->   1. Introdução(#1-introduction)  
->   2. O Problema: ML Tradicional vs IA Moderna(#2-the-problem-traditional-ml-vs-modern-ai)  
->   3. A Solução — InferenceOps(#3-the-solution--inferenceops)  
->   4. Diagramas Explicativos(#4-explanatory-diagrams)  
->   5. Comparação Direta(#5-direct-comparison)  
->   6. Dimensão Ética(#6-ethical-dimension)  
->   7. Top 10 Ferramentas para Desenvolvimento de IA Ética()  
->   8. Casos Reais de Uso de Mercado(#7-real-market-use-cases)  
->   9. Caso Prático — Detecção de Fraude(#8-practical-case--fraud-detection)  
->   9. Melhores Práticas de Implementação(#9-implementation-best-practices)  
->   10. Impacto Social(#10-social-impact)  
->   11. KPIs e Métricas de Sucesso(#11-kpis-and-success-metrics)  
->   12. Plano de Negócios e Rentabilidade(#12-business-plan-and-profitability)  
->   13. Roteiro de Implementação(#13-implementation-roadmap)  
->   14. FAQ (Perguntas Frequentes)(#14-faq-frequently-asked-questions)  
->   15. Estrutura do Repositório(#15-repository-structure)  
->   16. 📊 Plano Financeiro (InferenceOps-Innovation)(#16-financial-plan-inferenceops-innovation)  
->   17. Receita vs Custos - Código()  
->   18. Exemplos de Código Adicionais()  
->    - Código de Análise Financeira()  
->    - Simulação de Detecção de Fraude()  
->   19. 🧑🏼‍🚀 Membros da Equipe()  
->   20. Bibliografia()
-
-
-
-<br><br>
+> [!TIP]
+>   1. [Introdução](#1-introducao)  
+>   2. [O Problema: ML Tradicional vs IA Moderna](#2-o-problema-ml-tradicional-vs-ia-moderna)  
+>   3. [A Solução — InferenceOps](#3-a-solucao--inferenceops)
+>   4. [Diagramas Explicativos](#4-diagramas-explicativos) 
+>   5. [Comparação Direta](#5-comparacao-direta)   
+>   6. [Dimensão Ética](#6-dimensao-etica)
+>   7. [Top 10 Ferramentas para Desenvolvimento de IA Ética]()  
+>   8. [Casos Reais de Uso no Mercado](#7-casos-reais-de-uso-no-mercado) 
+>   9. [Caso Prático — Detecção de Fraude](#8-caso-pratico--detecao-de-fraude)
+>  10. [Melhores Práticas de Implementação](#9-melhores-praticas-de-implementacao)  
+>   11. [Impacto Social](#10-impacto-social) 
+>   12. [KPIs e Métricas de Sucesso](#11-kpis-e-metricas-de-sucesso)  
+>   13. [Plano de Negócios e Rentabilidade](#12-plano-de-negocios-e-rentabilidade)  
+>   14. [Roteiro de Implementação](#13-roteiro-de-implementacao)  
+>   15. [FAQ (Perguntas Frequentes)](#14-faq-perguntas-frequentes) 
+>   16. [Estrutura do Repositório](#15-estrutura-do-repositorio) 
+>   17. [📊 Plano Financeiro (InferenceOps-Inovação)](#16-plano-financeiro-inferenceops-inovacao)  
+>   18. [Receita vs Custos - Código]()
+>   19. [Exemplos Adicionais de Código]()
+>    - [Código de Análise Financeira]() 
+>    - [Simulação de Detecção de Fraude]()
+>   20. 🧑🏼‍🚀 [Membros da Equipe]():
+>   21. [Bibliografia]()
+>
+> 
 
 
 ## 1. [Introdução]()
