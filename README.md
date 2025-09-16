@@ -1,4 +1,6 @@
 
+
+
  <br>
  
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
@@ -412,8 +414,9 @@ flowchart TD
 
 - 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
 
-- 🧑🏼‍🚀 **Luan Fabiano**         | [Github](https://github.com/LuanFabiano28) -  [Contact]() |
-| **Pedro Barrenco**       |   [Github]()  - [Contact]()   |
+- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
+
+- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
   
 - 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
