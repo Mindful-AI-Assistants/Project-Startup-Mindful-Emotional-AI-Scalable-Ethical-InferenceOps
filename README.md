@@ -338,7 +338,7 @@ flowchart TD
 |-------------------------|--------------------------------------------------|
 | **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contact]() |
 | **Fabiana ⚡️ Campanari** | [Github](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari)   |
-| **VJosé Augusto de Souza Oliveira**       |   [Github]()  - [Contact]()   |
+| **José Augusto de Souza Oliveira**       |   [Github](https://github.com/Jojose3)  - [Contact]()   |
 | **Luan Fabiano**         | [Github](https://github.com/LuanFabiano28) -  [Contact]() |
 | **Pedro Barrenco**       |   [Github]()  - [Contact]()   |
 |  **Pedro Vyctor Almeida** |  [Github](https://github.com/ppvyctor) - [Contact]()    |
