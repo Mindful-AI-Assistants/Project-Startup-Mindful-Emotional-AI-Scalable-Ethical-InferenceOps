@@ -418,7 +418,7 @@ flowchart TD
 
 - 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
   
-- 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
 
 
