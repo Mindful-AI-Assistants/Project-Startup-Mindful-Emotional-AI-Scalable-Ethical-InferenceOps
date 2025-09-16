@@ -223,7 +223,7 @@ flowchart TD
 <br><br>
 
 
-## 6a. [Top 10 Tools for Ethical AI Development]()
+## 7. [Top 10 Tools for Ethical AI Development]()
 
 <br>
 
@@ -261,7 +261,7 @@ As AI systems become more widespread, it is essential to address potential risks
 <br><br>
 
 
-## 7. [Real Market Use Cases]()
+## 8. [Real Market Use Cases]()
 
 <br>
 
@@ -277,7 +277,7 @@ As AI systems become more widespread, it is essential to address potential risks
 <br><br>
 
 
-## 8. [Practical Case — Fraud Detection]()
+## 9. [Practical Case — Fraud Detection]()
 
 <br><br>
 
@@ -332,7 +332,7 @@ flowchart TD
 <br><br>
 <br><br>
 
-## 19. 🧑🏼‍🚀 [Team Members]():
+## 20. 🧑🏼‍🚀 [Team Members]():
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
@@ -346,7 +346,7 @@ flowchart TD
 <br><br>
 
 
- ##  20.[References / Bibliography]()
+ ##  21.[References / Bibliography]()
    
 <br><br>    
 
