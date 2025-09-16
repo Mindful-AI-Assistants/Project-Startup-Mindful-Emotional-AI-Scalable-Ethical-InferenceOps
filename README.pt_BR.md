@@ -40,9 +40,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >   4. Diagramas Explicativos(#4-explanatory-diagrams)  
 >   5. Comparação Direta(#5-direct-comparison)  
 >   6. Dimensão Ética(#6-ethical-dimension)  
->   6a. Top 10 Ferramentas para Desenvolvimento de IA Ética()  
->   7. Casos Reais de Uso de Mercado(#7-real-market-use-cases)  
->   8. Caso Prático — Detecção de Fraude(#8-practical-case--fraud-detection)  
+>   7. Top 10 Ferramentas para Desenvolvimento de IA Ética()  
+>   8. Casos Reais de Uso de Mercado(#7-real-market-use-cases)  
+>   9. Caso Prático — Detecção de Fraude(#8-practical-case--fraud-detection)  
 >   9. Melhores Práticas de Implementação(#9-implementation-best-practices)  
 >   10. Impacto Social(#10-social-impact)  
 >   11. KPIs e Métricas de Sucesso(#11-kpis-and-success-metrics)  
@@ -204,7 +204,7 @@ flowchart TD
 
 <br><br>
 
-## 6a. [Top 10 Ferramentas para Desenvolvimento de IA Ética]()
+## 7. [Top 10 Ferramentas para Desenvolvimento de IA Ética]()
 
 <br>
 
@@ -238,7 +238,7 @@ flowchart TD
 <br><br>  
 
 
-## 7. [Casos Reais de Mercado]()
+## 8. [Casos Reais de Mercado]()
 
 <br>
 
@@ -252,7 +252,7 @@ flowchart TD
 
 <br><br>
 
-## 8. [Caso Prático — Detecção de Fraudes]()
+## 9. [Caso Prático — Detecção de Fraudes]()
 
 Antes: cada equipe tinha seu próprio modelo de fraude.  
 Depois: um modelo centralizado detecta fraudes em tempo real e gera registros de auditoria automáticos.
@@ -325,7 +325,7 @@ flowchart TD
 <br><br>
 <br><br>
 
-## 🧑🏼‍🚀 [Team Members]():
+## 20. 🧑🏼‍🚀 [Team Members]():
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
@@ -338,7 +338,7 @@ flowchart TD
 <br><br>
 
 
- ##  20. ## [Referências / Bibliografias]()
+ ##  21. [Referências / Bibliografias]()
 
 <br><br>
 
