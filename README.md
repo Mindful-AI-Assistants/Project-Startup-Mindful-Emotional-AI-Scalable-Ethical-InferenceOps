@@ -404,12 +404,18 @@ flowchart TD
 
 ## 💌 [Let the data flow... Ping Us]()
 
-
-- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
-  
-- 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+<br>
 
 - 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+
+- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
+
+- 🧑🏼‍🚀 **Luan Fabiano**         | [Github](https://github.com/LuanFabiano28) -  [Contact]() |
+| **Pedro Barrenco**       |   [Github]()  - [Contact]()   |
+  
+- 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
 
 
