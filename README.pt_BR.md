@@ -238,13 +238,8 @@ flowchart TD
 | [Ethics & Algorithms Toolkit da PwC](https://www.pwc.com)                                                                        | Gerencia riscos de IA e assegura padrões éticos                                                |
 | [Deon da DrivenData](https://deon.drivendata.org/)                                                                               | Adiciona listas de verificação ética a projetos de ciência de dados                            |
 | [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                         | Identifica riscos e danos éticos                                                               |
+
 <br><br>  
-
-Quer que eu também faça uma versão **bilíngue lado a lado (EN/PT)** para comparação rápida?
-
-
-
-
 
 
 ## 7. [Casos Reais de Mercado]()
