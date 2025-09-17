@@ -388,6 +388,8 @@ flowchart TD
 
 <br><br>
 
+- Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
+
 [-]() European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
 
 [-]() Floridi, L. (2019). The Ethics of Artificial Intelligence. Oxford University Press.
@@ -395,6 +397,17 @@ flowchart TD
 [-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 
 [-]() Jordan, M. & Mitchell, T. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245).
+
+- Porter, M. E. (1996). "What is Strategy?". Harvard Business Review, 74(6), 61-78.
+
+- Porter, M. E. (1985). "Competitive Advantage: Creating and Sustaining Superior Performance". Free Press.
+
+
+- Various articles on Brazilian innovation cases, business strategies, and market disruptions.
+
+
+
+
 
 [-]() TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
 
