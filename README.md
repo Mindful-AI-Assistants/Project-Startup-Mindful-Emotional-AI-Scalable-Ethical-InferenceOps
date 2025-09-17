@@ -389,10 +389,6 @@ flowchart TD
 <br><br>
 
 
-##  21. [References and Bibliography]()
-
-<br>
-
 [-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
 
 [-]() European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
