@@ -8,7 +8,7 @@
   <br><br>
 
  
- #  <p align="center">  [InferenceOps](): Scalable, Governed, and Ethical AI
+ #  <p align="center">  Project [InferenceOps](): Scalable, Governed, and Ethical AI
 
 
 <br><br>
