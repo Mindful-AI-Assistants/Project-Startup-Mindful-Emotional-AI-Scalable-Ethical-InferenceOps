@@ -1,0 +1,26 @@
+Initial Investment: Table 1
+Initial Investment;;;;
+Item;Cost (USD);;;
+Infrastructure (GPUs);600000;;;
+Technical team;400000;;;
+Compliance & Legal;100000;;;
+Marketing & Sales;100000;;;
+Total;1200000;;;
+
+
+Revenue Projections: Table 1
+Projeções de Receita;;;;
+Year;# Clients;Revenue per Client (USD);Total Revenue (USD);
+1;10;300000;3000000;
+2;20;350000;7000000;
+3;35;400000;14000000;
+
+
+ROI & Break-even: Table 1
+ROI e ponto de equilíbrio;;;;
+Indicator;Value;;;
+Initial Investment;1200000;;;
+Revenue Year 1;3000000;;;
+Net Profit Year 1;1800000;;;
+ROI (Year 1);150%;;;
+Break-even;18 months;;;
