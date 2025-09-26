@@ -166,7 +166,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
->  [EU AI ACT](https://bluearrow.ai/emotion-recognition/)
+>  [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >
 > [Bossa Invest Planejamento Estrateggico](https:/ /bossainvest.com)
 >
