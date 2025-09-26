@@ -154,6 +154,21 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > - [Business Plan 2](https://github.com/Mindful-AI-Assistants/Humanistic-AI-DataScience-PucSP-Ethical-Entrepreneurship/tree/e8d17fc7866f1941dd609e1b9ecb1798dfa7a863/Business_Plan_2)
 >
+>
+> https://venturusai.com/business/1TwGzr-mindfulai/report/finances
+>
+> https://venturusai.com/business/1TwGzr-mindfulai/report/finances
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+
 
 
 
