@@ -197,6 +197,13 @@ Moreover, MindfulAI leverages active collaboration with academic partners and co
 <br><br>
 
 
+> [!IMPORTANT]
+>
+> Esse projeto posiciona MindfulAI como uma startup vanguardista, capaz de transformar a relação entre humanos e máquinas por meio da inteligência emocional artificial ética, escalável e governada.
+>
+
+<br><br>
+
 ### Conceitos Fundamentais: Machine Learning e InferenceOps
 
 Machine Learning (ML) é um método pelo qual computadores aprendem padrões a partir de dados. Após o treinamento, um modelo é capaz de fazer previsões com novos dados — isso é chamado inferência (Inference).
@@ -293,12 +300,6 @@ Essa parceria promove troca constante entre academia e mercado, fomentando inova
 Seguimos o modelo de grandes players como AWS (plataforma para inferência de IA) e startups de sucesso em Emotion AI, que aprimoram interação e saúde mental digital com governança ética e tecnologia avançada.
 
 <br><br>
-
-> [!IMPORTANT]
->
-> Esse projeto posiciona MindfulAI como uma startup vanguardista, capaz de transformar a relação entre humanos e máquinas por meio da inteligência emocional artificial ética, escalável e governada.
->
-
 
 
 
