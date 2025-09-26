@@ -157,7 +157,17 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  (https://venturusai.com/business/1TwGzr-mindfulai/report/finances
 >
-> [Venture AI](https://venturusai.com/businesses)
+> 
+
+
+
+
+<br><br><br>
+
+
+
+> [!IMPORTANT]
+>
 > 
 >  [Venmture - ]https://venturusai.com/business/1TwGzr-mindfulai/report/finances
 >  
@@ -171,15 +181,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > [Bossa Invest Planejamento Estrateggico](https:/ /bossainvest.com)
 >
 >
-
-
-
-
-
-<br><br><br>
-
-
-
 
 
 
