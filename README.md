@@ -39,7 +39,15 @@
 -->
 <br><br>
 
- ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
+
+ ### <p align="center"> ✯ **[Startupo Project]()** ✯
+
+ 
+<br>
+
+
+<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Emotional} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
+
 
 
 <br>
