@@ -178,6 +178,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
+> [!IMPORTANT]
+>
+> Esse projeto posiciona MindfulAI como uma startup vanguardista, capaz de transformar a relação entre humanos e máquinas por meio da inteligência emocional artificial ética, escalável e governada.
+>
+
+<br><br>
+
 
 
 ## 1. [Introdução ao Projeto - Mindful Emotional AI Startup]()
@@ -191,7 +198,7 @@ MindfulAI se destaca como um projeto inovador porque combina tecnologia avançad
 
 O projeto também prioriza a governança, transparência e conformidade com regulamentações internacionais como o GDPR e o EU AI Act, garantindo o uso responsável da IA. Sua arquitetura modular permite soluções personalizadas para vários setores, desde saúde até finanças, reforçando seu potencial para um amplo impacto. Além disso, MindfulAI aproveita a colaboração ativa com parceiros acadêmicos e ciclos contínuos de inovação, posicionando-se como uma solução pioneira que une capacidades avançadas de IA com desafios éticos e sociais do mundo real.
 
-<br><br>
+<br>
 
 ### Conceitos Fundamentais: Machine Learning e InferenceOps
 
@@ -202,7 +209,7 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
 
 MindfulAI aplica essa inferência para captar emoções humanas com rapidez e precisão.
 
-<br><br>
+<br>
 
 ### A Importância da Ética, Governança e Compliance em Emotion AI
 
@@ -214,7 +221,7 @@ Emotion AI trabalha com dados pessoais e sensíveis, por isso é crucial respeit
 
 Nosso sistema incorpora essas dimensões na operação do InferenceOps, garantindo segurança e responsabilidade.
 
-<br><br>
+<br>
 
 ### O que oferecemos
 
@@ -225,7 +232,7 @@ MindfulAI propõe uma plataforma de Emotion AI completa que oferece:
 - Serviços de consultoria para implantação ética e estratégica da IA emocional.
 - Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.
 
-<br><br>
+<br>
 
 ### Quem são nossos clientes
 
@@ -238,7 +245,7 @@ Atendemos uma ampla gama de setores, incluindo:
 - **Indústria Automotiva:** Segurança via monitoramento emocional do motorista.
 - **Educação:** Avaliação do engajamento emocional e bem-estar estudantil.
 
-<br><br>
+<br>
 
 ### Modelo Financeiro Simplificado
 
@@ -247,7 +254,7 @@ Atendemos uma ampla gama de setores, incluindo:
 - Lucro potencial inicial: R\$ 15.000 mensalmente.
 - Ponto de equilíbrio com receita de R\$ 55.000.
 
-<br><br>
+<br><
 
 ### Equipe e Operação
 
@@ -259,7 +266,7 @@ Atendemos uma ampla gama de setores, incluindo:
 - Desenvolvedores e DevOps para infraestrutura.
 - Analistas para monitoramento e KPIs.
 
-<br><br>
+<br>
 
 ### Suporte 24/7
 
@@ -267,7 +274,7 @@ Atendemos uma ampla gama de setores, incluindo:
 - Equipe on-call para emergências.
 - Processos claros e automação para garantia da continuidade.
 
-<br><br>
+<br>
 
 £## Integração com Estudantes da PUC-SP
 
@@ -282,7 +289,7 @@ Para fortalecer a operação e inovar continuamente, a MindfulAI integra estudan
 
 Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.
 
-<br><br>
+<br>
 
 ### Caso Inspirador
 
@@ -290,12 +297,6 @@ Seguimos o modelo de grandes players como AWS (plataforma para inferência de IA
 
 <br><br>
 
-> [!IMPORTANT]
->
-> Esse projeto posiciona MindfulAI como uma startup vanguardista, capaz de transformar a relação entre humanos e máquinas por meio da inteligência emocional artificial ética, escalável e governada.
->
-
-<br><br>
 
 
 
