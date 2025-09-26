@@ -178,7 +178,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  ##  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
-> - [Bossa Invest Planejamento Estrateggico](https:/ /bossainvest.com)
+> - [Bossa Invest Planejamento Estrateggico](https://bossainvest.com)
 >  
 > - [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >  
