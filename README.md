@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * [**Founder:**]() Fabiana ⚡️ Campanari  
 >
-> * **Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
+> * [**Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
 >
 > * Open to [students]() from the Humanistic AI and Data Science program at [PUC-SP]() 
 >
@@ -151,28 +151,31 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 ##  Table of Contents
 
 
-1. [Introdução](#introdução)  
-2. [A Solução — InferenceOps para Emotion AI](#a-solução-inferenceops-para-emotion-ai)  
-3. [Seção Técnica: InferenceOps Passo a Passo com Comandos](#seção-técnica-inferenceops-passo-a-passo-com-comandos)  
-4. [Comparação Direta entre Modelos](#comparação-direta-entre-modelos)  
-5. [Dimensão Ética](#dimensão-ética)  
-6. [Top 10 Ferramentas para Desenvolvimento Ético em Emotion AI](#top-10-ferramentas-para-desenvolvimento-ético-em-emotion-ai)  
-7. [Casos Reais de Mercado](#casos-reais-de-mercado)  
-8. [Caso Prático — Detecção de Fraude com Emotion AI](#caso-prático-detecção-de-fraude-com-emotion-ai)  
-9. [Boas Práticas de Implementação](#boas-práticas-de-implementação)  
-10. [Impacto Social](#impacto-social)  
-11. [Planejamento Estratégico para a Startup MindfulAI](#planejamento-estratégico-para-a-startup-mindfulai)  
-12. [KPIs e Métricas de Sucesso](#kpis-e-métricas-de-sucesso)  
-13. [Plano de Negócios, Unidades de Serviço e Rentabilidade](#plano-de-negócios-unidades-de-serviço-e-rentabilidade)  
-14. [Estrutura Modular de Serviços na Startup MindfulAI](#estrutura-modular-de-serviços-na-startup-mindfulai)  
-15. [Roadmap de Implementação](#roadmap-de-implementação)  
-16. [Tipos de Investidores e Programa PUC-Angel](#tipos-de-investidores-e-programa-puc-angel)  
-17. [FAQ (Perguntas Frequentes)](#faq-perguntas-frequentes)  
-18. [Estrutura do Repositório](#estrutura-do-repositório)  
-19. [Plano Financeiro - MindfulAI](#plano-financeiro---mindfulai)  
-20. [Código e Exemplos](#código-e-exemplos)  
-21. [Equipe](#equipe)  
-22. [Bibliografia](#bibliografia)  
+# Table of Contents
+
+1. [Introduction](#introduction)  
+2. [The Solution — InferenceOps for Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
+3. [Technical Section: InferenceOps Step by Step with Commands](#technical-section-inferenceops-step-by-step-with-commands)  
+4. [Direct Comparison Between Models](#direct-comparison-between-models)  
+5. [Ethical Dimension](#ethical-dimension)  
+6. [Top 10 Tools for Ethical Development in Emotion AI](#top-10-tools-for-ethical-development-in-emotion-ai)  
+7. [Real Market Cases](#real-market-cases)  
+8. [Practical Case — Fraud Detection with Emotion AI](#practical-case-fraud-detection-with-emotion-ai)  
+9. [Best Implementation Practices](#best-implementation-practices)  
+10. [Social Impact](#social-impact)  
+11. [Strategic Planning for the MindfulAI Startup](#strategic-planning-for-the-mindfulai-startup)  
+12. [KPIs and Success Metrics](#kpis-and-success-metrics)  
+13. [Business Plan, Service Units and Profitability](#business-plan-service-units-and-profitability)  
+14. [Modular Service Structure in the MindfulAI Startup](#modular-service-structure-in-the-mindfulai-startup)  
+15. [Implementation Roadmap](#implementation-roadmap)  
+16. [Investor Types and PUC-Angel Program](#investor-types-and-puc-angel-program)  
+17. [FAQ (Frequently Asked Questions)](#faq-frequently-asked-questions)  
+18. [Repository Structure](#repository-structure)  
+19. [Financial Plan - MindfulAI](#financial-plan---mindfulai)  
+20. [Code and Examples](#code-and-examples)  
+21. [Team](#team)  
+22. [Bibliography](#bibliography)  
+
 
 
 <br><br>
