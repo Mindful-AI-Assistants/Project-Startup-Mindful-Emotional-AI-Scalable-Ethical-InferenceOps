@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!TIP]
 > 
->v ## Startup Links: Brazil & Beyond 🛸
+>   Startup Links: Brazil & Beyond 🛸
 > 
 > - [Startups Digital Magazine](https://startups.com.br/)
 > 
@@ -159,16 +159,16 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >    https://venturusai.com/businesses
 > 
+>  [Venmture - ]https://venturusai.com/business/1TwGzr-mindfulai/report/finances
+>  
 >
-> [Venmture - ]https://venturusai.com/business/1TwGzr-mindfulai/report/finances
+>  [Venmture -]](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
 >
->  [What is AI]nference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+>  [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
->  EU AI ACT - https://bluearrow.ai/emotion-recognition/
+>  [EU AI ACT](https://bluearrow.ai/emotion-recognition/)
 >
 >
->
-> 
 
 
 
