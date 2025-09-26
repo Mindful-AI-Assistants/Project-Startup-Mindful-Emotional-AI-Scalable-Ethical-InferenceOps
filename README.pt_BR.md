@@ -117,11 +117,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
 
 
+<br><br>
 
-> Note: This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).
-> Some data and scenarios presented in this document are fictional, intended to transform the initial concept into a viable plan and prepare it for real-world launch.
-> MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.
-
+> Nota: Este projeto foi desenvolvido como parte da disciplina de Empreendedorismo e Inovação do programa de graduação em Humanistic AI da PUC São Paulo (PUC-SP).  
+> Alguns dados e cenários apresentados neste documento são fictícios, com o objetivo de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.  
+> A MindfulAI visa construir uma solução de Emotion AI ética, escalável e inovadora, alinhada às demandas técnicas, regulatórias e sociais atuais.
 
 
 <br><br><br>
