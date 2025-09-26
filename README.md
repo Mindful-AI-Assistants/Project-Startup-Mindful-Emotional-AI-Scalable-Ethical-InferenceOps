@@ -147,7 +147,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 ##  Table of Contents
 
 
-
 1. [Introduction](#introduction)  
 2. [The Solution — InferenceOps for Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
 3. [Technical Section: InferenceOps Step by Step with Commands](#technical-section-inferenceops-step-by-step-with-commands)  
@@ -178,11 +177,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 ## 1. [Project Introduction - MindfulAI]()
 
-MindfulAI é uma startup inovadora desenvolvida no programa Humanistic AI and Data Science da PUC-SP, que visa entregar Emotion AI escalável, ética e confiável por meio do paradigma InferenceOps, que garante operação eficiente e governança em tempo real.
+Mindful Emotional AI é uma startup inovadora desenvolvida no programa Humanistic AI and Data Science da PUC-SP, que visa entregar Emotion AI escalável, ética e confiável por meio do paradigma InferenceOps, que garante operação eficiente e governança em tempo real.
 
 <br>
 
-### [Why MindfulAI is an Innovative Project ?]()
+### [Why Mindful Emotional AI is an Innovative Project ?]()
 
 MindfulAI stands out as an innovative project because it combines cutting-edge Emotion AI technology with an ethical and scalable operational model based on InferenceOps. Unlike traditional AI systems, MindfulAI integrates multimodal emotional data—voice, text, facial expressions, and physiological signals—to provide a comprehensive and real-time emotional understanding.
 
