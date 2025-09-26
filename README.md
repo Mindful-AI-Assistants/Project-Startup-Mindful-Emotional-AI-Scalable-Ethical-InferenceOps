@@ -157,7 +157,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > https://venturusai.com/business/1TwGzr-mindfulai/report/finances
 >
-> https://venturusai.com/business/1TwGzr-mindfulai/report/finances
+>    https://venturusai.com/businesses
+> 
+>
+> [Venmture - ]https://venturusai.com/business/1TwGzr-mindfulai/report/finances
 >
 >  [What is AI]nference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
@@ -165,7 +168,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >
 >
->
+> 
 
 
 
