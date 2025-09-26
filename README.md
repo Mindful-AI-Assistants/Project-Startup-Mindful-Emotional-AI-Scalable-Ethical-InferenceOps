@@ -204,110 +204,103 @@ Moreover, MindfulAI leverages active collaboration with academic partners and co
 
 <br><br>
 
-### Conceitos Fundamentais: Machine Learning e InferenceOps
 
-Machine Learning (ML) é um método pelo qual computadores aprendem padrões a partir de dados. Após o treinamento, um modelo é capaz de fazer previsões com novos dados — isso é chamado inferência (Inference).
+### Fundamental Concepts: Machine Learning and InferenceOps
 
-- **Treinamento:** Etapa intensiva onde o modelo é alimentado com dados e ajusta seus parâmetros para aprender padrões. Consome muito poder computacional e é feito pontualmente.
-- **Inferência:** Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, requer recursos computacionais mais leves, mas constantes.
+Machine Learning (ML) is a method by which computers learn patterns from data. After training, a model can make predictions with new data — this is called inference (Inference).
 
-MindfulAI aplica essa inferência para captar emoções humanas com rapidez e precisão.
+- **Training:** Intensive phase where the model is fed data and adjusts its parameters to learn patterns. It consumes a lot of computational power and is done periodically.
+- **Inference:** Continuous phase where the model uses what it learned to make real-time predictions, requiring lighter but constant computational resources.
 
-<br><br>
-
-### A Importância da Ética, Governança e Compliance em Emotion AI
-
-Emotion AI trabalha com dados pessoais e sensíveis, por isso é crucial respeitar:
-
-- **Ética:** Justiça, transparência, respeito à privacidade emocional e diversidade.
-- **Governança:** Monitoramento e controle para evitar vieses e uso indevido da IA.
-- **Compliance:** Adequação às leis e regulamentações, como GDPR e LGPD.
-
-Nosso sistema incorpora essas dimensões na operação do InferenceOps, garantindo segurança e responsabilidade.
+MindfulAI applies this inference to quickly and accurately capture human emotions.
 
 <br><br>
 
-### O que oferecemos
+### The Importance of Ethics, Governance, and Compliance in Emotion AI
 
-MindfulAI propõe uma plataforma de Emotion AI completa que oferece:
+Emotion AI deals with personal and sensitive data, so it is crucial to respect:
 
-- Análise multidimensional das emoções em múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.
-- APIs para integração com sistemas corporativos e aplicativos variados.
-- Serviços de consultoria para implantação ética e estratégica da IA emocional.
-- Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.
+- **Ethics:** Fairness, transparency, respect for emotional privacy, and diversity.
+- **Governance:** Monitoring and control to avoid biases and misuse of AI.
+- **Compliance:** Adherence to laws and regulations, such as GDPR and LGPD.
 
-<br><br>
-
-### Quem são nossos clientes
-
-Atendemos uma ampla gama de setores, incluindo:
-
-- **Atendimento ao Cliente:** Call centers que querem aumentar empatia e satisfação.
-- **Saúde Mental:** Clínicas e telemedicina para monitorar emocionalmente pacientes.
-- **Marketing Digital:** Campanhas personalizadas baseadas em respostas emocionais.
-- **Recursos Humanos:** Avaliação de clima e engajamento para melhorar produtividade.
-- **Indústria Automotiva:** Segurança via monitoramento emocional do motorista.
-- **Educação:** Avaliação do engajamento emocional e bem-estar estudantil.
+Our system incorporates these dimensions in the operation of InferenceOps, ensuring security and responsibility.
 
 <br><br>
 
-### Modelo Financeiro Simplificado
+### What We Offer
 
-- Receita mensal prevista: R$ 70.000 (assinaturas + serviços customizados).
-- Custos totais estimados: R$ 55.000 (equipe, infraestrutura, marketing).
-- Lucro potencial inicial: R$ 15.000 mensalmente.
-- Ponto de equilíbrio com receita de R$ 55.000.
+MindfulAI proposes a comprehensive Emotion AI platform that offers:
 
-<br><br>
-
-### Equipe e Operação
-
-#### Papéis fundamentais na equipe:
-
-- Cientistas de Dados em PNL, análise facial e auditiva.
-- Engenheiros de ML para deployment e otimização.
-- Especialistas em governança e compliance.
-- Desenvolvedores e DevOps para infraestrutura.
-- Analistas para monitoramento e KPIs.
+- Multidimensional emotion analysis across multiple channels (voice, text, video, physiological signals) with dashboards and reports.
+- APIs for integration with corporate systems and various applications.
+- Consulting services for ethical and strategic implementation of emotional AI.
+- Predictive solutions that anticipate emotional needs to personalize responses and actions.
 
 <br><br>
 
-### Suporte 24/7
+### Who Are Our Clients
 
-- Turnos rotativos com papéis técnicos e de monitoramento.
-- Equipe on-call para emergências.
-- Processos claros e automação para garantia da continuidade.
+We serve a wide range of sectors, including:
 
-<br><br>
-
-### Integração com Estudantes da PUC-SP
-
-Para fortalecer a operação e inovar continuamente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:
-
-- **Estágios e Trainees:** Experiência prática em projetos reais.
-- **Projetos Acadêmicos:** Parcerias com professores para desenvolver soluções conjuntas.
-- **Laboratório de Inovação:** Espaço para experimentação e mentoria.
-- **Workshops e Capacitações:** Atualização constante em tecnologias e ética.
-- **Bolsas e Incentivos:** Reconhecimento e estímulo para talentos dedicados.
-- **Comitê Consultivo Estudantil:** Participação ativa em decisões e melhorias.
-
-Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.
+- **Customer Service:** Call centers wanting to increase empathy and satisfaction.
+- **Mental Health:** Clinics and telemedicine to emotionally monitor patients.
+- **Digital Marketing:** Personalized campaigns based on emotional responses.
+- **Human Resources:** Climate and engagement evaluation to improve productivity.
+- **Automotive Industry:** Safety through emotional monitoring of drivers.
+- **Education:** Evaluation of emotional engagement and student well-being.
 
 <br><br>
 
-### Caso Inspirador
+### Simplified Financial Model
 
-Seguimos o modelo de grandes players como AWS (plataforma para inferência de IA) e startups de sucesso em Emotion AI, que aprimoram interação e saúde mental digital com governança ética e tecnologia avançada.
+- Expected monthly revenue: R$ 70,000 (subscriptions + custom services).
+- Estimated total costs: R$ 55,000 (team, infrastructure, marketing).
+- Initial potential profit: R$ 15,000 monthly.
+- Break-even point with revenue of R$ 55,000.
 
 <br><br>
 
+### Team and Operation
 
+#### Key roles in the team:
 
+- Data Scientists in NLP, facial and auditory analysis.
+- ML engineers for deployment and optimization.
+- Governance and compliance specialists.
+- Developers and DevOps for infrastructure.
+- Analysts for monitoring and KPIs.
 
+<br><br>
 
+### 24/7 Support
 
+- Rotating shifts with technical and monitoring roles.
+- On-call team for emergencies.
+- Clear processes and automation to ensure continuity.
 
+<br><br>
 
+### Integration with PUC-SP Students
+
+To strengthen operations and continuously innovate, MindfulAI integrates PUC-SP students as follows:
+
+- **Internships and Traineeships:** Practical experience on real projects.
+- **Academic Projects:** Partnerships with professors to develop joint solutions.
+- **Innovation Lab:** Space for experimentation and mentoring.
+- **Workshops and Training:** Constant updates on technologies and ethics.
+- **Scholarships and Incentives:** Recognition and encouragement for dedicated talents.
+- **Student Advisory Committee:** Active participation in decisions and improvements.
+
+This partnership promotes constant exchange between academia and the market, fostering innovation and aligned talent.
+
+<br><br>
+
+### Inspirational Case
+
+We follow the model of major players like AWS (AI inference platforms) and successful Emotion AI startups, which improve interaction and digital mental health with ethical governance and advanced technology.
+
+<br><br>
 
 
 
