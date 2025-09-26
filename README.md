@@ -168,9 +168,14 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 19. [Financial Plan - MindfulAI](#financial-plan---mindfulai)  
 20. [Code and Examples](#code-and-examples)  
 21. [Team](#team)  
-22. [Bibliography](#bibliography)  
+22. [Bibliography](#bibliography)
 
 
+<br><br>    
+
+> Note: This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).
+> Some data and scenarios presented in this document are fictional, intended to transform the initial concept into a viable plan and prepare it for real-world launch.
+> MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.
 
 <br><br>
 
