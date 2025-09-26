@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!TIP]
 > 
->v ## Startup Links: Brazil & Beyond 🛸
+>   Startup Links: Brazil & Beyond 🛸
 > 
 > - [Startups Digital Magazine](https://startups.com.br/)
 > 
