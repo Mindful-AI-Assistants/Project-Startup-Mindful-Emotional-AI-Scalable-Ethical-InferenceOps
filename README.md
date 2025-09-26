@@ -37,35 +37,55 @@
 # <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ]() </p>
  
 -->
+<br><br>
 
-
-
-
-
-
-
-
-
+ ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
 <br>
 
-##   <p align="center"> [Humanistic]() Data Science and Artificial Intelligence (CDIA): [**Ethical Entrepreneurships**]()
-
-
-<br><br>
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
 
-<br><br>
+
+https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
+
+##### 🎶  ***Creation  by Fabi***  🖤
 
 
+
+
+<!--===  VIVALDI
 https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 ###### 🎶  ***[Vivaldi - The Four Seasons 'Winter']()  ⚡️ Art by Fabi***  
+-->
 
+
+
+<!--
+<p align="center">
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
+-->
+
+<br><br>
+
+#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
+
+  <br><br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+<br><br>
+
+
+
+<!--
+https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
+
+###### 🎶  ***[Vivaldi - The Four Seasons 'Winter']()  ⚡️ Art by Fabi***  
+-->
 
 
 <!--Confidentiality Statement-->
