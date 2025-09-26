@@ -133,7 +133,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!IMPORTANT]
 >
->  ##  Startup Links in this Projec: Brazil & Beyond 🛸
+>  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
 > - [Bossa Invest Planejamento Estrateggico](https://bossainvest.com)
 >  
