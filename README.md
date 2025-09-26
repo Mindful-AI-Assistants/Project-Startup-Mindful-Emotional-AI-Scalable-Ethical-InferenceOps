@@ -102,24 +102,21 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-> [!IMPORTANT]
+> [!TIP]
 >
-> ⚠️ Heads Up 
+>  ### Founders and Partners
 >
-> * Projects and deliverables may be made [publicly available]() whenever possible.
+> * [**Founder:**]() Fabiana ⚡️ Campanari  
 >
-> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+> * **Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
+>
+> * Open to [students]() from the Humanistic AI and Data Science program at [PUC-SP]() 
+>
+> * [**Supporters:**]()Reitor/Director/Prof- thi session is not readyb yet...
 >
 > *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
->
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
->
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
->
->
 
 
-#  
 
 <br><br><br>
 
