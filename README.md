@@ -148,27 +148,37 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 
 
-
-
 <br><br><br>
-
-
 
 
 ##  Table of Contents
 
 
+1. [Introdução](#introdução)  
+2. [A Solução — InferenceOps para Emotion AI](#a-solução-inferenceops-para-emotion-ai)  
+3. [Seção Técnica: InferenceOps Passo a Passo com Comandos](#seção-técnica-inferenceops-passo-a-passo-com-comandos)  
+4. [Comparação Direta entre Modelos](#comparação-direta-entre-modelos)  
+5. [Dimensão Ética](#dimensão-ética)  
+6. [Top 10 Ferramentas para Desenvolvimento Ético em Emotion AI](#top-10-ferramentas-para-desenvolvimento-ético-em-emotion-ai)  
+7. [Casos Reais de Mercado](#casos-reais-de-mercado)  
+8. [Caso Prático — Detecção de Fraude com Emotion AI](#caso-prático-detecção-de-fraude-com-emotion-ai)  
+9. [Boas Práticas de Implementação](#boas-práticas-de-implementação)  
+10. [Impacto Social](#impacto-social)  
+11. [Planejamento Estratégico para a Startup MindfulAI](#planejamento-estratégico-para-a-startup-mindfulai)  
+12. [KPIs e Métricas de Sucesso](#kpis-e-métricas-de-sucesso)  
+13. [Plano de Negócios, Unidades de Serviço e Rentabilidade](#plano-de-negócios-unidades-de-serviço-e-rentabilidade)  
+14. [Estrutura Modular de Serviços na Startup MindfulAI](#estrutura-modular-de-serviços-na-startup-mindfulai)  
+15. [Roadmap de Implementação](#roadmap-de-implementação)  
+16. [Tipos de Investidores e Programa PUC-Angel](#tipos-de-investidores-e-programa-puc-angel)  
+17. [FAQ (Perguntas Frequentes)](#faq-perguntas-frequentes)  
+18. [Estrutura do Repositório](#estrutura-do-repositório)  
+19. [Plano Financeiro - MindfulAI](#plano-financeiro---mindfulai)  
+20. [Código e Exemplos](#código-e-exemplos)  
+21. [Equipe](#equipe)  
+22. [Bibliografia](#bibliografia)  
 
 
-
-
-
-
-
-
-
-
-<br><br><br>
+<br><br>
 
 
 
