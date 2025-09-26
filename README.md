@@ -157,7 +157,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > https://venturusai.com/business/1TwGzr-mindfulai/report/finances
 >
->    https://venturusai.com/businesses
+> https://venturusai.com/businesses
 > 
 >  [Venmture - ]https://venturusai.com/business/1TwGzr-mindfulai/report/finances
 >  
@@ -168,8 +168,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  [EU AI ACT](https://bluearrow.ai/emotion-recognition/)
 >
+> [Bossa Invest Planejamento Estrateggico](https:/ /bossainvest.com)
 >
-
+>
 
 
 
