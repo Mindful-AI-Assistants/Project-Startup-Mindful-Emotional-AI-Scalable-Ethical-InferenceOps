@@ -108,13 +108,19 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * [**Founder:**]() Fabiana ⚡️ Campanari  
 >
-> * **Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
+> * [**Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
 >
 > * Open to [students]() from the Humanistic AI and Data Science program at [PUC-SP]() 
 >
 > * [**Supporters:**]()Reitor/Director/Prof- thi session is not readyb yet...
 >
 > *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+
+
+
+> Note: This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).
+> Some data and scenarios presented in this document are fictional, intended to transform the initial concept into a viable plan and prepare it for real-world launch.
+> MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.
 
 
 
@@ -176,6 +182,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 <br><br>
+
+
 
 
 
