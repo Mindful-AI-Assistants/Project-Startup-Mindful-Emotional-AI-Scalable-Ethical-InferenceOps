@@ -199,7 +199,7 @@ Moreover, MindfulAI leverages active collaboration with academic partners and co
 
 > [!IMPORTANT]
 >
-> Esse projeto posiciona MindfulAI como uma startup vanguardista, capaz de transformar a relação entre humanos e máquinas por meio da inteligência emocional artificial ética, escalável e governada.
+> This project positions MindfulAI as a cutting-edge startup capable of transforming the relationship between humans and machines through ethical, scalable, and governed artificial emotional intelligence.
 >
 
 <br><br>
