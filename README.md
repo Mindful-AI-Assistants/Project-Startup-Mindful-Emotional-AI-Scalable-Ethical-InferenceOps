@@ -323,7 +323,8 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br>
   
-[Examples]():
+
+### -  [Traditional Examples]():
   
   - A bank with a basic fraud model only for credit cards.
   - An e-commerce with a simple product recommendation model.
@@ -334,7 +335,7 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br>
 
-### [Modern AI (present)]()
+- ### [Modern AI (Today)]()
 
 <br>
 
@@ -343,7 +344,7 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br>
 
-### [If each team runs its own model]():
+### - [If each team runs its own model]():
   
   - Costs skyrocket.  
   - Results become inconsistent.  
