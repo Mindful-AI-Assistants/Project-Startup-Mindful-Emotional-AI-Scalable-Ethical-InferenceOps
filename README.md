@@ -410,12 +410,27 @@ flowchart TD
     Z --> M[Centralized Model / Shared Infrastructure]
 ```
 
+<br>
+
+#
+
+<br>
+
+
+### <p align="center"> [Multimodal]() Data Flow
+
 <br><br>
 
-
-
-
-
+```mermaid
+flowchart LR
+    A[Voice] --> B[Emotion Analysis]
+    C[Text] --> B
+    D[Facial Expressions] --> B
+    E[Physiological Signals] --> B
+    B --> F[Real-Time Inference]
+    F --> G[Empathetic Decisions and Interactions]
+    G --> H[Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
+```
 
 
 
