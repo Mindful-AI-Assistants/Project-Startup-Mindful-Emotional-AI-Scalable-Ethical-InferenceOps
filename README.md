@@ -132,7 +132,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 1. [Introduction](#introduction)  
 2. [The Solution — InferenceOps for Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
 3. [Technical Section: InferenceOps Step by Step with Commands](#technical-section-inferenceops-step-by-step-with-commands)  
-4. [Direct Comparison Between Models](#direct-comparison-between-models)  
+4. [Direct Comparison Between Models -  Diagrams](#direct-comparison-between-models)  
 5. [Ethical Dimension](#ethical-dimension)  
 6. [Top 10 Tools for Ethical Development in Emotion AI](#top-10-tools-for-ethical-development-in-emotion-ai)  
 7. [Real Market Cases](#real-market-cases)  
@@ -373,6 +373,52 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 
 <br><br>
+
+
+## 4. [Direct Comparison Between Models -  Diagrams]()
+
+<br>
+
+### - [Before (Traditional ML)]()
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> B[Own Model]
+    C[Marketing Team] --> D[Own Model]
+    E[Logistics Team] --> F[Own Model]
+```
+
+
+<br>
+
+#
+
+<br>
+
+
+### -  [After (InferenceOps)]()
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> Z[InferenceOps]
+    C[Marketing Team] --> Z
+    E[Logistics Team] --> Z
+    Z --> M[Centralized Model / Shared Infrastructure]
+```
+
+<br><br>
+
+
+
+
+
+
+
+
 
 
 
