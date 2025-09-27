@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 # 1. [Introdução do Projeto - Mindful Emotional AI]()
 
 
-[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa *IA Humanística e Ciência de Dados* da PUC-SP. Sua missão é entregar Emotion AI escalável, ética e confiável por meio do paradigma **InferenceOps**, garantindo operações eficientes e governança em tempo real.
+[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa [*IA Humanística e Ciência de Dados* da PUC-SP. Sua missão é entregar Emotion AI escalável, ética e confiável por meio do paradigma **InferenceOps**](), garantindo operações eficientes e governança em tempo real.
 
 
 <br>
@@ -159,7 +159,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 [**Mindful Emotional AI**]() está redefinindo o Emotion AI ao combinar dados multimodais — voz, texto, expressões faciais e sinais fisiológicos — em inteligência emocional em tempo real.
-Impulsionada por [**InferenceOps**](), oferece soluções escaláveis, transparentes e conformes com regulamentações como GDPR e EU AI Act.
+Impulsionada por [**InferenceOps**](), oferece soluções escaláveis, transparentes em conformidade com regulamentações como GDPR ((Regulamento Geral de Proteção de Dados da União Europeia0 e EU AI Act (Regulamento Europeu para IA Etica, Segura e Transparente).
 
 Com arquitetura modular adaptável a setores que vão da saúde às finanças, e apoiada por colaboração acadêmica e inovação contínua, [**Mindfu Emotional AI conecta IA avançada com impacto ético e social do mundo real.**]()
 
