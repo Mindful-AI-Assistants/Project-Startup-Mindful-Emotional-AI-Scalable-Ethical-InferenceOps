@@ -301,12 +301,40 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br><br>
 
-
 # 2. [O Problema:]() Emotion AI Tradicional vs Emotion AI Moderna
-   
-- [Tradicional:]() Isolada no canal, redundante em infraestrutura, baixa governança e escalabilidade.
 
-- [Moderna::]()  Multimodal, integrada, porém demandante em infraestrutura e governança sem solução centralizada.
+- [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
+
+- [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
+
+<br>
+  
+
+### - [Exemplos AI Tradicionais]():
+  
+  - Um banco com um modelo básico de fraude apenas para cartões de crédito.
+  - Um e-commerce com um modelo simples de recomendação de produtos.
+
+<br>
+
+#
+
+<br>
+
+- ### [AI Moderna (Atual)]()
+
+<br>
+
+- Modelos são [**complexos, pesados e multimodais**]() (texto, imagem, áudio).  
+- Requerem GPUs, clusters e monitoramento contínuo.
+
+<br>
+
+### - [Se cada equipe executa seu próprio modelo]():
+  
+  - Custos disparam.  
+  - Resultados tornam-se inconsistentes.  
+  - Auditoria se torna impossível.
 
 
 <br><br>
