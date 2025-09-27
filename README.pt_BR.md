@@ -468,23 +468,27 @@ graph TD
 # 22. [Bibliografia e Links]()
 
 
-[-]() Christensen, C. (1997). "O Dilema do Inovador". Harvard Business Review Press.
+[-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
 
-[-]() União Europeia. (2024). Regulamento da UE sobre IA — Regulação da Inteligência Artificial.
+[-]() European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
 
-[-]() Floridi, L. (2019). A Ética da Inteligência Artificial. Oxford University Press.
+[-]() Floridi, L. (2019). The Ethics of Artificial Intelligence. Oxford University Press.
 
-[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). Aprendizagem Profunda. MIT Press.
+[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 
-[-]() Jordan, M. & Mitchell, T. (2015). Aprendizado de máquina: Tendências, perspectivas e perspectivas futuras. Science, 349(6245).
+[-]() Jordan, M. & Mitchell, T. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245).
 
-[-]() Porter, M. E. (1996). "O que é Estratégia?". Harvard Business Review, 74(6), 61-78.
+[-]() Porter, M. E. (1996). "What is Strategy?". Harvard Business Review, 74(6), 61-78.
 
-[-]() Porter, M. E. (1985). "Vantagem Competitiva: Criando e Mantendo um Desempenho Superior". Free Press.
+[-]() Porter, M. E. (1985). "Competitive Advantage: Creating and Sustaining Superior Performance". Free Press.
 
-[-]() TitanML. (2025). Motor de Inferência TitanML: IA eficiente em escala. Recuperado de [https://www.titanml.co](https://www.titanml.co)
+[-]() TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
 
-[-]() Diversos artigos sobre casos de inovação no Brasil, estratégias de negócios e disrupções de mercado.
+[-]() THIEL, Peter; MASTERS, Blake. Zero to One: notas sobre startups, ou como construir o futuro. 1. ed. Rio de Janeiro: Objetiva, 2014.
+
+[-]()  THIEL, Peter; MASTERS, Blake. Zero to One: notes on startups, or how to build the future. 1st ed. New York: Crown Business, 2014.
+
+[-]() Various articles on Brazilian innovation cases, business strategies, and market disruptions.
 
 
 <br>
