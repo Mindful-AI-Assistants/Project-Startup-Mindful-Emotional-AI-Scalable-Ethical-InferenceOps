@@ -515,6 +515,10 @@ graph TD
 
 [-]() TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
 
+[-]() THIEL, Peter; MASTERS, Blake. Zero to One: notas sobre startups, ou como construir o futuro. 1. ed. Rio de Janeiro: Objetiva, 2014.
+
+[-]()  THIEL, Peter; MASTERS, Blake. Zero to One: notes on startups, or how to build the future. 1st ed. New York: Crown Business, 2014.
+
 [-]() Various articles on Brazilian innovation cases, business strategies, and market disruptions.
 
 
