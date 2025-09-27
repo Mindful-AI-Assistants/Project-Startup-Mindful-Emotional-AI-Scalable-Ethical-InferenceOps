@@ -55,6 +55,9 @@
 
 
 
+<!-- VIDEO -->
+
+
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ##### 🎶  ***Creation  by Fabi***  🖤
@@ -69,20 +72,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 -->
 
 
-
-<!--
-<p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
--->
-
 <br><br>
 
-#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
-  <br><br>
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br><br>
 
@@ -97,7 +91,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <!--Confidentiality Statement-->
 
-<br><br>
+
 
 
 
@@ -117,17 +111,19 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-<br><br><br>
+<br>
 
 <!--End-->
+#
 
+<br><br>
 
 
 > [!IMPORTANT]
 >
 >  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
-> - [Bossa Invest Planejamento Estrateggico](https://bossainvest.com)
+> - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
 > - [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >  
@@ -140,7 +136,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 
 
-<br><br><br>
+<br><br>
 
 
 ##  Table of Contents
@@ -187,7 +183,7 @@ Mindful Emotional AI é uma startup inovadora desenvolvida no programa Humanisti
 
 ### [Why Mindful Emotional AI is an Innovative Project ?]()
 
-MindfulAI stands out as an innovative project because it combines cutting-edge Emotion AI technology with an ethical and scalable operational model based on InferenceOps. Unlike traditional AI systems, MindfulAI integrates multimodal emotional data—voice, text, facial expressions, and physiological signals—to provide a comprehensive and real-time emotional understanding.
+MindfulAI stands out as an innovative project because it combines cutting-edge Emotion AI technology with an ethical and scalable operational model based on InferenceOps. Unlike traditional AI systems, MindfulAI integrates multimodal emotional data—voice, text, facial expressions, and physiological signals to provide a comprehensive and real-time emotional understanding.
 
 The project also prioritizes governance, transparency, and compliance with international regulations like GDPR and the EU AI Act, ensuring responsible AI use. Its modular architecture allows custom solutions for various sectors, from healthcare to finance, reinforcing its potential for broad impact.
 Moreover, MindfulAI leverages active collaboration with academic partners and continuous innovation cycles, positioning itself as a pioneering solution that bridges advanced AI capabilities with real-world ethical and social challenges.
