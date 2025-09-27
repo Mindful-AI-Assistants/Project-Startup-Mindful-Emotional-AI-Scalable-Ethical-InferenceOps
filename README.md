@@ -315,19 +315,19 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br><br>
 
-# 2. [The Problem:]() Traditional Emotion AI vs Modern Emotion AI
+# 2. [O Problema:]() Emotion AI Tradicional vs Emotion AI Moderna
 
-- [Traditional:]() Isolated per channel, redundant in infrastructure, with low governance and scalability.
+- [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
 
-- [Modern:]() Multimodal, integrated, but demanding in terms of infrastructure and governance without a centralized solution.
+- [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
 
 <br>
   
 
-### -  [Traditional Examples]():
+### - [Exemplos Tradicionais]():
   
-  - A bank with a basic fraud model only for credit cards.
-  - An e-commerce with a simple product recommendation model.
+  - Um banco com um modelo básico de fraude apenas para cartões de crédito.
+  - Um e-commerce com um modelo simples de recomendação de produtos.
 
 <br>
 
@@ -335,25 +335,26 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br>
 
-- ### [Modern AI (Today)]()
+- ### - [AI Moderna (Atual)]()
 
 <br>
 
-- Models are [**complex, heavy, and multimodal**]() (text, image, audio).  
-- They require GPUs, clusters, and continuous monitoring.
+- Modelos são [**complexos, pesados e multimodais**]() (texto, imagem, áudio).  
+- Requerem GPUs, clusters e monitoramento contínuo.
 
 <br>
 
-### - [If each team runs its own model]():
+### - [Se cada equipe executa seu próprio modelo]():
   
-  - Costs skyrocket.  
-  - Results become inconsistent.  
-  - Auditing becomes impossible.
+  - Custos disparam.  
+  - Resultados tornam-se inconsistentes.  
+  - Auditoria se torna impossível.
+
 
 <br><br>
 
 
-# 3. [The Solution:]() InferenceOps for Emotion AI
+# 3. [The Solution:]() InferenceOps for Emotional AI
 
 ### [InferenceOps]() centralizes and operationalizes the inference of emotional models, promoting scalability, auditable governance, cost reduction, and regulatory compliance, providing:
 
