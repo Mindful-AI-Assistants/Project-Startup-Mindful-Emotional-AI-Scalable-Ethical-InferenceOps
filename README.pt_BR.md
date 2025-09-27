@@ -315,29 +315,50 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 <br><br>
 
 
-[-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
-
-[-]() European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
-
-[-]() Floridi, L. (2019). The Ethics of Artificial Intelligence. Oxford University Press.
-
-[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-
-[-]() Jordan, M. & Mitchell, T. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245).
-
-[-]() Porter, M. E. (1996). "What is Strategy?". Harvard Business Review, 74(6), 61-78.
-
-[-]() Porter, M. E. (1985). "Competitive Advantage: Creating and Sustaining Superior Performance". Free Press.
-
-[-]() TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
-
-[-]() Various articles on Brazilian innovation cases, business strategies, and market disruptions.
+# 22. [Bibliografia e Links]()
 
 
+[-]() Christensen, C. (1997). "O Dilema do Inovador". Harvard Business Review Press.
+
+[-]() União Europeia. (2024). Regulamento da UE sobre IA — Regulação da Inteligência Artificial.
+
+[-]() Floridi, L. (2019). A Ética da Inteligência Artificial. Oxford University Press.
+
+[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). Aprendizagem Profunda. MIT Press.
+
+[-]() Jordan, M. & Mitchell, T. (2015). Aprendizado de máquina: Tendências, perspectivas e perspectivas futuras. Science, 349(6245).
+
+[-]() Porter, M. E. (1996). "O que é Estratégia?". Harvard Business Review, 74(6), 61-78.
+
+[-]() Porter, M. E. (1985). "Vantagem Competitiva: Criando e Mantendo um Desempenho Superior". Free Press.
+
+[-]() TitanML. (2025). Motor de Inferência TitanML: IA eficiente em escala. Recuperado de [https://www.titanml.co](https://www.titanml.co)
+
+[-]() Diversos artigos sobre casos de inovação no Brasil, estratégias de negócios e disrupções de mercado.
+
+
+<br>
+
+
+## [22a.]() Links de Referências Técnicas, Normativas e Acadêmicas
+
+
+<br>
+
+1-  [https://contaazul.com/blog/planejamento-estrategico-startups/](https://contaazul.com/blog/planejamento-estrategico-startups/)
+
+2-  [https://bossainvest.com/planejamento-estrategico/](https://bossainvest.com/planejamento-estrategico/)
+  
+3- [https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/](https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/)
+
+4- [https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/](https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/)
+ 
+5- [https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/](https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/)
+  
+6- [https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/](https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/)
 
 
 <br><br>
-
 
 
 ## 💌 [Let the data flow... Ping Us]()
