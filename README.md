@@ -422,18 +422,6 @@ flowchart TD
 <br><br>
 
 ```mermaid
-flowchart LR
-    A[Voice] --> B[Emotion Analysis]
-    C[Text] --> B
-    D[Facial Expressions] --> B
-    E[Physiological Signals] --> B
-    B --> F[Real-Time Inference]
-    F --> G[Empathetic Decisions and Interactions]
-    G --> H[Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
-```
-
-
-```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
 flowchart LR
     A[🎤 Voice] --> B[🧠 Emotion Analysis]
@@ -446,19 +434,6 @@ flowchart LR
 ```
 
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
-flowchart LR
-    A[Voice] --> B[Emotion Analysis]
-    C[Text] --> B
-    D[Facial Expressions] --> B
-    E[Physiological Signals] --> B
-    B --> F[Real-Time Inference]
-    F --> G[Empathetic Decisions and Interactions]
-    G --> H[Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
-```
-
-
 <br>
 
 #
@@ -466,7 +441,7 @@ flowchart LR
 <br>
 
 
-### <p align="center" [InferenceOps]() – Centralization and Governance
+### <p align="center"> [InferenceOps]() – Centralization and Governance
 
 <br><br>
 
