@@ -165,19 +165,21 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 ## 1. [Project Introduction - Mindful Emotional AI]()
 
 
-[**Mindful Emotional AI**]() is an innovative startup developed within the *Humanistic AI and Data Science* program at PUC-SP. Its mission is to deliver scalable, ethical, and trustworthy Emotion AI through the [**InferenceOps**]() paradigm, ensuring efficient operations and real-time governance.
+# 1. [Project Introduction - Mindful Emotional AI]()
 
+[**Mindful Emotional AI**]() is an innovative startup developed within the [*Humanistic AI and Data Science* program at PUC-SP](). Its mission is to provide a scalable, ethical, and reliable Emotional AI through the [**InferenceOps**]() paradigm, ensuring operational efficiency and real-time governance.
 
 <br>
 
-## [Why Mindful Emotional AI is an Innovative Project ?]()
+## [Why is Mindful Emotional AI Innovative?]()
 
+[**Mindful Emotional AI**]() is transforming the way we understand Emotional AI by integrating multiple types of data—voice, text, facial expressions, and physiological signals—to perform [**real-time inference**](), meaning it interprets emotions immediately and contextually.
 
-[**Mindful Emotional AI**]() is redefining Emotion AI by combining multimodal data—voice, text, facial expressions, and physiological signals—into real-time emotional intelligence.
-Powered by [**InferenceOps**](), it delivers scalable, transparent, and regulation-compliant solutions aligned with [**GDPR**]() (General Data Protection Regulation of the European Union) and [**EU AI Act**]() (European Regulation for Ethical, Safe, and Transparent AI)
+Based on the [**InferenceOps**]() paradigm, which involves deployment, monitoring, and automated adjustment of AI models to maintain performance and efficiency, the startup delivers [**scalable**]() solutions capable of growing and handling increasingly large volumes of data and users without loss of quality or performance, while remaining transparent and compliant with international regulations such as the [**GDPR**]() (General Data Protection Regulation of the European Union) and the [**EU AI Act**]() (European regulatory framework for ethical, safe, and transparent AI).
 
-With a modular architecture adaptable to industries from healthcare to finance, and backed by academic collaboration and continuous innovation, [**Mindfu Emotional AI bridges advanced AI with real-world ethical and social impact.**]()
+Its [**modular architecture**]() allows components to be adapted or replaced according to the needs of different sectors, such as healthcare, finance, advertising, mental health, automotive, and education. Supported by academic partnerships and continuous innovation cycles, [**Mindful Emotional AI**]() connects cutting-edge technology with real social and ethical impacts.
 
+By applying techniques capable of recognizing and interpreting human emotions from multiple data sources, the startup enables more empathetic and personalized interactions, enhances user experience, and strengthens conscious and responsible decision-making across contexts that directly affect everyday life.
 
 
 <br><br>
@@ -198,7 +200,7 @@ Machine Learning (ML) is a method by which computers learn patterns from data. A
 - **Training:** Intensive phase where the model is fed data and adjusts its parameters to learn patterns. It consumes a lot of computational power and is done periodically.
 - **Inference:** Continuous phase where the model uses what it learned to make real-time predictions, requiring lighter but constant computational resources.
 
-MindfulAI applies this inference to quickly and accurately capture human emotions.
+Mindful Emotional AI applies this inference to quickly and accurately capture human emotions.
 
 
 <br><br>
