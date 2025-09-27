@@ -28,22 +28,14 @@
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 
 
- <br><br>
-  <!--  START HEADER   -->
 
-
-
- <!--
-# <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ]() </p>
- 
--->
 <br><br>
 
 
  ### <p align="center"> ✯ **[Project Startup]()** ✯
 
 
-<br><br>
+<br><br><br>
 
 
 <h1 align="center">  $$\Huge {\textbf{\color{cyan} Mindful Emotional AI:} \space \textbf{\color{white} Scalable, Ethical and InferenceOps} \space \textbf{\color{cyan} ॐ}}$$ 
@@ -51,8 +43,6 @@
 
 
 <br><br>
-
-
 
 
 <!-- VIDEO -->
@@ -128,9 +118,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > - [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >  
 > - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
->
->
->
 > 
 > -  [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
@@ -298,12 +285,12 @@ We serve a wide range of sectors, including:
 
 To strengthen operations and continuously innovate, MindfulAI integrates PUC-SP students as follows:
 
-- **Internships and Traineeships:** Practical experience on real projects.
-- **Academic Projects:** Partnerships with professors to develop joint solutions.
-- **Innovation Lab:** Space for experimentation and mentoring.
-- **Workshops and Training:** Constant updates on technologies and ethics.
-- **Scholarships and Incentives:** Recognition and encouragement for dedicated talents.
-- **Student Advisory Committee:** Active participation in decisions and improvements.
+- [**Internships and Traineeships:**]() Practical experience on real projects.
+- [**Academic Projects:**]() Partnerships with professors to develop joint solutions.
+- [**Innovation Lab:**]() Space for experimentation and mentoring.
+- [**Workshops and Training:**]() Constant updates on technologies and ethics.
+- [**Scholarships and Incentives:**]() Recognition and encouragement for dedicated talents.
+- [**Student Advisory Committee:**]() Active participation in decisions and improvements.
 
 This partnership promotes constant exchange between academia and the market, fostering innovation and aligned talent.
 
