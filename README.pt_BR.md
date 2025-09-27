@@ -101,105 +101,102 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-
 > [!TIP]
 >
->  ### Founders and Partners
+>  ### Fundadores e Parceiros
 >
-> * [**Founder:**]() Fabiana ⚡️ Campanari  
+> * [**Fundadora:**]() Fabiana ⚡️ Campanari  
 >
-> * [**Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
+> * [**Parceiros:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
 >
-> * Open to [students]() from the Humanistic AI and Data Science program at [PUC-SP]() 
+> * Aberto a [estudantes]() do programa de IA Humanística e Ciência de Dados da [PUC-SP]() 
 >
-> * [**Supporters:**]()Reitor/Director/Prof- thi session is not readyb yet...
+> * [**Apoiadores:**]()Reitor/Diretor/Prof- esta sessão ainda não está pronta...
 >
-> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * Todas as atividades cumprem as [**diretrizes acadêmicas e éticas da PUC-SP**]().
 
 
-<br><br>
 
-> Nota: Este projeto foi desenvolvido como parte da disciplina de Empreendedorismo e Inovação do programa de graduação em Humanistic AI da PUC São Paulo (PUC-SP).  
-> Alguns dados e cenários apresentados neste documento são fictícios, com o objetivo de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.  
-> A MindfulAI visa construir uma solução de Emotion AI ética, escalável e inovadora, alinhada às demandas técnicas, regulatórias e sociais atuais.
-
-
-<br><br><br>
+<br>
 
 <!--End-->
+#
+
+<br><br>
 
 
 > [!IMPORTANT]
 >
->  ###  Startup Links in this Projec: Brazil & Beyond 🛸
+>  ### Links das Startups neste Projeto: Brasil e Além 🛸
 > 
-> - [Bossa Invest Planejamento Estrateggico](https://bossainvest.com)
+> - [Planejamento Estratégico Bossa Invest](https://bossainvest.com)
 >  
-> - [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
+> - [EU AI ACT - Práticas Emocionais Proibidas em IA](https://bluearrow.ai/emotion-recognition/)
 >  
 > - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
 >
 >
 >
 > 
-> -  [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+> -  [O que é AIference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
 
-
-<br><br><br>
-
-
-##  Índice de Conteúdos
-
-
-1. [Introdução](#introducao)  
-2. [A Solução — InferenceOps para Emotion AI](#a-solucao-inferenceops-para-emotion-ai)  
-3. [Seção Técnica: InferenceOps Passo a Passo com Comandos](#secao-tecnica-inferenceops-passo-a-passo-com-comandos)  
-4. [Comparação Direta Entre Modelos](#comparacao-direta-entre-modelos)  
-5. [Dimensão Ética](#dimensao-etica)  
-6. [Top 10 Ferramentas para Desenvolvimento Ético em Emotion AI](#top-10-ferramentas-para-desenvolvimento-etico-em-emotion-ai)  
-7. [Casos Reais de Mercado](#casos-reais-de-mercado)  
-8. [Caso Prático — Detecção de Fraude com Emotion AI](#caso-pratico-deteccao-de-fraude-com-emotion-ai)  
-9. [Melhores Práticas de Implementação](#melhores-praticas-de-implementacao)  
-10. [Impacto Social](#impacto-social)  
-11. [Planejamento Estratégico da Startup MindfulAI](#planejamento-estrategico-da-startup-mindfulai)  
-12. [KPIs e Métricas de Sucesso](#kpis-e-metricas-de-sucesso)  
-13. [Plano de Negócios, Unidades de Serviço e Rentabilidade](#plano-de-negocios-unidades-de-servico-e-rentabilidade)  
-14. [Estrutura Modular de Serviços da Startup MindfulAI](#estrutura-modular-de-servicos-da-startup-mindfulai)  
-15. [Roteiro de Implementação](#roteiro-de-implementacao)  
-16. [Tipos de Investidores e Programa PUC-Angel](#tipos-de-investidores-e-programa-puc-angel)  
-17. [FAQ (Perguntas Frequentes)](#faq-perguntas-frequentes)  
-18. [Estrutura do Repositório](#estrutura-do-repositorio)  
-19. [Plano Financeiro - MindfulAI](#plano-financeiro---mindfulai)  
-20. [Código e Exemplos](#codigo-e-exemplos)  
-21. [Equipe](#equipe)  
-22. [Bibliografia](#bibliografia)
-
-
-<br><br>    
-
-> Nota: Este projeto foi desenvolvido como parte da disciplina de Empreendedorismo e Inovação no curso de graduação em Humanistic AI da PUC São Paulo (PUC-SP).  
-> Alguns dados e cenários apresentados neste documento são ficcionais, com o objetivo de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.  
-> A MindfulAI busca construir uma solução de Emotion AI ética, escalável e inovadora, alinhada às demandas técnicas, regulatórias e sociais atuais.
 
 <br><br>
 
 
-## 1. [Introdução ao Projeto - Mindful Emotional AI]()
+##  Sumário
 
 
-[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa *Humanistic AI and Data Science* da PUC-SP. Sua missão é entregar Emotion AI escalável, ética e confiável por meio do paradigma **InferenceOps**, garantindo operações eficientes e governança em tempo real.
+1. [Introdução](#introduction)  
+2. [A Solução — InferenceOps para Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
+3. [Seção Técnica: InferenceOps Passo a Passo com Comandos](#technical-section-inferenceops-step-by-step-with-commands)  
+4. [Comparação Direta Entre Modelos](#direct-comparison-between-models)  
+5. [Dimensão Ética](#ethical-dimension)  
+6. [Top 10 Ferramentas para Desenvolvimento Ético em Emotion AI](#top-10-tools-for-ethical-development-in-emotion-ai)  
+7. [Casos Reais de Mercado](#real-market-cases)  
+8. [Caso Prático — Detecção de Fraudes com Emotion AI](#practical-case-fraud-detection-with-emotion-ai)  
+9. [Melhores Práticas de Implementação](#best-implementation-practices)  
+10. [Impacto Social](#social-impact)  
+11. [Planejamento Estratégico para a Startup MindfulAI](#strategic-planning-for-the-mindfulai-startup)  
+12. [KPIs e Métricas de Sucesso](#kpis-and-success-metrics)  
+13. [Plano de Negócios, Unidades de Serviço e Rentabilidade](#business-plan-service-units-and-profitability)  
+14. [Estrutura Modular de Serviços na Startup MindfulAI](#modular-service-structure-in-the-mindfulai-startup)  
+15. [Roteiro de Implementação](#implementation-roadmap)  
+16. [Tipos de Investidores e Programa PUC-Angel](#investor-types-and-puc-angel-program)  
+17. [Perguntas Frequentes (FAQ)](#faq-frequently-asked-questions)  
+18. [Estrutura do Repositório](#repository-structure)  
+19. [Plano Financeiro - MindfulAI](#financial-plan---mindfulai)  
+20. [Código e Exemplos](#code-and-examples)  
+21. [Equipe](#team)  
+22. [Bibliografia](#bibliography)
+
+
+<br><br>    
+
+> Nota: Este projeto foi desenvolvido como parte da disciplina de Empreendedorismo e Inovação do programa de graduação em IA Humanística na PUC São Paulo (PUC-SP).
+> Alguns dados e cenários apresentados neste documento são fictícios, com a intenção de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.
+> MindfulAI visa construir uma solução de Emotion AI ética, escalável e inovadora alinhada às demandas técnicas, regulatórias e sociais atuais.
+
+<br><br>
+
+
+## 1. [Introdução do Projeto - Mindful Emotional AI]()
+
+
+[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa *IA Humanística e Ciência de Dados* da PUC-SP. Sua missão é entregar Emotion AI escalável, ética e confiável por meio do paradigma **InferenceOps**, garantindo operações eficientes e governança em tempo real.
 
 
 <br>
 
-### [Por que Mindful Emotional AI é um Projeto Inovador?]()
+## [Por que Mindful Emotional AI é um Projeto Inovador?]()
 
 
-[**Mindful Emotional AI**]() está redefinindo a Emotion AI ao combinar dados multimodais — voz, texto, expressões faciais e sinais fisiológicos — em inteligência emocional em tempo real.  
-Impulsionada pelo [**InferenceOps**](), entrega soluções escaláveis, transparentes e em conformidade com regulamentações como o GDPR e o EU AI Act.
+[**Mindful Emotional AI**]() está redefinindo o Emotion AI ao combinar dados multimodais — voz, texto, expressões faciais e sinais fisiológicos — em inteligência emocional em tempo real.
+Impulsionada por [**InferenceOps**](), oferece soluções escaláveis, transparentes e conformes com regulamentações como GDPR e EU AI Act.
 
-Com uma arquitetura modular adaptável a indústrias que vão da saúde às finanças, e apoiada por colaboração acadêmica e ciclos contínuos de inovação, [**Mindful Emotional AI conecta IA avançada com impacto ético e social no mundo real.**]()
+Com arquitetura modular adaptável a setores que vão da saúde às finanças, e apoiada por colaboração acadêmica e inovação contínua, [**Mindfu Emotional AI conecta IA avançada com impacto ético e social do mundo real.**]()
+
 
 
 <br><br>
@@ -207,119 +204,122 @@ Com uma arquitetura modular adaptável a indústrias que vão da saúde às fina
 
 > [!IMPORTANTE]
 >
-> Este projeto posiciona a MindfulAI como uma startup de ponta, capaz de transformar a relação entre humanos e máquinas por meio de uma inteligência emocional artificial ética, escalável e governada.
+> Este projeto posiciona a MindfulAI como uma startup de ponta capaz de transformar a relação entre humanos e máquinas por meio de inteligência emocional artificial ética, escalável e governada.
 >
 
 <br><br>
 
 
-### [Conceitos Fundamentais: Machine Learning e InferenceOps]()
+## [Conceitos Fundamentais: Machine Learning e InferenceOps]()
 
-Machine Learning (ML) é um método pelo qual computadores aprendem padrões a partir de dados. Após o treinamento, um modelo pode fazer previsões com novos dados — isso é chamado de inferência (Inference).
+Machine Learning (ML) é um método pelo qual computadores aprendem padrões a partir dos dados. Após o treinamento, um modelo pode fazer previsões com novos dados — isso é chamado de inferência (Inference).
 
-- **Treinamento:** Fase intensiva em que o modelo recebe dados e ajusta seus parâmetros para aprender padrões. Exige muito poder computacional e é realizado periodicamente.  
-- **Inferência:** Fase contínua em que o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo menos recursos, mas de forma constante.  
+- **Treinamento:** Fase intensiva onde o modelo é alimentado com dados e ajusta seus parâmetros para aprender padrões. Consome muita capacidade computacional e ocorre periodicamente.
+- **Inferência:** Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo recursos computacionais mais leves, porém constantes.
 
-A MindfulAI aplica essa inferência para capturar emoções humanas de forma rápida e precisa.
-
-
-<br><br>
-
-### [A Importância da Ética, Governança e Compliance em Emotion AI]()
-
-Emotion AI lida com dados pessoais e sensíveis, por isso é crucial respeitar:
-
-- [**Ética:**]() Justiça, transparência, respeito à privacidade emocional e diversidade.  
-- [**Governança:**]() Monitoramento e controle para evitar vieses e mau uso da IA.  
-- [**Compliance:**]() Conformidade com leis e regulamentações, como GDPR e LGPD.  
-
-> Nosso sistema incorpora essas dimensões na operação do InferenceOps, garantindo segurança e responsabilidade.
+MindfulAI aplica essa inferência para captar emoções humanas rapidamente e com precisão.
 
 
 <br><br>
 
+## [A Importância da Ética, Governança e Conformidade em Emotion AI]()
 
-### [O Que Oferecemos]()
+Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 
-A MindfulAI propõe uma plataforma completa de Emotion AI que oferece:
+- [**Ética:**]() Justiça, transparência, respeito à privacidade emocional e diversidade.
+- [**Governança:**]() Monitoramento e controle para evitar vieses e uso indevido da IA.
+- [**Conformidade:**]() Cumprimento de leis e regulamentos, como GDPR e LGPD.
 
-- Análise multidimensional de emoções em múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.  
-- APIs para integração com sistemas corporativos e diversas aplicações.  
-- Serviços de consultoria para implementação ética e estratégica de Emotion AI.  
-- Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.  
+<br>
 
-<br><br>
+> Nosso sistema incorpora essas dimensões na operação do InferenceOps, assegurando segurança e responsabilidade.
 
-### [Quem São Nossos Clientes]()
-
-Atendemos a uma ampla gama de setores, incluindo:
-
-- [**Atendimento ao Cliente:**]() Call centers que desejam aumentar empatia e satisfação.  
-- [**Saúde Mental:**]() Clínicas e telemedicina para monitoramento emocional de pacientes.  
-- [**Marketing Digital:**]() Campanhas personalizadas baseadas em respostas emocionais.  
-- [**Recursos Humanos:**]() Avaliação de clima e engajamento para aumentar produtividade.  
-- [**Indústria Automotiva:**]() Segurança por meio do monitoramento emocional de motoristas.  
-- [**Educação:**]() Avaliação de engajamento emocional e bem-estar dos estudantes.  
-
-<br><br>
-
-### Modelo Financeiro Simplificado
-
-- Receita mensal estimada: R$ 70.000 (assinaturas + serviços customizados).  
-- Custos totais estimados: R$ 55.000 (equipe, infraestrutura, marketing).  
-- Lucro inicial estimado: R$ 15.000 mensais.  
-- Ponto de equilíbrio com receita de R$ 55.000.  
-
-<br><br>
-
-### Equipe e Operação
-
-#### Papéis-chave na equipe:
-
-- Cientistas de Dados em NLP, análise facial e auditiva.  
-- Engenheiros de ML para deployment e otimização.  
-- Especialistas em governança e compliance.  
-- Desenvolvedores e DevOps para infraestrutura.  
-- Analistas de monitoramento e KPIs.  
-
-<br><br>
-
-### Suporte 24/7
-
-- Turnos rotativos com funções técnicas e de monitoramento.  
-- Equipe de plantão para emergências.  
-- Processos claros e automação para garantir continuidade.  
-
-<br><br>
-
-### Integração com Estudantes da PUC-SP
-
-Para fortalecer as operações e inovar continuamente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:
-
-- **Estágios e Trainees:** Experiência prática em projetos reais.  
-- **Projetos Acadêmicos:** Parcerias com professores para desenvolver soluções conjuntas.  
-- **Laboratório de Inovação:** Espaço para experimentação e mentoria.  
-- **Workshops e Treinamentos:** Atualizações constantes em tecnologia e ética.  
-- **Bolsas e Incentivos:** Reconhecimento e estímulo a talentos dedicados.  
-- **Comitê Consultivo Estudantil:** Participação ativa em decisões e melhorias.  
-
-Essa parceria promove troca constante entre academia e mercado, estimulando inovação e formação de talentos alinhados.  
-
-<br><br>
-
-### Caso Inspirador
-
-Seguimos o modelo de grandes players como a AWS (plataformas de inferência em IA) e startups de sucesso em Emotion AI, que melhoram a interação e a saúde mental digital com governança ética e tecnologia avançada.  
 
 <br><br>
 
 
+### [O que Oferecemos]()
+
+MindfulAI propõe uma plataforma abrangente de Emotion AI que oferece:
+
+- Análise multidimensional de emoções por múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.
+- APIs para integração com sistemas corporativos e diversas aplicações.
+- Serviços de consultoria para implementação ética e estratégica de IA emocional.
+- Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.
 
 
+<br><br>
 
 
+## [Quem São Nossos Clientes]()
+
+Atendemos diversos setores, incluindo:
+
+- [**Atendimento ao Cliente:**]() Call centers que buscam aumentar empatia e satisfação.
+
+- [**Saúde Mental:**]() Clínicas e telemedicina para monitoramento emocional de pacientes.
+
+- [**Marketing Digital:**]() Campanhas personalizadas com base em respostas emocionais.
+
+- [**Recursos Humanos:**]() Avaliação do clima e engajamento para melhorar a produtividade.
+
+- [**Indústria Automotiva:**]() Segurança via monitoramento emocional dos motoristas.
+
+- [**Educação:**]() Avaliação do engajamento emocional e bem-estar estudantil.
 
 
+<br><br>
+
+
+## [Modelo Financeiro Simplificado]()
+
+- Receita mensal esperada: R$ 70.000 (assinaturas + serviços personalizados).
+- Custos totais estimados: R$ 55.000 (equipe, infraestrutura, marketing).
+- Lucro potencial inicial: R$ 15.000 mensais.
+- Ponto de equilíbrio com receita de R$ 55.000.
+
+<br><br>
+
+## Equipe e Operação
+
+###  [Papéis-chave na equipe:]()
+
+- Cientistas de Dados em PLN, análise facial e auditiva.
+- Engenheiros de ML para implantação e otimização.
+- Especialistas em governança e conformidade.
+- Desenvolvedores e DevOps para infraestrutura.
+- Analistas para monitoramento e KPIs.
+
+<br><br>
+
+## [Suporte 24/7]()
+
+- Turnos rotativos com funções técnicas e de monitoramento.
+- Equipe de plantão para emergências.
+- Processos claros e automação para garantir continuidade.
+
+<br><br>
+
+## [Integração com Estudantes da PUC-SP](()
+
+Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:
+
+- **Estágios e Trainees:** Experiência prática em projetos reais.
+- **Projetos Acadêmicos:** Parcerias com professores para desenvolver soluções conjuntas.
+- **Laboratório de Inovação:** Espaço para experimentação e mentoria.
+- **Workshops e Treinamentos:** Atualizações constantes em tecnologias e ética.
+- **Bolsas e Incentivos:** Reconhecimento e incentivo a talentos dedicados.
+- **Comitê Consultivo Estudantil:** Participação ativa em decisões e melhorias.
+
+Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.
+
+<br><br>
+
+## [Caso Inspirador]()
+
+Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA) e startups bem-sucedidas de Emotion AI, que melhoram a interação e saúde mental digital com governança ética e tecnologia avançada.
+
+<br><br>
 
 
 
