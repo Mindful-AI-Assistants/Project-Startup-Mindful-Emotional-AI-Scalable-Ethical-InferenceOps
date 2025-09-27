@@ -181,7 +181,7 @@ Mindful Emotional AI é uma startup inovadora desenvolvida no programa Humanisti
 
 ### [Why Mindful Emotional AI is an Innovative Project ?]()
 
-MindfulAI stands out as an innovative project because it combines cutting-edge Emotion AI technology with an ethical and scalable operational model based on InferenceOps. Unlike traditional AI systems, MindfulAI integrates multimodal emotional data—voice, text, facial expressions, and physiological signals—to provide a comprehensive and real-time emotional understanding.
+MindfulAI stands out as an innovative project because it combines cutting-edge Emotion AI technology with an ethical and scalable operational model based on InferenceOps. Unlike traditional AI systems, MindfulAI integrates multimodal emotional data—voice, text, facial expressions, and physiological signals to provide a comprehensive and real-time emotional understanding.
 
 The project also prioritizes governance, transparency, and compliance with international regulations like GDPR and the EU AI Act, ensuring responsible AI use. Its modular architecture allows custom solutions for various sectors, from healthcare to finance, reinforcing its potential for broad impact.
 Moreover, MindfulAI leverages active collaboration with academic partners and continuous innovation cycles, positioning itself as a pioneering solution that bridges advanced AI capabilities with real-world ethical and social challenges.
