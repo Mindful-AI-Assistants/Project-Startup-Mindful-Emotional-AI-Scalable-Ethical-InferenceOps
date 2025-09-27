@@ -495,17 +495,33 @@ graph TD
 
 <br>
 
-1-  [https://contaazul.com/blog/planejamento-estrategico-startups/](https://contaazul.com/blog/planejamento-estrategico-startups/)
+1-  https://contaazul.com/blog/planejamento-estrategico-startups/
 
-2-  [https://bossainvest.com/planejamento-estrategico/](https://bossainvest.com/planejamento-estrategico/)
+2-  https://bossainvest.com/planejamento-estrategico/
   
-3- [https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/](https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/)
+3- https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/
 
-4- [https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/](https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/)
+4- https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/
  
-5- [https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/](https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/)
+5- https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/
   
-6- [https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/](https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/)
+6- https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/
+
+7- (https://agencianovofoco.com.br/papel-ia-emocional-no-atendimento-do-futuro/)  
+
+8- https://www.inhouse.com.br/inteligencia-emocional-como-ela-influencia-no-atendimento-ao-cliente/ 
+
+9- https://cloudcanal.com.br/blog/inteligencia-artificial-ia-no-atendimento-ao-cliente/
+
+10 - https://www.automationanywhere.com/br/company/blog/automation-ai/ai-customer-service-benefits-and-use-cases
+
+11- https://www.csacademy.com.br/blog/inteligencia-artificial-no-atendimento-ao-cliente-beneficios-e-tendencias/ 
+
+14 - https://www.ibm.com/br-pt/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai
+
+15 - https://www.meioemensagem.com.br/sxsw/o-futuro-das-emocoes-na-era-da-inteligencia-artificial
+
+
 
 
 <br><br>
