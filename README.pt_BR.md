@@ -146,19 +146,22 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 # 1. [Introdução do Projeto - Mindful Emotional AI]()
 
-
-[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa [*IA Humanística e Ciência de Dados* da PUC-SP. Sua missão é entregar Emotion AI escalável, ética e confiável por meio do paradigma **InferenceOps**](), garantindo operações eficientes e governança em tempo real.
-
+[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa [*IA Humanística e Ciência de Dados* da PUC-SP]. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional e governança em tempo real.
 
 <br>
 
-## [Por que Mindful Emotional AI é um Projeto Inovador?]()
+## [Por que a Mindful Emotional AI é Inovadora?]()
+
+[**Mindful Emotional AI**]() está transformando a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados - voz, texto, expressões faciais e sinais fisiológicos  para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual.
 
 
-[**Mindful Emotional AI**]() está redefinindo o Emotion AI ao combinar dados multimodais — voz, texto, expressões faciais e sinais fisiológicos  em inteligência emocional em tempo real.
-Impulsionada por [**InferenceOps**](), oferece soluções escaláveis, transparentes em conformidade com regulamentações como [GDPR**]() ((Regulamento Geral de Proteção de Dados da União Europeia0 e [EU AI Act**]() (Regulamento Europeu para IA Etica, Segura e Transparente).
+Baseada no paradigma [**InferenceOps**](), que envolve a implantação, monitoramento e ajuste automatizado de modelos de IA para manter desempenho e eficiência, a startup entrega soluções [**escaláveis**](), ou seja, capazes de crescer e atender volumes cada vez maiores de dados e usuários sem perda de qualidade ou performance, além de transparentes e alinhadas a regulamentações internacionais como o [**GDPR**]() (Regulamento Geral de Proteção de Dados da União Europeia) e o [**EU AI Act**]() (marco regulatório europeu para uma IA ética, segura e transparente).
 
-Com arquitetura modular adaptável a setores que vão da saúde às finanças, e apoiada por colaboração acadêmica e inovação contínua, [**Mindfu Emotional AI conecta IA avançada com impacto ético e social do mundo real.**]()
+
+
+Sua [**arquitetura modular**]() permite adaptar ou substituir componentes de acordo com as necessidades de diferentes setores, como saúde, finanças, publicidade, saúde mental, automotivo e educação. Apoiada por parcerias acadêmicas e ciclos contínuos de inovação, a [**Mindful Emotional AI**]() conecta tecnologia de ponta a impactos sociais e éticos reais.
+
+Ao aplicar técnicas capazes de reconhecer e interpretar emoções humanas a partir de múltiplas fontes de dados, a Startup possibilita interações mais empáticas e personalizadas, melhora a experiência do usuário e fortalece a tomada de decisões conscientes e responsáveis em diversos contextos que afetam diretamente a vida cotidiana.
 
 
 
