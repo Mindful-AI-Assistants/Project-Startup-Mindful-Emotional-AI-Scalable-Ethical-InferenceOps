@@ -161,10 +161,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
-
-## 1. [Project Introduction - Mindful Emotional AI]()
-
-
 # 1. [Project Introduction - Mindful Emotional AI]()
 
 [**Mindful Emotional AI**]() is an innovative startup developed within the [*Humanistic AI and Data Science* program at PUC-SP](). Its mission is to provide a scalable, ethical, and reliable Emotional AI through the [**InferenceOps**]() paradigm, ensuring operational efficiency and real-time governance.
@@ -173,13 +169,19 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 ## [Why is Mindful Emotional AI Innovative?]()
 
-[**Mindful Emotional AI**]() is transforming the way we understand Emotional AI by integrating multiple types of data—voice, text, facial expressions, and physiological signals—to perform [**real-time inference**](), meaning it interprets emotions immediately and contextually.
+[**Mindful Emotional AI**]() is transforming the way we understand Emotional AI by integrating multiple types of data—voice, text, facial expressions, and physiological signals—to perform [**real-time inference**](), meaning it interprets emotions immediately and contextually. This includes advanced **Natural Language Processing (NLP)** techniques, which allow the system to understand, interpret, and generate human language, enabling more nuanced analysis of text and speech as part of emotional recognition.
 
 Based on the [**InferenceOps**]() paradigm, which involves deployment, monitoring, and automated adjustment of AI models to maintain performance and efficiency, the startup delivers [**scalable**]() solutions capable of growing and handling increasingly large volumes of data and users without loss of quality or performance, while remaining transparent and compliant with international regulations such as the [**GDPR**]() (General Data Protection Regulation of the European Union) and the [**EU AI Act**]() (European regulatory framework for ethical, safe, and transparent AI).
 
 Its [**modular architecture**]() allows components to be adapted or replaced according to the needs of different sectors, such as healthcare, finance, advertising, mental health, automotive, and education. Supported by academic partnerships and continuous innovation cycles, [**Mindful Emotional AI**]() connects cutting-edge technology with real social and ethical impacts.
 
-By applying techniques capable of recognizing and interpreting human emotions from multiple data sources, the startup enables more empathetic and personalized interactions, enhances user experience, and strengthens conscious and responsible decision-making across contexts that directly affect everyday life.
+[**Mindful Emotional AI**]() is transforming the way we understand Emotional AI by integrating multiple types of data—voice, text, facial expressions, and physiological signals—to perform [**real-time inference**](), meaning it interprets emotions immediately and contextually. This includes **Natural Language Processing (NLP)**, a field of AI that enables computers to understand, interpret, and generate human language, allowing the system to analyze text and speech as part of emotional recognition.
+
+Based on the [**InferenceOps**]() paradigm, which involves deployment, monitoring, and automated adjustment of AI models to maintain performance and efficiency, the startup delivers [**scalable**]() solutions capable of growing and handling increasingly large volumes of data and users without loss of quality or performance, while remaining transparent and compliant with international regulations such as the [**GDPR**]() (General Data Protection Regulation of the European Union) and the [**EU AI Act**]() (European regulatory framework for ethical, safe, and transparent AI).
+
+Its [**modular architecture**]() allows components to be adapted or replaced according to the needs of different sectors, such as healthcare, finance, advertising, mental health, automotive, and education. Supported by academic partnerships and continuous innovation cycles, [**Mindful Emotional AI**]() connects cutting-edge technology with real social and ethical impacts.
+
+By applying techniques capable of recognizing and interpreting human emotions from multiple data sources, including [**NLP**](Natural Language Processin) for text and speech, the startup enables more empathetic and personalized interactions, enhances user experience, and strengthens conscious and responsible decision-making across contexts that directly affect everyday life.
 
 
 <br><br>
@@ -197,8 +199,8 @@ By applying techniques capable of recognizing and interpreting human emotions fr
 
 Machine Learning (ML) is a method by which computers learn patterns from data. After training, a model can make predictions with new data — this is called inference (Inference).
 
-- **Training:** Intensive phase where the model is fed data and adjusts its parameters to learn patterns. It consumes a lot of computational power and is done periodically.
-- **Inference:** Continuous phase where the model uses what it learned to make real-time predictions, requiring lighter but constant computational resources.
+- [**Training:**]() Intensive phase where the model is fed data and adjusts its parameters to learn patterns. It consumes a lot of computational power and is done periodically.
+- [**Inference:**]() Continuous phase where the model uses what it learned to make real-time predictions, requiring lighter but constant computational resources.
 
 Mindful Emotional AI applies this inference to quickly and accurately capture human emotions.
 
