@@ -194,6 +194,7 @@ By applying techniques capable of recognizing and interpreting human emotions fr
 Machine Learning (ML) is a method by which computers learn patterns from data. After training, a model can make predictions with new data — this is called inference (Inference).
 
 - [**Training:**]() Intensive phase where the model is fed data and adjusts its parameters to learn patterns. It consumes a lot of computational power and is done periodically.
+  
 - [**Inference:**]() Continuous phase where the model uses what it learned to make real-time predictions, requiring lighter but constant computational resources.
 
 Mindful Emotional AI applies this inference to quickly and accurately capture human emotions.
