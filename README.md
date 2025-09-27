@@ -315,19 +315,19 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br><br>
 
-# 2. [O Problema:]() Emotion AI Tradicional vs Emotion AI Moderna
 
-- [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
+# 2. [The Problem:]() Traditional Emotional AI vs Modern Emotion AI
 
-- [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
+- [Traditional:]() Isolated per channel, redundant in infrastructure, with low governance and scalability.
+
+- [Modern:]() Multimodal, integrated, but demanding in terms of infrastructure and governance without a centralized solution.
 
 <br>
   
-
-### - [Exemplos Tradicionais]():
+### - [Traditional AI Exemples]():
   
-  - Um banco com um modelo básico de fraude apenas para cartões de crédito.
-  - Um e-commerce com um modelo simples de recomendação de produtos.
+  - A bank with a basic fraud model only for credit cards.
+  - An e-commerce with a simple product recommendation model.
 
 <br>
 
@@ -335,26 +335,27 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br>
 
-- ### - [AI Moderna (Atual)]()
+### - [Modern AI (Today)]()
 
 <br>
 
-- Modelos são [**complexos, pesados e multimodais**]() (texto, imagem, áudio).  
-- Requerem GPUs, clusters e monitoramento contínuo.
+- Models are [**complex, heavy, and multimodal**]() (text, image, audio).  
+- They require GPUs, clusters, and continuous monitoring.
 
 <br>
 
-### - [Se cada equipe executa seu próprio modelo]():
+### - [If each team runs its own model]():
   
-  - Custos disparam.  
-  - Resultados tornam-se inconsistentes.  
-  - Auditoria se torna impossível.
+  - Costs skyrocket.  
+  - Results become inconsistent.  
+  - Auditing becomes impossible.
 
 
 <br><br>
 
 
-# 3. [The Solution:]() InferenceOps for Emotional AI
+# 3. [The Solution:]() InferenceOps for Emotion AI
+
 
 ### [InferenceOps]() centralizes and operationalizes the inference of emotional models, promoting scalability, auditable governance, cost reduction, and regulatory compliance, providing:
 
@@ -370,7 +371,27 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 [-]() Regulatory compliance built-in by design.
 
+
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
