@@ -100,9 +100,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > - [EU AI ACT - Práticas Emocionais Proibidas em IA](https://bluearrow.ai/emotion-recognition/)
 >  
 > - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
->
->
->
 > 
 > -  [O que é AI Iference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
