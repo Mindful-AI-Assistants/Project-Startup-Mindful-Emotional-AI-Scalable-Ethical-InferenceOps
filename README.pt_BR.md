@@ -28,15 +28,7 @@
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 
 
- <br><br>
-  <!--  START HEADER   -->
 
-
-
- <!--
-# <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ]() </p>
- 
--->
 <br><br>
 
 
@@ -50,17 +42,12 @@
 
 
 
-<br><br>
-
-
-
+<br><br><br>
 
 
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ##### 🎶  ***Creation  by Fabi***  🖤
-
-
 
 
 <!--===  VIVALDI
@@ -69,36 +56,16 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 ###### 🎶  ***[Vivaldi - The Four Seasons 'Winter']()  ⚡️ Art by Fabi***  
 -->
 
-
-
-<!--
-<p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
--->
-
 <br><br>
 
-#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
-
-  <br><br>
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
 <br><br>
 
 
 
-<!--
-https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
+<br><br><br>
 
-###### 🎶  ***[Vivaldi - The Four Seasons 'Winter']()  ⚡️ Art by Fabi***  
--->
-
-
-<!--Confidentiality Statement-->
-
-<br><br>
 
 
 > [!TIP]
@@ -119,7 +86,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-<!--End-->
 #
 
 <br><br>
@@ -181,7 +147,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-## 1. [Introdução do Projeto - Mindful Emotional AI]()
+# 1. [Introdução do Projeto - Mindful Emotional AI]()
 
 
 [**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa *IA Humanística e Ciência de Dados* da PUC-SP. Sua missão é entregar Emotion AI escalável, ética e confiável por meio do paradigma **InferenceOps**, garantindo operações eficientes e governança em tempo real.
@@ -202,7 +168,7 @@ Com arquitetura modular adaptável a setores que vão da saúde às finanças, e
 <br><br>
 
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 >
 > Este projeto posiciona a MindfulAI como uma startup de ponta capaz de transformar a relação entre humanos e máquinas por meio de inteligência emocional artificial ética, escalável e governada.
 >
@@ -280,9 +246,9 @@ Atendemos diversos setores, incluindo:
 
 <br><br>
 
-## Equipe e Operação
+# [Equipe e Operação]()
 
-###  [Papéis-chave na equipe:]()
+##  [Papéis-chave na equipe:]()
 
 - Cientistas de Dados em PLN, análise facial e auditiva.
 - Engenheiros de ML para implantação e otimização.
@@ -300,7 +266,7 @@ Atendemos diversos setores, incluindo:
 
 <br><br>
 
-## [Integração com Estudantes da PUC-SP](()
+## [Integração com Estudantes da PUC-SP]()
 
 Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:
 
