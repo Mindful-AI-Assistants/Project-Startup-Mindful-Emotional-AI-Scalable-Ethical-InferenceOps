@@ -183,7 +183,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-### [Why Mindful Emotional AI is an Innovative Project ?]()
+## [Why Mindful Emotional AI is an Innovative Project ?]()
 
 
 [**Mindful Emotional AI**]() is redefining Emotion AI by combining multimodal data—voice, text, facial expressions, and physiological signals—into real-time emotional intelligence.
@@ -204,7 +204,7 @@ With a modular architecture adaptable to industries from healthcare to finance, 
 <br><br>
 
 
-### [Fundamental Concepts: Machine Learning and InferenceOps]()
+## [Fundamental Concepts: Machine Learning and InferenceOps]()
 
 Machine Learning (ML) is a method by which computers learn patterns from data. After training, a model can make predictions with new data — this is called inference (Inference).
 
@@ -216,7 +216,7 @@ MindfulAI applies this inference to quickly and accurately capture human emotion
 
 <br><br>
 
-### [The Importance of Ethics, Governance, and Compliance in Emotion AI]()
+## [The Importance of Ethics, Governance, and Compliance in Emotion AI]()
 
 Emotion AI deals with personal and sensitive data, so it is crucial to respect:
 
@@ -224,6 +224,7 @@ Emotion AI deals with personal and sensitive data, so it is crucial to respect:
 - [**Governance:**]() Monitoring and control to avoid biases and misuse of AI.
 - [**Compliance:**]() Adherence to laws and regulations, such as GDPR and LGPD.
 
+<br>
 
 > Our system incorporates these dimensions in the operation of InferenceOps, ensuring security and responsibility.
 
@@ -240,9 +241,11 @@ MindfulAI proposes a comprehensive Emotion AI platform that offers:
 - Consulting services for ethical and strategic implementation of emotional AI.
 - Predictive solutions that anticipate emotional needs to personalize responses and actions.
 
+
 <br><br>
 
-### [Who Are Our Clients]()
+
+## [Who Are Our Clients]()
 
 We serve a wide range of sectors, including:
 
@@ -258,9 +261,11 @@ We serve a wide range of sectors, including:
 
 - [**Education:**]() Evaluation of emotional engagement and student well-being.
 
+
 <br><br>
 
-### Simplified Financial Model
+
+## [Simplified Financial Model]()
 
 - Expected monthly revenue: R$ 70,000 (subscriptions + custom services).
 - Estimated total costs: R$ 55,000 (team, infrastructure, marketing).
@@ -269,9 +274,9 @@ We serve a wide range of sectors, including:
 
 <br><br>
 
-### Team and Operation
+## Team and Operation
 
-#### Key roles in the team:
+###  [Key roles in the team:]()
 
 - Data Scientists in NLP, facial and auditory analysis.
 - ML engineers for deployment and optimization.
@@ -281,7 +286,7 @@ We serve a wide range of sectors, including:
 
 <br><br>
 
-### 24/7 Support
+## [24/7 Support]()
 
 - Rotating shifts with technical and monitoring roles.
 - On-call team for emergencies.
@@ -289,7 +294,7 @@ We serve a wide range of sectors, including:
 
 <br><br>
 
-### Integration with PUC-SP Students
+## [Integration with PUC-SP Students](()
 
 To strengthen operations and continuously innovate, MindfulAI integrates PUC-SP students as follows:
 
@@ -304,7 +309,7 @@ This partnership promotes constant exchange between academia and the market, fos
 
 <br><br>
 
-### Inspirational Case
+## [Inspirational Case]()
 
 We follow the model of major players like AWS (AI inference platforms) and successful Emotion AI startups, which improve interaction and digital mental health with ethical governance and advanced technology.
 
