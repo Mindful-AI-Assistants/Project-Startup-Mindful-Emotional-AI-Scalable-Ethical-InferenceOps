@@ -40,18 +40,17 @@
 <br><br>
 
 
- ### <p align="center"> ✯ **[Startupo Project]()** ✯
-
- 
-<br>
-
-
-<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Emotional} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
-
+ ### <p align="center"> ✯ **[Project Startup]()** ✯
 
 
 <br><br>
 
+
+<h2 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful Emotional AI} \space \textbf{\color{white} - Scalable, Ethical and InferenceOps} \space \textbf{\color{cyan} ॐ}}$$ 
+
+
+
+<br><br>
 
 
 
