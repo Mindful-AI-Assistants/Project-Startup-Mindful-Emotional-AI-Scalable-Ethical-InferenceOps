@@ -274,7 +274,7 @@ We serve a wide range of sectors, including:
 
 <br><br>
 
-## Team and Operation
+## [Team and Operation]()
 
 ###  [Key roles in the team:]()
 
@@ -294,7 +294,7 @@ We serve a wide range of sectors, including:
 
 <br><br>
 
-## [Integration with PUC-SP Students](()
+## [Integration with PUC-SP Students]()
 
 To strengthen operations and continuously innovate, MindfulAI integrates PUC-SP students as follows:
 
