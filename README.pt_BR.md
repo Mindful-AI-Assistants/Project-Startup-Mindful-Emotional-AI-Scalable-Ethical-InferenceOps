@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 1. [Introdução](#introduction)  
 2. [A Solução — InferenceOps para Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
 3. [Seção Técnica: InferenceOps Passo a Passo com Comandos](#technical-section-inferenceops-step-by-step-with-commands)  
-4. [Comparação Direta Entre Modelos](#direct-comparison-between-models)  
+4. [Comparação Direta Entre Modelos - Diagramas](#direct-comparison-between-models)  
 5. [Dimensão Ética](#ethical-dimension)  
 6. [Top 10 Ferramentas para Desenvolvimento Ético em Emotion AI](#top-10-tools-for-ethical-development-in-emotion-ai)  
 7. [Casos Reais de Mercado](#real-market-cases)  
@@ -357,6 +357,88 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 [-]() Conformidade regulatória incorporada desde a concepção.
 
+
+<br><br>
+
+
+
+## 4. [Comparação Direta Entre Modelos - Diagramas]()
+
+<br>
+
+### <p align="center"> [Antes]() - ML Tradicional
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Equipe de Fraude] --> B[Modelo Próprio]
+    C[Equipe de Marketing] --> D[Modelo Próprio]
+    E[Equipe de Logística] --> F[Modelo Próprio]
+```
+
+<br>
+
+#
+
+<br>
+
+### <p align="center"> Depois - InferenceOps
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Equipe de Fraude] --> Z[InferenceOps]
+    C[Equipe de Marketing] --> Z
+    E[Equipe de Logística] --> Z
+    Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
+```
+
+<br>
+
+#
+
+<br>
+
+### <p align="center"> [Multimodal]() - Fluxo de Dados
+
+<br><br>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
+flowchart LR
+    A[🎤 Voz] --> B[🧠 Análise de Emoções]
+    C[💬 Texto] --> B
+    D[🙂 Expressões Faciais] --> B
+    E[💓 Sinais Fisiológicos] --> B
+    B --> F[⚡ Inferência em Tempo Real]
+    F --> G[🤝 Decisões & Interações Empáticas]
+    G --> H[🏢 Setores Atendidos: Clientes, RH, Saúde, Marketing, Automotivo, Educação, Finanças]
+```
+
+<br>
+
+#
+
+<br>
+
+### <p align="center"> InferenceOps – Centralização e Governança
+
+
+<br><br>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
+graph TD
+    A[⚙️ InferenceOps] --> B[📊 Centraliza Modelos Emocionais]
+    A --> C[🚀 Operacionaliza Inferência]
+    A --> D[👥 Escalabilidade Multi-equipes]
+    A --> E[🔍 Governança Auditável]
+    A --> F[💰 Redução de Custos]
+    A --> G[📡 Monitoramento em Tempo Real]
+    A --> H[📜 Conformidade Regulatória]
+```
 
 <br><br>
 
