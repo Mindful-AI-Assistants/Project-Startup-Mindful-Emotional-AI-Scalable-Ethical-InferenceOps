@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * [**Fundadora:**]() Fabiana ⚡️ Campanari  
 >
-> * [**Parceiros:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
+> * [**Parceiros:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Jose Augusto 
 >
 > * Aberto a [estudantes]() do programa de IA Humanística e Ciência de Dados da [PUC-SP]() 
 >
@@ -155,8 +155,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 ## [Por que Mindful Emotional AI é um Projeto Inovador?]()
 
 
-[**Mindful Emotional AI**]() está redefinindo o Emotion AI ao combinar dados multimodais — voz, texto, expressões faciais e sinais fisiológicos — em inteligência emocional em tempo real.
-Impulsionada por [**InferenceOps**](), oferece soluções escaláveis, transparentes em conformidade com regulamentações como GDPR ((Regulamento Geral de Proteção de Dados da União Europeia0 e EU AI Act (Regulamento Europeu para IA Etica, Segura e Transparente).
+[**Mindful Emotional AI**]() está redefinindo o Emotion AI ao combinar dados multimodais — voz, texto, expressões faciais e sinais fisiológicos  em inteligência emocional em tempo real.
+Impulsionada por [**InferenceOps**](), oferece soluções escaláveis, transparentes em conformidade com regulamentações como [GDPR**]() ((Regulamento Geral de Proteção de Dados da União Europeia0 e [EU AI Act**]() (Regulamento Europeu para IA Etica, Segura e Transparente).
 
 Com arquitetura modular adaptável a setores que vão da saúde às finanças, e apoiada por colaboração acadêmica e inovação contínua, [**Mindfu Emotional AI conecta IA avançada com impacto ético e social do mundo real.**]()
 
