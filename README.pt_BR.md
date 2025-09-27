@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >
 > 
-> -  [O que é AIference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+> -  [O que é AI Iference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >
 
 
