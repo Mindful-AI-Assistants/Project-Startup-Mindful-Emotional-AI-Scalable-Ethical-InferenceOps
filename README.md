@@ -250,8 +250,15 @@ MindfulAI proposes a comprehensive Emotion AI platform that offers:
 - [**Finance and Fraud Prevention:**]() detects suspicious behaviors related to emotions, assisting in the prevention of fraud in banking transactions, credit cards, and insurance, protecting against scams and identity theft, while ensuring greater security, risk mitigation, and regulatory compliance.
 
 
+<br>
 
-<br><
+> [!IMPORTANT]
+>
+>
+>
+
+
+<br>
 
 
 ## [Simplified Financial Model]()
