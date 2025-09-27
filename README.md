@@ -321,6 +321,11 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 
 
+
+
+
+
+
 <br><br>
 <br><br>
 <br><br>
@@ -328,6 +333,9 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 <br><br>
 <br><br>
 <br><br>
+
+
+# 22. [Bibliography and Links]()
 
 
 [-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
@@ -349,10 +357,25 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 [-]() Various articles on Brazilian innovation cases, business strategies, and market disruptions.
 
 
+<br>
+
+
+### - [Links of Technical References, Normative and Academic Studies]()
+
+[-]()https://contaazul.com/blog/planejamento-estrategico-startups/
+
+[-]() https://bossainvest.com/planejamento-estrategico/
+  
+[-]() https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/
+
+[-]() https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/
+ 
+[-]() https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/
+  
+[-]() https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/
 
 
 <br><br>
-
 
 
 ## 💌 [Let the data flow... Ping Us]()
