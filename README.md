@@ -379,7 +379,7 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 <br>
 
-### <p align="center"> [Before (Traditional ML)]()
+### <p align="center"> [Before]() (Traditional ML)
 
 <br><br>
 
@@ -398,7 +398,7 @@ flowchart TD
 <br>
 
 
-### <p align="center">  [After (InferenceOps)]()
+### <p align="center">  [After]() (InferenceOps)
 
 <br><br>
 
