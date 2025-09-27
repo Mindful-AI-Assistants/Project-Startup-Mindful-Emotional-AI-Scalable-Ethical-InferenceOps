@@ -538,6 +538,21 @@ graph TD
   
 6- https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/
 
+7- (https://agencianovofoco.com.br/papel-ia-emocional-no-atendimento-do-futuro/)  
+
+8- https://www.inhouse.com.br/inteligencia-emocional-como-ela-influencia-no-atendimento-ao-cliente/ 
+
+9- https://cloudcanal.com.br/blog/inteligencia-artificial-ia-no-atendimento-ao-cliente/
+
+10 - https://www.automationanywhere.com/br/company/blog/automation-ai/ai-customer-service-benefits-and-use-cases
+
+11- https://www.csacademy.com.br/blog/inteligencia-artificial-no-atendimento-ao-cliente-beneficios-e-tendencias/ 
+
+14 - https://www.ibm.com/br-pt/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai
+
+15 - https://www.meioemensagem.com.br/sxsw/o-futuro-das-emocoes-na-era-da-inteligencia-artificial
+
+
 
 <br><br>
 
