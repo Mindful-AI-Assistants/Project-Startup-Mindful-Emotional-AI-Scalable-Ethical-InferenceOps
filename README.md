@@ -360,19 +360,22 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 <br>
 
 
-### - [Links of Technical References, Normative and Academic Studies]()
+## [22a.]() Links of Technical References, Normative and Academic Studies
 
-[-]()https://contaazul.com/blog/planejamento-estrategico-startups/
 
-[-]() https://bossainvest.com/planejamento-estrategico/
+<br>
+
+1-  https://contaazul.com/blog/planejamento-estrategico-startups/
+
+2-  https://bossainvest.com/planejamento-estrategico/
   
-[-]() https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/
+3- https://caputoduarte.com.br/governanca-para-startups-guia-completo-de-documentos-juridicos-essenciais-para-startups/
 
-[-]() https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/
+4- https://baec.com.br/principais-documentos-que-uma-startup-precisa-conhecer-e-elaborar-para-se-desenvolver/
  
-[-]() https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/
+5- https://www.randoncorp.com/pt/blog/como-elaborar-um-plano-de-negocio/
   
-[-]() https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/
+6- https://www.aradvogadosreunidos.com.br/os-5-principais-documentos-de-toda-startup/
 
 
 <br><br>
