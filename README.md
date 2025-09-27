@@ -232,7 +232,7 @@ Emotion AI deals with personal and sensitive data, so it is crucial to respect:
 <br><br>
 
 
-### [What We Offer]()
+## [What We Offer]()
 
 MindfulAI proposes a comprehensive Emotion AI platform that offers:
 
