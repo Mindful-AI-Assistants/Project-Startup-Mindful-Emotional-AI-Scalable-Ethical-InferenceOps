@@ -73,7 +73,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
 
 <br><br>
 
@@ -88,7 +89,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <!--Confidentiality Statement-->
 
-<br><br>
+
 
 
 
@@ -108,17 +109,19 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-<br><br><br>
+<br>
 
 <!--End-->
+#
 
+<br><br>
 
 
 > [!IMPORTANT]
 >
 >  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
-> - [Bossa Invest Planejamento Estrateggico](https://bossainvest.com)
+> - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
 > - [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >  
@@ -131,7 +134,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 
 
-<br><br><br>
+<br><br>
 
 
 ##  Table of Contents
