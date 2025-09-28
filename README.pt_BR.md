@@ -345,7 +345,54 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 <br><br>
 
 
+```mermaid
+flowchart TD
+A[Equipe de Fraude] --> B[Modelo Próprio]
+C[Equipe de Marketing] --> D[Modelo Próprio]
+E[Equipe de Logística] --> F[Modelo Próprio]
+```
 
+<br>
+
+#
+
+<br>
+
+
+### - [IA Moderna (Hoje)]()
+
+
+- Modelos [**complexos, pesados e multimodais**]() (texto, imagem, áudio).  
+- Eles exigem GPUs, clusters e monitoramento contínuo.
+
+<br>
+
+### - [Se cada equipe executar seu próprio modelo]():
+  
+  - Os custos disparam.  
+  - Os resultados tornam-se inconsistentes.  
+  - Auditorias se tornam impossíveis.
+
+
+<br><br>
+
+
+### <p align="center">  [Depois]() - InferenceOps
+
+<br><br>
+
+
+```mermaid
+flowchart TD
+A[Equipe de Fraude] --> Z[InferenceOps]
+C[Equipe de Marketing] --> Z
+E[Equipe de Logística] --> Z
+Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
+
+```
+
+
+<br><br><br>
 
 
 
