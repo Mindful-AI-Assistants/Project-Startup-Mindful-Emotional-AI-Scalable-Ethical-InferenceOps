@@ -394,12 +394,6 @@ flowchart TD
 
 
 
-<br>
-
-
-#
-
-
 
 <br><br><br>
 
@@ -424,13 +418,6 @@ flowchart TD
 
 [-]() Regulatory compliance built-in by design.
 
-
-<br><br>
-
-
-#
-
-<br><br>
 
 
 
@@ -487,7 +474,7 @@ graph TD
 ```
 
 
-<br><br>
+<br><br><br>
 
 
 
