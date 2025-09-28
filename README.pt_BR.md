@@ -141,10 +141,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > Alguns dados e cenários apresentados neste documento são fictícios, com a intenção de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.
 > MindfulAI visa construir uma solução de Emotion AI ética, escalável e inovadora alinhada às demandas técnicas, regulatórias e sociais atuais.
 
+
 <br><br>
 
 
 # 1. [Introdução do Projeto - Mindful Emotional AI]()
+
+<br>
 
 [**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa [*IA Humanística e Ciência de Dados* da PUC-SP]. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional e governança em tempo real.
 
@@ -204,7 +207,7 @@ Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 <br><br>
 
 
-### [O que Oferecemos]()
+### [O que Oferecemos ?]()
 
 Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece:
 
@@ -257,9 +260,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br>
 
-# [Equipe e Operação]()
-
-##  [Papéis-chave na equipe:]()
+## [Equipe e Operação]() - Papéis-chave na equipe:
 
 - Cientistas de Dados em PLN, análise facial e auditiva.
 - Engenheiros de ML para implantação e otimização.
@@ -313,7 +314,7 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 <br>
   
 
-### - [Exemplos de IA Tradicionais]():
+##  [Exemplos de IA Tradicionais]():
   
   - Um banco com um modelo básico de fraude apenas para cartões de crédito.
   - Um e-commerce com um modelo simples de recomendação de produtos.
@@ -324,7 +325,7 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br>
 
-- ### [AI Moderna (Atual)]()
+ ### [AI Moderna (Atual)]()
 
 <br>
 
@@ -333,7 +334,7 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br>
 
-### - [Se cada equipe executa seu próprio modelo]():
+###  [Se cada equipe executa seu próprio modelo]():
   
   - Custos disparam.  
   - Resultados tornam-se inconsistentes.  
@@ -368,11 +369,9 @@ flowchart TD
 
 
 
-3. [A Solução:]() InferenceOps para Emotional AI
+# 3. [A Solução:]() InferenceOps para Emotional AI
 
 <br>
-
-
 
 ### [InferenceOps]() centraliza e operacionaliza a inferência de modelos emocionais, promovendo escalabilidade, governança auditável, redução de custos e conformidade regulatória, oferecendo:
 
