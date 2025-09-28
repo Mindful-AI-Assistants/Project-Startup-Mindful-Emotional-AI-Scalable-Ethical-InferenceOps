@@ -1,0 +1,15 @@
+
+
+cff-version: 1.2.0
+title: planet-smart-city-laguna-iot-pucsp
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+
+authors:
+  - given-names: Fabiana Campanari
+  - given-names: Andson Ribeiro
+  - given-names: Pedro Victor
+
+
+repository-code:https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/
+license: MIT License
