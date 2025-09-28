@@ -303,6 +303,9 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 # 2. [O Problema:]() Emotion AI Tradicional vs Emotion AI Moderna
 
+<br>
+
+
 - [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
 
 - [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
@@ -340,7 +343,35 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 <br><br>
 
 
+<br>
+
+
+#
+
+<br><br>
+
+
+### <p align="center"> [Antes]() - ML Tradicional
+
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Equipe de Fraude] --> B[Modelo Próprio]
+    C[Equipe de Marketing] --> D[Modelo Próprio]
+    E[Equipe de Logística] --> F[Modelo Próprio]
+```
+
+
+<br><br><br>
+
+
+
 3. [A Solução:]() InferenceOps para Emotional AI
+
+<br>
+
 
 
 ### [InferenceOps]() centraliza e operacionaliza a inferência de modelos emocionais, promovendo escalabilidade, governança auditável, redução de custos e conformidade regulatória, oferecendo:
@@ -360,30 +391,12 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br><br>
 
-
-
-## 4. [Comparação Direta Entre Modelos - Diagramas]()
-
-<br>
-
-### <p align="center"> [Antes]() - ML Tradicional
+#
 
 <br><br>
 
-```mermaid
-flowchart TD
-    A[Equipe de Fraude] --> B[Modelo Próprio]
-    C[Equipe de Marketing] --> D[Modelo Próprio]
-    E[Equipe de Logística] --> F[Modelo Próprio]
-```
 
-<br>
-
-#
-
-<br>
-
-### <p align="center"> Depois - InferenceOps
+### <p align="center">  [Depois]() - InferenceOps
 
 <br><br>
 
@@ -395,15 +408,20 @@ flowchart TD
     Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 ```
 
+
+<br><br><br>
+
+
+## 4. [Comparação Direta Entre Modelos - Diagramas]()
+
 <br>
 
-#
-
-<br>
 
 ### <p align="center"> [Multimodal]() - Fluxo de Dados
 
+
 <br><br>
+
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
@@ -417,14 +435,14 @@ flowchart LR
     G --> H[🏢 Setores Atendidos: Clientes, RH, Saúde, Marketing, Automotivo, Educação, Finanças]
 ```
 
-<br>
+<br><br>
 
 #
 
-<br>
+<br><br>
+
 
 ### <p align="center"> InferenceOps – Centralização e Governança
-
 
 <br><br>
 
@@ -442,6 +460,8 @@ graph TD
 
 <br><br>
 
+
+## 5.
 
 
 
