@@ -448,19 +448,17 @@ flowchart TD
 <br><br>
 
 
-
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '\#40E0D0', 'primaryBorderColor': '\#40E0D0', 'lineColor': '\#40E0D0', 'textColor': '\#FFFFFF', 'tertiaryColor': '\#40E0D0'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#40E0D0', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF', 'tertiaryColor': '#40E0D0'}}}%%
 flowchart TD
-Input[Multimodal input data] --> Preprocess[Preprocessing]
-Preprocess --> Inference[Emotion AI Model - Inference]
-Inference --> Postprocess[Classification and post-processing]
-Postprocess --> Dashboard[Dashboards and reports]
-Postprocess --> Alerts[Alerts and automated actions]
-Inference --> Logs[Centralized logs and auditing]
-Dashboard --> Users[Business users and analysts]
+    Input[Multimodal input data] --> Preprocess[Preprocessing]
+    Preprocess --> Inference[Emotion AI Model - Inference]
+    Inference --> Postprocess[Classification and post-processing]
+    Postprocess --> Dashboard[Dashboards and reports]
+    Postprocess --> Alerts[Alerts and automated actions]
+    Inference --> Logs[Centralized logs and auditing]
+    Dashboard --> Users[Business users and analysts]
 ```
-
 
 <br><br><br>
 
