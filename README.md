@@ -377,6 +377,23 @@ flowchart TD
   - Auditing becomes impossible.
 
 
+<br><br>
+
+
+### <p align="center">  [After]() - InferenceOps
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> Z[InferenceOps]
+    C[Marketing Team] --> Z
+    E[Logistics Team] --> Z
+    Z --> M[Centralized Model / Shared Infrastructure]
+```
+
+
+
 <br>
 
 
@@ -415,18 +432,6 @@ flowchart TD
 
 <br><br>
 
-
-### <p align="center">  [After]() - InferenceOps
-
-<br><br>
-
-```mermaid
-flowchart TD
-    A[Fraud Team] --> Z[InferenceOps]
-    C[Marketing Team] --> Z
-    E[Logistics Team] --> Z
-    Z --> M[Centralized Model / Shared Infrastructure]
-```
 
 
 <br><br><br>
