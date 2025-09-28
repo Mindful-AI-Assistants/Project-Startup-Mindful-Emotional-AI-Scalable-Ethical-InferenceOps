@@ -422,11 +422,17 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 
 ## 4. [Seção Técnica: InferenceOps Passo a Passo com Comandos]()
 
-• Deploy do modelo: containerização via Docker e deploy em nuvem.
-• Exposição da API: com FastAPI e Uvicorn.
-• Escalabilidade: orchestrator Kubernetes com autoscaling ativado.
-• Monitoramento: Prometheus e Grafana para métricas e alertas.
-• Gerenciamento de versões: deploy Blue-Green ou Canary.
+<br>
+
+• [Deploy do modelo:]() containerização via Docker e deploy em nuvem.
+
+• [Exposição da API:]() com FastAPI e Uvicorn.
+
+• [Escalabilidade:]() orchestrator Kubernetes com autoscaling ativado.
+
+• [Monitoramento:]() Prometheus e Grafana para métricas e alertas.
+
+• [Gerenciamento de versões:]() deploy Blue-Green ou Canary.
 
 
 <br><br>
