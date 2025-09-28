@@ -396,8 +396,6 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 
 
 
-
-
 # 3. [A Solução:]() InferenceOps para Emotion AI
 
 
@@ -419,11 +417,42 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 [-]() Conformidade regulatória integrada desde a concepção.
 
 
+ <br><br>
+
+
+## 4. [Seção Técnica: InferenceOps Passo a Passo com Comandos]()
+
+• Deploy do modelo: containerização via Docker e deploy em nuvem.
+• Exposição da API: com FastAPI e Uvicorn.
+• Escalabilidade: orchestrator Kubernetes com autoscaling ativado.
+• Monitoramento: Prometheus e Grafana para métricas e alertas.
+• Gerenciamento de versões: deploy Blue-Green ou Canary.
+
+
+<br><br>
+
+### <p align="center"> [Diagramao]() Otimizado
+
+<br><br>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#40E0D0', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF', 'tertiaryColor': '#40E0D0'}}}%%
+flowchart TD
+    Input[Dados multimodais de entrada] --> Preprocess[Pré-processamento]
+    Preprocess --> Inferencia[Modelo Emotion AI - Inferência]
+    Inferencia --> Postprocess[Classificação e pós-processamento]
+    Postprocess --> Dashboard[Dashboards e relatórios]
+    Postprocess --> Alertas[Alertas e ações automáticas]
+    Inferencia --> Logs[Logs centralizados e auditoria]
+    Dashboard --> Usuarios[Usuários de negócio e analistas]
+
+```
+
 
 <br><br><br>
 
 
-## 4. [Comparação Direta Entre Modelos - Diagramas]()
+## 5. [Comparação Direta Entre Modelos - Diagramas]()
 
 <br>
 
@@ -470,14 +499,28 @@ A --> E[🔍 Governança Auditável]
 A --> F[💰 Redução de Custos]
 A --> G[📡 Monitoramento em Tempo Real]
 A --> H[📜 Conformidade Regulatória]
-
 ```
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br><br>
 
 
-## 5.
 
 
 
