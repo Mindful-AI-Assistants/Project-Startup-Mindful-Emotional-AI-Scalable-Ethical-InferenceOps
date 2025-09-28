@@ -163,6 +163,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 # 1. [Project Introduction - Mindful Emotional AI]()
 
+
+<br>
+
 [**Mindful Emotional AI**]() is an innovative startup developed within the [*Humanistic AI and Data Science* program at PUC-SP](). Its mission is to provide a scalable, ethical, and reliable Emotional AI through the [**InferenceOps**]() paradigm, ensuring operational efficiency and real-time governance.
 
 <br>
@@ -318,6 +321,9 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 # 2. [The Problem:]() Traditional Emotional AI vs Modern Emotion AI
 
+
+<br>
+
 - [Traditional:]() Isolated per channel, redundant in infrastructure, with low governance and scalability.
 
 - [Modern:]() Multimodal, integrated, but demanding in terms of infrastructure and governance without a centralized solution.
@@ -337,7 +343,6 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 ### - [Modern AI (Today)]()
 
-<br>
 
 - Models are [**complex, heavy, and multimodal**]() (text, image, audio).  
 - They require GPUs, clusters, and continuous monitoring.
@@ -351,10 +356,35 @@ We follow the model of major players like AWS (AI inference platforms) and succe
   - Auditing becomes impossible.
 
 
+<br>
+
+
+#
+
+<br><br>
+
+
+### <p align="center"> [Before]() - Traditional ML
+
+
+<br><br>
+
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> B[Own Model]
+    C[Marketing Team] --> D[Own Model]
+    E[Logistics Team] --> F[Own Model]
+```
+
+
 <br><br>
 
 
 # 3. [The Solution:]() InferenceOps for Emotion AI
+
+
+<br>
 
 
 ### [InferenceOps]() centralizes and operationalizes the inference of emotional models, promoting scalability, auditable governance, cost reduction, and regulatory compliance, providing:
@@ -371,31 +401,12 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 [-]() Regulatory compliance built-in by design.
 
-
-<br><br>
-
-
-## 4. [Direct Comparison Between Models -  Diagrams]()
-
 <br>
 
-### <p align="center"> [Before]() - Traditional ML
-
-<br><br>
-
-```mermaid
-flowchart TD
-    A[Fraud Team] --> B[Own Model]
-    C[Marketing Team] --> D[Own Model]
-    E[Logistics Team] --> F[Own Model]
-```
-
-
-<br>
 
 #
 
-<br>
+<br><br>
 
 
 ### <p align="center">  [After]() - InferenceOps
@@ -410,9 +421,13 @@ flowchart TD
     Z --> M[Centralized Model / Shared Infrastructure]
 ```
 
-<br>
 
-#
+<br><br>
+
+
+
+## 4. [Direct Comparison Between Models -  Diagrams]()
+
 
 <br>
 
@@ -420,6 +435,7 @@ flowchart TD
 ### <p align="center"> [Multimodal]() - Data Flow
 
 <br><br>
+
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
@@ -433,17 +449,18 @@ flowchart LR
     G --> H[🏢 Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
 ```
 
-
 <br>
+
 
 #
 
-<br>
+<br><br>
 
 
 ### <p align="center"> [InferenceOps]() – Centralization and Governance
 
 <br><br>
+
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
@@ -458,9 +475,11 @@ graph TD
 ```
 
 
+<br><br>
 
 
 
+## 5
 
 
 
