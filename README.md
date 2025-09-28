@@ -378,7 +378,7 @@ flowchart TD
 ```
 
 
-<br><br>
+<br><br><br>
 
 
 # 3. [The Solution:]() InferenceOps for Emotion AI
@@ -401,7 +401,8 @@ flowchart TD
 
 [-]() Regulatory compliance built-in by design.
 
-<br>
+
+<br><br>
 
 
 #
@@ -422,12 +423,11 @@ flowchart TD
 ```
 
 
-<br><br>
+<br><br><br>
 
 
 
 ## 4. [Direct Comparison Between Models -  Diagrams]()
-
 
 <br>
 
@@ -449,7 +449,8 @@ flowchart LR
     G --> H[🏢 Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
 ```
 
-<br>
+
+<br><br>
 
 
 #
