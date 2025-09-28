@@ -35,7 +35,8 @@
  ### <p align="center"> ✯ **[Startupo Project]()** ✯
 
  
-<br>
+
+<br><br>
 
 
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Emotional} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
@@ -69,9 +70,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-<br><br>
 
 
+<br><br><br>
+
+#
 
 <br><br><br>
 
