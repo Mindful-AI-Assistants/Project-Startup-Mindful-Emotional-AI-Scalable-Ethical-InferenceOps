@@ -39,7 +39,7 @@ psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.4.5
+notebook==7.4.7
 ipywidgets==8.1.7
 
 # Other Useful Libraries:
