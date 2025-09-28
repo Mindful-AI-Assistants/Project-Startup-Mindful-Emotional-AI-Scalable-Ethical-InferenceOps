@@ -45,16 +45,25 @@
 <br><br><br>
 
 
+<!-- MindFul  Emotional AI VIDEO 🇧🇷  -->
+
+https://github.com/user-attachments/assets/e0e61bb2-9925-4653-8ac9-abe61cec8def
+
+
+
+<!--===  Torsion VIDEO
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ##### 🎶  ***Creation  by Fabi***  🖤
+-->
 
 
-<!--===  VIVALDI
+<!--===  VIVALDI VIDEO
 https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 ###### 🎶  ***[Vivaldi - The Four Seasons 'Winter']()  ⚡️ Art by Fabi***  
 -->
+
 
 <br><br>
 
