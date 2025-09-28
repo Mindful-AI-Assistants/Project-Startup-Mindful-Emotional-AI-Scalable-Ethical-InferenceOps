@@ -319,6 +319,30 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 
 
+# 2. [O Problema:]() IA Emocional Tradicional vs IA Emocional Moderna
+
+
+<br>
+
+- [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
+
+- [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
+
+<br>
+  
+### - [Exemplos de IA Tradicional]():
+  
+  - Um banco com um modelo básico de fraude apenas para cartões de crédito.
+  - Um e-commerce com um modelo simples de recomendação de produtos.
+
+
+<br><br>
+
+
+### <p align="center"> [Antes]() - ML Tradicional
+
+
+<br><br>
 
 
 
