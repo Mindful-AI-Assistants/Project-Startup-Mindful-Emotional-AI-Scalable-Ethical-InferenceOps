@@ -425,7 +425,47 @@ flowchart TD
 
 
 
-## 4. [Direct Comparison Between Models -  Diagrams]()
+
+## 4. [Technical Section: InferenceOps Step by Step with Commands]()
+
+<br>
+
+• [Model Deployment:]() Containerization via Docker and cloud deployment.
+
+• [API Exposure:]() Using FastAPI and Uvicorn.
+
+• [Scalability:]() Kubernetes orchestrator with autoscaling enabled.
+
+• [Monitoring:]() Prometheus and Grafana for metrics and alerts.
+
+• [Version Management:]() Blue-Green or Canary deployment.
+
+
+<br><br>
+
+### <p align="center"> [Optimized Diagram]()
+
+<br><br>
+
+
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '\#40E0D0', 'primaryBorderColor': '\#40E0D0', 'lineColor': '\#40E0D0', 'textColor': '\#FFFFFF', 'tertiaryColor': '\#40E0D0'}}}%%
+flowchart TD
+Input[Multimodal input data] --> Preprocess[Preprocessing]
+Preprocess --> Inference[Emotion AI Model - Inference]
+Inference --> Postprocess[Classification and post-processing]
+Postprocess --> Dashboard[Dashboards and reports]
+Postprocess --> Alerts[Alerts and automated actions]
+Inference --> Logs[Centralized logs and auditing]
+Dashboard --> Users[Business users and analysts]
+```
+
+
+<br><br><br>
+
+
+## 5. [Direct Comparison Between Models - Diagrams]()
 
 <br>
 
@@ -435,16 +475,18 @@ flowchart TD
 <br><br>
 
 
+
+
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '\#1E1E1E', 'primaryBorderColor': '\#40E0D0', 'lineColor': '\#40E0D0', 'textColor': '\#FFFFFF'}}}%%
 flowchart LR
-    A[🎤 Voice] --> B[🧠 Emotion Analysis]
-    C[💬 Text] --> B
-    D[🙂 Facial Expressions] --> B
-    E[💓 Physiological Signals] --> B
-    B --> F[⚡ Real-Time Inference]
-    F --> G[🤝 Empathetic Decisions & Interactions]
-    G --> H[🏢 Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
+A[🎤 Voice] --> B[🧠 Emotion Analysis]
+C[💬 Text] --> B
+D[🙂 Facial Expressions] --> B
+E[💓 Physiological Signals] --> B
+B --> F[⚡ Real-Time Inference]
+F --> G[🤝 Empathetic Decisions \& Interactions]
+G --> H[🏢 Served Sectors: Customer, HR, Healthcare, Marketing, Automotive, Education, Finance]
 ```
 
 
@@ -460,26 +502,19 @@ flowchart LR
 
 <br><br>
 
-
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1E1E1E', 'primaryBorderColor': '#40E0D0', 'lineColor': '#40E0D0', 'textColor': '#FFFFFF'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '\#1E1E1E', 'primaryBorderColor': '\#40E0D0', 'lineColor': '\#40E0D0', 'textColor': '\#FFFFFF'}}}%%
 graph TD
-    A[⚙️ InferenceOps] --> B[📊 Centralizes Emotional Models]
-    A --> C[🚀 Operationalizes Inference]
-    A --> D[👥 Multi-Team Scalability]
-    A --> E[🔍 Auditable Governance]
-    A --> F[💰 Cost Reduction]
-    A --> G[📡 Real-Time Monitoring]
-    A --> H[📜 Regulatory Compliance]
+A[⚙️ InferenceOps] --> B[📊 Centralizes Emotional Models]
+A --> C[🚀 Operationalizes Inference]
+A --> D[👥 Multi-Team Scalability]
+A --> E[🔍 Auditable Governance]
+A --> F[💰 Cost Reduction]
+A --> G[📡 Real-Time Monitoring]
+A --> H[📜 Regulatory Compliance]
 ```
 
-
-<br><br><br>
-
-
-
-## 5.
-
+<br><br>
 
 
 
