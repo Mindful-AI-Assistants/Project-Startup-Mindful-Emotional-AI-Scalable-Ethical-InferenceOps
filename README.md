@@ -338,6 +338,24 @@ We follow the model of major players like AWS (AI inference platforms) and succe
   - A bank with a basic fraud model only for credit cards.
   - An e-commerce with a simple product recommendation model.
 
+
+    <br><br>
+
+
+### <p align="center"> [Before]() - Traditional ML
+
+
+<br><br>
+
+
+```mermaid
+flowchart TD
+    A[Fraud Team] --> B[Own Model]
+    C[Marketing Team] --> D[Own Model]
+    E[Logistics Team] --> F[Own Model]
+```
+
+
 <br>
 
 #
@@ -364,21 +382,6 @@ We follow the model of major players like AWS (AI inference platforms) and succe
 
 #
 
-<br><br>
-
-
-### <p align="center"> [Before]() - Traditional ML
-
-
-<br><br>
-
-
-```mermaid
-flowchart TD
-    A[Fraud Team] --> B[Own Model]
-    C[Marketing Team] --> D[Own Model]
-    E[Logistics Team] --> F[Own Model]
-```
 
 
 <br><br><br>
