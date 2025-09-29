@@ -662,7 +662,40 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 <br><br>
 
 
+## 7. [Top 10 Tools for Ethical AI Development]()
 
+<br>
+
+As AI systems become more widespread, it is essential to address potential risks and biases. This section presents the top tools for developing ethical AI, ensuring that systems are fair, transparent, private, and secure.
+
+
+<br><br>
+  
+
+> [!IMPORTANT]
+>
+> * These tools support the development of trustworthy AI systems, promoting innovation with respect for fairness, privacy, transparency, and security.
+>
+
+
+<br><br>
+
+
+| [Purpose and Linkt]()                                                                                                              | [Description]()                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [TensorFlow's Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)                                                 | Identifies and reduces biases, protects privacy, and promotes transparency                       |
+| [Microsoft Responsible AI Toolbox](https://responsibleaitoolbox.ai/)                                                            | Assesses model fairness, provides insights for informed decisions                              |
+| [IBM AI Explainability 360](https://aix360.res.ibm.com/)                                                                         | Explains how models make predictions and identifies biases                                     |
+| [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)                                                           | Detects biases and explains decisions for fair outcomes                                        |
+| [Google's What-If Tool](https://pair-code.github.io/what-if-tool/)                                                              | Enhances transparency and fairness by analyzing model behavior                                 |
+| [Fairness Indicators by TensorFlow](https://www.tensorflow.org/tfx/guide/fairness_indicators)                                    | Evaluates performance and identifies disparities between groups                                |
+| [AI Fairness 360 by IBM](https://ai-fairness-360.org/)                                                                           | Measures and mitigates biases in AI models                                                    |
+| [Ethics & Algorithms Toolkit by PwC](https://www.pwc.com)                                                                        | Manages AI risks, ensures ethical standards                                                   |
+| [Deon by DrivenData](https://deon.drivendata.org/)                                                                               | Adds ethics checklist to data science projects                                                 |
+| [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                         | Identifies ethical risks and harms                                                            |
+
+
+<br><br>
 
 
 
