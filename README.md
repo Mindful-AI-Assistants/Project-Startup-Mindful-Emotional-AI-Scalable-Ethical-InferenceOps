@@ -514,6 +514,30 @@ A --> H[📜 Regulatory Compliance]
 
 <br><br>
 
+### 5.1 [Practical Examples of Computational Cost - AI Training vs Inference]()
+
+<br>
+
+| [Aspect]()                 | [AI Training]()                                | [AI Inference]()                            |
+|----------------------------|-----------------------------------------------|---------------------------------------------|
+| [**Description**]()        | The process of teaching the model with lots of data, adjusting its parameters | The process where the already trained model uses what it learned to analyze new data and make predictions |
+| [**Resource usage**]()     | Very high: requires many hours/days on powerful GPUs to process data and adjust weights | Lower, but continuous: each prediction uses fewer resources, but occurs many times per day/month |
+| [**Practical example**]()  | Training a voice recognition model with thousands of hours of audio, running for many days on high-performance servers | Using the trained model to convert a user's voice to text in real time on a mobile phone |
+| [**Cost comparison**]()    | Training can cost thousands of dollars in cloud computing for a large model | Inference may cost cents per thousand predictions, but the cost adds up with many users |
+| [**Frequency**]()          | Once or rarely (when the model needs updating) | Continuous, every time the system uses AI for a prediction or decision |
+| [**Typical duration**]()   | Days to weeks, depending on model and data    | Milliseconds to seconds per prediction      |
+| [**Impact of scale**]()    | Greater scale means more data and more processing time to train | Greater scale means more predictions made, increasing inference costs proportionally |
+
+<br>
+
+### [Conclusion]()
+
+- [**Training**]() is a heavy and more expensive step, but is performed sporadically.
+- [**Inference**]() is a lighter, but constant step, occurring every time the system uses AI for real-time decisions.
+- It is common for the cumulative inference cost over time to be significant, especially for services with many users.
+
+
+<br><br>
 
 
 
