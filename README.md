@@ -283,19 +283,25 @@ MindfulAI proposes a comprehensive Emotion AI platform that offers:
 
 ###  [Key roles in the team:]()
 
-- Data Scientists in NLP, facial and auditory analysis.
-- ML engineers for deployment and optimization.
-- Governance and compliance specialists.
-- Developers and DevOps for infrastructure.
-- Analysts for monitoring and KPIs.
+[-]()  Data Scientists in NLP, facial and auditory analysis.
+
+[-]() ML engineers for deployment and optimization.
+
+[-]() Governance and compliance specialists.
+
+[-]() Developers and DevOps for infrastructure.
+
+[-]()Analysts for monitoring and KPIs.
 
 <br>
 
 ## [24/7 Support]()
 
-- Rotating shifts with technical and monitoring roles.
-- On-call team for emergencies.
-- Clear processes and automation to ensure continuity.
+[-]() Rotating shifts with technical and monitoring roles.
+
+[-]() On-call team for emergencies.
+
+[-]() Clear processes and automation to ensure continuity.
 
 <br>
 
@@ -610,9 +616,9 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 
 [-]() August 1, 2024: Entry into force of the AI Act.
 
-[-]()February 2, 2025: Prohibition of the use of emotional recognition systems in workplaces and schools.
+[-]() February 2, 2025: Prohibition of the use of emotional recognition systems in workplaces and schools.
 
-[-]()August 2, 2026: Specific rules for high-risk systems come into force.
+[-]() August 2, 2026: Specific rules for high-risk systems come into force.
 
 <br>
 
