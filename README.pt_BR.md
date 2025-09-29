@@ -621,7 +621,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br>
 
-## 6.6 [Fiscalização e Penalidades](
+## 6.6 [Fiscalização e Penalidades]()
 
 <br>
 
@@ -633,18 +633,26 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br>
 
-## 6.7 [Passos para Conformidade](
+## 6.7 [Passos para Conformidade]()
 
 <br>
 
 [1](). Entender escopo e definições: Confirmar se o sistema se enquadra como sistema de reconhecimento de emoções (Art. 3(39)).
+
 [2](). Avaliar proibições e classificações: Garantir que o uso não esteja em locais proibidos; verificar se o sistema é de alto risco.
+
 [3](). Medidas de Transparência: Informar os usuários sobre o uso de dados biométricos para inferência.
+
 [4](). Proteção de Dados: Alinhar processamento com GDPR, implementando salvaguardas eficientes.
+
 [5](). Gestão de Riscos: Avaliar e mitigar vieses e riscos de discriminação.
+
 [6](). Documentação: Manter registros detalhados de conformidade.
+
 [7](). Engajamento com Autoridades: Consultar órgãos reguladores para garantir alinhamento.
+
 [8](). Monitoramento contínuo: Revisar e atualizar práticas regularmente, incluindo treinamentos.
+
 [9](). Considerações Legais e Éticas: Assegurar alinhamento com a Carta dos Direitos Fundamentais da UE e normas éticas rigorosas.
 
 
