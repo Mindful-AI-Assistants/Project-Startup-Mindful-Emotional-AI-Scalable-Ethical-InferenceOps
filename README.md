@@ -629,14 +629,23 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 <br>
 
 [1](). Understand scope and definitions: Confirm if the system qualifies as an emotion recognition system (Art. 3(39)).
+
 [2](). Assess prohibitions and classifications: Ensure that use is not in prohibited locations; verify if the system is high-risk.
+
 [3](). Transparency measures: Inform users about the use of biometric data for inference.
+
 [4](). Data protection: Align processing with GDPR, implementing effective safeguards.
+
 [5](). Risk management: Assess and mitigate biases and discrimination risks.
+
 [6](). Documentation: Maintain detailed compliance records.
+
 [7](). Engagement with authorities: Consult regulatory bodies to ensure alignment.
+
 [8](). Continuous monitoring: Regularly review and update practices, including training.
+
 [9](). Legal and ethical considerations: Ensure alignment with the EU Charter of Fundamental Rights and strict ethical standards.
+
 
 <br><br>
 
