@@ -514,6 +514,11 @@ A --> H[📜 Regulatory Compliance]
 
 <br><br>
 
+#
+
+<br>
+
+
 ### 5.1 [Practical Examples of Computational Cost - AI Training vs Inference]()
 
 <br>
