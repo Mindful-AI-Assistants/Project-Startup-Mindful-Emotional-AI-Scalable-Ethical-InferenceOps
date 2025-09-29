@@ -704,17 +704,17 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 <br><br>
 
 
-## 8. Casos Reais de Mercado e Exemplos Brasileiros
+## 8.[ Casos Reais de Mercado e Exemplos Brasileiros]()
 
-- **Saúde Mental:** A startup brasileira **Vittude** utiliza tecnologias semelhantes à Mindful Emotional AI para oferecer terapia online com suporte emocional, alcançando aumento de 40% na adesão e satisfação dos pacientes.
+- [**Saúde Mental:**]() A startup brasileira **Vittude** utiliza tecnologias semelhantes à Mindful Emotional AI para oferecer terapia online com suporte emocional, alcançando aumento de 40% na adesão e satisfação dos pacientes.
   
-- **Atendimento:** A empresa **Take Blip** integrou sistemas de análise emocional para melhorar o atendimento via chatbots, reduzindo o tempo de resolução de chamadas em até 30%.
+- [**Atendimento:**]() A empresa **Take Blip** integrou sistemas de análise emocional para melhorar o atendimento via chatbots, reduzindo o tempo de resolução de chamadas em até 30%.
   
-- **Marketing Digital:** A **Resultados Digitais (RD Station)** aplica análise de perfil emocional em campanhas, aumentando a taxa de conversão em 15% em clientes que utilizam IA emocional.
+- [**Marketing Digital:**]() A **Resultados Digitais (RD Station)** aplica análise de perfil emocional em campanhas, aumentando a taxa de conversão em 15% em clientes que utilizam IA emocional.
   
-- **Recursos Humanos:** A startup **Sólides** usa dados emocionais para melhorar o clima organizacional e reduzir rotatividade, constatando redução de 20% no turnover em clientes corporativos.
+- [**Recursos Humanos:**]() A startup **Sólides** usa dados emocionais para melhorar o clima organizacional e reduzir rotatividade, constatando redução de 20% no turnover em clientes corporativos.
   
-- **Segurança Veicular:** A **Autotrac** combina sensores emocionais com dados analíticos para reduzir acidentes, comprovando diminuição de 25% nos incidentes entre frotas monitoradas.
+- [**Segurança Veicular:**]() A **Autotrac** combina sensores emocionais com dados analíticos para reduzir acidentes, comprovando diminuição de 25% nos incidentes entre frotas monitoradas.
 
 
 <br><br>
@@ -823,7 +823,7 @@ Com a Mindful Emotional AI, empresas brasileiras têm promovido saúde emocional
 > [!TIP]
 >
 > Essas métricas fornecem indicadores quantitativos e qualitativos essenciais para avaliar o sucesso, atuação e impacto da Mindful Emotional AI em diversos setores, garantindo melhorias contínuas e alinhamento com expectativas de clientes e regulamentações.
-
+>
 
 <br><br><br>
 
