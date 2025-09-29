@@ -509,6 +509,10 @@ A --> H[📜 Conformidade Regulatória]
 
 <br><br>
 
+#
+
+<br><br>
+
 
 ### 5.1 [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
 
