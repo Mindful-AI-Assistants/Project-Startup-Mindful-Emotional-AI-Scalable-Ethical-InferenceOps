@@ -594,7 +594,8 @@ A --> H[📜 Regulatory Compliance]
 <br><br>
 <br><br>
 <br><br>
-
+<br><br>
+<br><br>
 
 <br><br>
 
@@ -650,9 +651,10 @@ _All revenues, costs, and profits are internally consistent with user and ARPU g
 
 <br>
 
-### [First-Year Summary Table]()
+### [First-Year]() Summary Table
 
-<br><br>
+<br>
+
 
 | [Item]()              | [Monthly Value (R$)]() | [Notes]()                                              |
 |-----------------------|-----------------------|-------------------------------------------------------|
