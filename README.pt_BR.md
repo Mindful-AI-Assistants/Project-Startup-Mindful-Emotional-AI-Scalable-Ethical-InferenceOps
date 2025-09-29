@@ -571,7 +571,7 @@ Destacamos especialmente a conformidade rigorosa com o AI Act da União Europeia
 
 <br>
 
-## 6.[Regulamentação e Definição conforme EU AI Act]()
+## 6.1 [Regulamentação e Definição conforme EU AI Act]()
 
 <br>
 
@@ -582,7 +582,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 <br>
 
 
-## [Proibições e Classificação de Alto Risco]()
+## 6.2 [Proibições e Classificação de Alto Risco]()
 
 <br>
 
@@ -591,7 +591,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 <br>
 
-## [Transparência e Proteção de Dados]()
+## 6.3 [Transparência e Proteção de Dados]()
 
 <br>
 
@@ -600,7 +600,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 <br>
 
-## [Equilíbrio entre Inovação e Regulação]()
+## 6.4 [Equilíbrio entre Inovação e Regulação]()
 
 <br>
 
@@ -609,7 +609,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br>
 
-## [Datas Importantes]()
+## 6.5 [Datas Importantes]()
 
 <br>
 
@@ -621,7 +621,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br>
 
-## [Fiscalização e Penalidades](
+## 6.6 [Fiscalização e Penalidades](
 
 <br>
 
@@ -633,7 +633,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br>
 
-## [Passos para Conformidade](
+## 6.7 [Passos para Conformidade](
 
 <br>
 
