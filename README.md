@@ -745,7 +745,7 @@ This plan consolidates and corrects inconsistencies, providing transparent proje
 
 ## 19.1 [Financial Projections]()
 
-Growth is based on a SaaS subscription model plus custom AI services.
+Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/blob/c68c7ffcb9fbd5615973d14cc6543a5dec45a9a4/SaaS_Software_as_a_Service.md) - Software as Servive subscription model plus custom AI services.
 
 - [**Active users forecast:**]() Begin with 1,000, scaling to 10,000 in 12 months.
 - [**Initial ARPU:**]() R$ 80.00/month.
@@ -759,9 +759,13 @@ Growth is based on a SaaS subscription model plus custom AI services.
 | 6     | 5,000        | 400,000             | 60,000           | 80,000              | 260,000               |
 | 12    | 10,000       | 800,000             | 90,000           | 160,000             | 550,000               |
 
+
 <br><br>
 
-_All revenues, costs, and profits are internally consistent with user and ARPU growth assumptions, scaling cloud and labor costs sensibly._
+> [!IMPORTANT]
+>
+> _All revenues, costs, and profits are internally consistent with user and ARPU growth assumptions, scaling cloud and labor costs sensibly._
+>
 
 <br><br>
 
