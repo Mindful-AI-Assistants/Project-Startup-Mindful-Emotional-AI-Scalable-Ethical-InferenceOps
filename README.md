@@ -563,7 +563,7 @@ We especially emphasize strict compliance with the European Union AI Act (EU AI 
 
 <br>
 
-## 6. [Regulation and Definition under EU AI Act]()
+## 6.1 [Regulation and Definition under EU AI Act]()
 
 <br>
 
@@ -573,7 +573,7 @@ Recital 18 clarifies that these systems cover emotions such as happiness, sadnes
 
 <br>
 
-## [Prohibitions and High-Risk Classification]()
+## 6.2 [Prohibitions and High-Risk Classification]()
 
 <br>
 
@@ -582,7 +582,7 @@ Recital 18 clarifies that these systems cover emotions such as happiness, sadnes
 
 <br>
 
-## [Transparency and Data Protection]()
+## 6.3 [Transparency and Data Protection]()
 
 <br>
 
@@ -591,7 +591,7 @@ Recital 18 clarifies that these systems cover emotions such as happiness, sadnes
 
 <br>
 
-## [Balance between Innovation and Regulation]()
+## 6.4 [Balance between Innovation and Regulation]()
 
 <br>
 
@@ -599,7 +599,7 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 
 <br>
 
-## [Important Dates]()
+## 6.5 [Important Dates]()
 
 <br>
 
@@ -610,14 +610,14 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 
 <br>
 
-## [Enforcement and Penalties]()
+## 6.6 [Enforcement and Penalties]()
 
 <br>
 
-- Non-compliance may result in administrative fines of up to €35 million or 7% of the company's global turnover, whichever is higher.
-- Specific penalties for providers, distributors, importers, among others, may reach €15 million or 3% of annual turnover.
-- False or incomplete information may result in fines of up to €7.5 million or 1% of turnover.
-- Micro, small, and medium enterprises have proportional and limited fines.
+[-]() Non-compliance may result in administrative fines of up to €35 million or 7% of the company's global turnover, whichever is higher.
+[-]() Specific penalties for providers, distributors, importers, among others, may reach €15 million or 3% of annual turnover.
+[-]() False or incomplete information may result in fines of up to €7.5 million or 1% of turnover.
+[-]() Micro, small, and medium enterprises have proportional and limited fines.
 
 <br>
 
@@ -625,15 +625,15 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 
 <br>
 
-1. Understand scope and definitions: Confirm if the system qualifies as an emotion recognition system (Art. 3(39)).
-2. Assess prohibitions and classifications: Ensure that use is not in prohibited locations; verify if the system is high-risk.
-3. Transparency measures: Inform users about the use of biometric data for inference.
-4. Data protection: Align processing with GDPR, implementing effective safeguards.
-5. Risk management: Assess and mitigate biases and discrimination risks.
-6. Documentation: Maintain detailed compliance records.
-7. Engagement with authorities: Consult regulatory bodies to ensure alignment.
-8. Continuous monitoring: Regularly review and update practices, including training.
-9. Legal and ethical considerations: Ensure alignment with the EU Charter of Fundamental Rights and strict ethical standards.
+[1](). Understand scope and definitions: Confirm if the system qualifies as an emotion recognition system (Art. 3(39)).
+[2](). Assess prohibitions and classifications: Ensure that use is not in prohibited locations; verify if the system is high-risk.
+[3](). Transparency measures: Inform users about the use of biometric data for inference.
+[4](). Data protection: Align processing with GDPR, implementing effective safeguards.
+[5](). Risk management: Assess and mitigate biases and discrimination risks.
+[6](). Documentation: Maintain detailed compliance records.
+[7](). Engagement with authorities: Consult regulatory bodies to ensure alignment.
+[8](). Continuous monitoring: Regularly review and update practices, including training.
+[9](). Legal and ethical considerations: Ensure alignment with the EU Charter of Fundamental Rights and strict ethical standards.
 
 <br><br>
 
