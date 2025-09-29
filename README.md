@@ -473,8 +473,6 @@ flowchart TD
 <br><br>
 
 
-
-
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '\#1E1E1E', 'primaryBorderColor': '\#40E0D0', 'lineColor': '\#40E0D0', 'textColor': '\#FFFFFF'}}}%%
 flowchart LR
@@ -512,11 +510,7 @@ A --> G[📡 Real-Time Monitoring]
 A --> H[📜 Regulatory Compliance]
 ```
 
-<br><br>
-
-#
-
-<br>
+<br><br><br>
 
 ## 5. [Direct Comparison Between Models]()
 
