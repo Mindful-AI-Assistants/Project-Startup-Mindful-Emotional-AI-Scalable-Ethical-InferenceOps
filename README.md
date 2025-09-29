@@ -266,7 +266,7 @@ MindfulAI proposes a comprehensive Emotion AI platform that offers:
 
 <br><br>
 
-
+<!--
 ## [Simplified Financial Model]()
 
 - Expected monthly revenue: R$ 70,000 (subscriptions + custom services).
@@ -274,7 +274,10 @@ MindfulAI proposes a comprehensive Emotion AI platform that offers:
 - Initial potential profit: R$ 15,000 monthly.
 - Break-even point with revenue of R$ 55,000.
 
+
 <br>
+
+-->
 
 ## [Team and Operation]()
 
