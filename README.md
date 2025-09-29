@@ -512,7 +512,7 @@ A --> H[📜 Regulatory Compliance]
 
 <br><br><br>
 
-## 5. [Direct Comparison Between Models]()
+## 5.1 [Direct Comparison Between Models]()
 
 <br>
 
@@ -529,7 +529,7 @@ A --> H[📜 Regulatory Compliance]
 <br><br>
 
 
-### 5.1 [Practical Examples of Computational Cost - AI Training vs Inference]()
+### 5.2 [Practical Examples of Computational Cost - AI Training vs Inference]()
 
 <br>
 
