@@ -650,6 +650,28 @@ A --> H[📜 Regulatory Compliance]
 
 15 - https://www.meioemensagem.com.br/sxsw/o-futuro-das-emocoes-na-era-da-inteligencia-artificial
 
+16 - https://www.chargebee.com/blog/saas-financial-models/
+
+
+<br>
+
+## [22a.]() Links of Financial Reference
+
+<br>
+
+1 - https://upmetrics.co/template/saas-business-plan-example/financial-plan
+
+2 -  https://lucid.now/blog/ai-forecasting-for-balanced-startup-investments/
+
+3 -  https://www.zeni.ai/blog/break-even-analysis
+
+4 - https://payproglobal.com/pt_br/calculadoras-de-metricas-de-saas/calculadora-de-receita-media-por-usuario-arpu-de-saas/
+
+5- https://stripe.com/br/resources/more/revenue-planning-101-a-guide-for-businesses
+
+6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
+
+
 
 
 <br><br>
