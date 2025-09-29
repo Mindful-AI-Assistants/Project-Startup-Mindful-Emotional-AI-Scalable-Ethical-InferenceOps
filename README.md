@@ -587,6 +587,26 @@ A --> H[📜 Regulatory Compliance]
 <br><br>
 <br><br>
 <br><br>
+
+
+## 21.  [Our Crew:]()
+
+
+- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+
+- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
+
+- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
+
+- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
+  
+- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+
+
+
+
 <br><br>
 
 
@@ -672,12 +692,29 @@ A --> H[📜 Regulatory Compliance]
 6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
 
 
+<br><br>
+
+
+## 21.  [Our Crew:]()
+
+
+- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+
+- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
+
+- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
+
+- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
+  
+- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
 
 <br><br>
 
 
-## 💌 [Let the data flow... Ping Us]()
+## 💌 [Let the data flow... Ping Me!]()
 
 <br>
 
