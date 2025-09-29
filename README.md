@@ -809,25 +809,6 @@ _All revenues, costs, and profits are internally consistent with user and ARPU g
 <br><br>
 
 
-## 21.  [Our Crew:]()
-
-
-- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
-
-- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
-
-- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
-
-- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
-
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
-  
-- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
-
-
-<br><br>
-
-
 ## 💌 [Let the data flow... Ping Me!]()
 
 
