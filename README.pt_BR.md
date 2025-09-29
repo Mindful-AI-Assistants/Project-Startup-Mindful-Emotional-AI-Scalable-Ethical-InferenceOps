@@ -671,6 +671,37 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 <br><br>
 
 
+## 7. [Top 10 Ferramentas para Desenvolvimento Ético de IA]()
+
+<br>
+
+À medida que os sistemas de IA se tornam mais difundidos, é essencial abordar riscos e vieses potenciais. Esta seção apresenta as principais ferramentas para desenvolvimento de IA ética, garantindo que os sistemas sejam justos, transparentes, privados e seguros.
+
+<br><br>
+
+> [!IMPORTANTE]
+>
+> * Essas ferramentas apoiam o desenvolvimento de sistemas de IA confiáveis, promovendo a inovação com respeito à justiça, privacidade, transparência e segurança.
+>
+
+<br><br>
+
+| [Propósito e Link]()                                                                                                              | [Descrição]()                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [TensorFlow's Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)                                                 | Identifica e reduz vieses, protege a privacidade e promove transparência                       |
+| [Microsoft Responsible AI Toolbox](https://responsibleaitoolbox.ai/)                                                            | Avalia justiça do modelo, fornece insights para decisões informadas                            |
+| [IBM AI Explainability 360](https://aix360.res.ibm.com/)                                                                         | Explica como modelos fazem previsões e identifica vieses                                     |
+| [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)                                                           | Detecta vieses e explica decisões para resultados justos                                     |
+| [Google's What-If Tool](https://pair-code.github.io/what-if-tool/)                                                              | Aumenta transparência e justiça ao analisar o comportamento do modelo                         |
+| [Fairness Indicators by TensorFlow](https://www.tensorflow.org/tfx/guide/fairness_indicators)                                    | Avalia desempenho e identifica disparidades entre grupos                                     |
+| [AI Fairness 360 by IBM](https://ai-fairness-360.org/)                                                                           | Mede e mitiga vieses em modelos de IA                                                       |
+| [Ethics & Algorithms Toolkit by PwC](https://www.pwc.com)                                                                        | Gerencia riscos de IA, assegura padrões éticos                                              |
+| [Deon by DrivenData](https://deon.drivendata.org/)                                                                               | Adiciona checklist de ética em projetos de ciência de dados                                 |
+| [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                         | Identifica riscos e danos éticos                                                            |
+
+
+
+<br><br>
 
 
 
