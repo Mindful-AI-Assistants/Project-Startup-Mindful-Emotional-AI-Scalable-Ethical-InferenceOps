@@ -716,21 +716,6 @@ A --> H[📜 Regulatory Compliance]
 
 ## 💌 [Let the data flow... Ping Me!]()
 
-<br>
-
-- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
-
-- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
-
-- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
-
-- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
-
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
-  
-- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
-
-
 
 <br> 
 
