@@ -627,6 +627,27 @@ A --> H[📜 Conformidade Regulatória]
 <br><br>
 <br><br>
 <br><br>
+
+
+
+
+## 21.  [Nossa TRipilação]()
+
+
+- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+
+- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
+
+- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
+
+- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
+  
+- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+
+
+
 <br><br>
 
 
@@ -690,29 +711,33 @@ A --> H[📜 Conformidade Regulatória]
 
 15 - https://www.meioemensagem.com.br/sxsw/o-futuro-das-emocoes-na-era-da-inteligencia-artificial
 
+<br>
+
+## [22a.]() Links of Financial Reference
+
+<br>
+
+1 - https://upmetrics.co/template/saas-business-plan-example/financial-plan
+
+2 -  https://lucid.now/blog/ai-forecasting-for-balanced-startup-investments/
+
+3 -  https://www.zeni.ai/blog/break-even-analysis
+
+4 - https://payproglobal.com/pt_br/calculadoras-de-metricas-de-saas/calculadora-de-receita-media-por-usuario-arpu-de-saas/
+
+5- https://stripe.com/br/resources/more/revenue-planning-101-a-guide-for-businesses
+
+6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
+
+
+
 
 
 
 <br><br>
 
 
-## 💌 [Let the data flow... Ping Us]()
-
-<br>
-
-- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
-
-- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
-
-- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
-
-- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
-
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
-  
-- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
-
-
+## 💌 [Let the data flow... Ping Me!]()
 
 <br> 
 
