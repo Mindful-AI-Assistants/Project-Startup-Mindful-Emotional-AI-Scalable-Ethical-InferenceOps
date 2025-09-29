@@ -555,6 +555,87 @@ A --> H[📜 Regulatory Compliance]
 <br><br>
 
 
+## 6. [Ethical Dimension]()
+
+Guarantees of transparency, accountability, end-to-end privacy, compliance with GDPR, LGPD, and AI Act, and sustainability. The ethical dimension is a fundamental pillar for MindfulAI, reflecting a strong commitment to transparency, accountability, and international regulatory alignment.
+
+We especially emphasize strict compliance with the European Union AI Act (EU AI Act), a critical regulatory milestone for artificial intelligence technologies using emotional recognition systems based on biometric data.
+
+<br>
+
+## 6. [Regulation and Definition under EU AI Act]()
+
+<br>
+
+The EU AI Act represents a significant advance in AI regulation, especially regarding emotion recognition systems. According to Article 3(39) of the AI Act, an "emotion recognition system" is a technology that identifies or infers emotions or intentions of natural persons based on biometric data — physical, physiological, or behavioral, such as facial images or voice patterns.
+
+Recital 18 clarifies that these systems cover emotions such as happiness, sadness, anger, and more, but exclude simple physical states like fatigue, except in safety cases (e.g., preventing driver accidents).
+
+<br>
+
+## [Prohibitions and High-Risk Classification]()
+
+<br>
+
+- Prohibition in workplace and educational environments: According to Article 5(1)(f), the use of these systems in these locations is prohibited, except for medical or safety purposes, due to the high possibility of biased, discriminatory results and the complexity of emotional signals across cultures and individuals.
+- Classified as high-risk system: Annex III classifies these systems as “high risk,” subjecting them to strict regulatory requirements because of the potential for discrimination and impact on fundamental rights.
+
+<br>
+
+## [Transparency and Data Protection]()
+
+<br>
+
+- Article 50(3) of the AI Act requires users to know when their biometric data is processed for emotional inference, ensuring accessible transparency even for vulnerable groups, per Recital 132.
+- The General Data Protection Regulation (GDPR) complements this framework, imposing strict rules on the processing of biometric data, which is sensitive data. Compliance with GDPR is mandatory, ensuring protection of individuals' rights and freedoms.
+
+<br>
+
+## [Balance between Innovation and Regulation]()
+
+<br>
+
+The AI Act seeks to balance technological innovation with protection of fundamental rights, imposing measures to mitigate risks of misuse and discrimination. High-risk classification does not mean automatic permission, as use must comply with existing laws and principles of the EU Charter of Fundamental Rights.
+
+<br>
+
+## [Important Dates]()
+
+<br>
+
+- July 12, 2024: Official publication of the AI Act.
+- August 1, 2024: Entry into force of the AI Act.
+- February 2, 2025: Prohibition of the use of emotional recognition systems in workplaces and schools.
+- August 2, 2026: Specific rules for high-risk systems come into force.
+
+<br>
+
+## [Enforcement and Penalties]()
+
+<br>
+
+- Non-compliance may result in administrative fines of up to €35 million or 7% of the company's global turnover, whichever is higher.
+- Specific penalties for providers, distributors, importers, among others, may reach €15 million or 3% of annual turnover.
+- False or incomplete information may result in fines of up to €7.5 million or 1% of turnover.
+- Micro, small, and medium enterprises have proportional and limited fines.
+
+<br>
+
+## [Steps for Compliance]()
+
+<br>
+
+1. Understand scope and definitions: Confirm if the system qualifies as an emotion recognition system (Art. 3(39)).
+2. Assess prohibitions and classifications: Ensure that use is not in prohibited locations; verify if the system is high-risk.
+3. Transparency measures: Inform users about the use of biometric data for inference.
+4. Data protection: Align processing with GDPR, implementing effective safeguards.
+5. Risk management: Assess and mitigate biases and discrimination risks.
+6. Documentation: Maintain detailed compliance records.
+7. Engagement with authorities: Consult regulatory bodies to ensure alignment.
+8. Continuous monitoring: Regularly review and update practices, including training.
+9. Legal and ethical considerations: Ensure alignment with the EU Charter of Fundamental Rights and strict ethical standards.
+
+<br><br>
 
 
 
