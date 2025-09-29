@@ -265,6 +265,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br><br>
 
+<!--
 
 ## [Modelo Financeiro Simplificado]()
 
@@ -274,6 +275,9 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 - Ponto de equilíbrio com receita de R$ 55.000.
 
 <br>
+
+-->
+
 
 ## [Equipe e Operação]() - Papéis-chave na equipe:
 
@@ -324,9 +328,9 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br>
 
-- [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
+[-]() [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
 
-- [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
+[-]()  [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
 
 <br>
   
