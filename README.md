@@ -606,10 +606,13 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 
 <br>
 
-- July 12, 2024: Official publication of the AI Act.
-- August 1, 2024: Entry into force of the AI Act.
-- February 2, 2025: Prohibition of the use of emotional recognition systems in workplaces and schools.
-- August 2, 2026: Specific rules for high-risk systems come into force.
+[-]() July 12, 2024: Official publication of the AI Act.
+
+[-]() August 1, 2024: Entry into force of the AI Act.
+
+[-]()February 2, 2025: Prohibition of the use of emotional recognition systems in workplaces and schools.
+
+[-]()August 2, 2026: Specific rules for high-risk systems come into force.
 
 <br>
 
@@ -618,13 +621,16 @@ The AI Act seeks to balance technological innovation with protection of fundamen
 <br>
 
 [-]() Non-compliance may result in administrative fines of up to €35 million or 7% of the company's global turnover, whichever is higher.
+
 [-]() Specific penalties for providers, distributors, importers, among others, may reach €15 million or 3% of annual turnover.
+
 [-]() False or incomplete information may result in fines of up to €7.5 million or 1% of turnover.
+
 [-]() Micro, small, and medium enterprises have proportional and limited fines.
 
 <br>
 
-## [Steps for Compliance]()
+## 6.7 [Steps for Compliance]()
 
 <br>
 
