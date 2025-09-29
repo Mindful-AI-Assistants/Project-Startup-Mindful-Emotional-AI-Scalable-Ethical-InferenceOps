@@ -514,20 +514,20 @@ A --> H[📜 Conformidade Regulatória]
 <br>
 
 
-## 5. Comparação Direta entre Modelos
+## 5. [Comparação Direta entre Modelos]()
 
 <br>
 
 
 
-| Aspecto            | Traditional ML Ops        | InferenceOps                        |
+| [Aspecto]()            | [Traditional ML Ops]()        | [InferenceOps]()                        |
 |--------------------|--------------------------|-----------------------------------|
-| Infraestrutura     | Duplicada                | Centralizada e compartilhada      |
-| Custos            | Altos por redundância    | Eficientes via compartilhamento   |
-| Governança        | Fragmentada              | Centralizada e auditável          |
-| Confiabilidade    | Variável                 | Robusta e consistente             |
-| Escalabilidade    | Limitada                 | Multiuso e expansível             |
-| Ética/Compliance  | Complexa                 | Embutida por design               |
+| [Infraestrutura]()     | Duplicada                | Centralizada e compartilhada      |
+| [Custos]()            | Altos por redundância    | Eficientes via compartilhamento   |
+| [Governança]()        | Fragmentada              | Centralizada e auditável          |
+| [Confiabilidade]()    | Variável                 | Robusta e consistente             |
+| [Escalabilidade]()    | Limitada                 | Multiuso e expansível             |
+| [Ética/Compliance]()  | Complexa                 | Embutida por design               |
 
 
 <br><br>
