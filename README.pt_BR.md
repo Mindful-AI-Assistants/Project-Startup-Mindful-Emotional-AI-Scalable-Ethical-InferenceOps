@@ -514,7 +514,7 @@ A --> H[📜 Conformidade Regulatória]
 <br>
 
 
-## 5. [Comparação Direta entre Modelos]()
+## 5.1 [Comparação Direta entre Modelos]()
 
 <br>
 
@@ -532,7 +532,7 @@ A --> H[📜 Conformidade Regulatória]
 
 <br><br>
 
-### 5.1 [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
+### 5.2 [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
 
 <br>
 
@@ -563,7 +563,7 @@ A --> H[📜 Conformidade Regulatória]
 
 
 
-## 6. Dimensão Ética
+## 6. [Dimensão Ética]()
 
 Garantias de transparência, responsabilidade, privacidade fim a fim, conformidade com GDPR, LGPD e AI Act, e sustentabilidade. A dimensão ética é um pilar fundamental para a MindfulAI, refletindo o compromisso firme com a transparência, responsabilidade e alinhamento regulatório internacional.
 
