@@ -571,7 +571,7 @@ Destacamos especialmente a conformidade rigorosa com o AI Act da União Europeia
 
 <br>
 
-## 6.Regulamentação e Definição conforme EU AI Act
+## 6.[Regulamentação e Definição conforme EU AI Act]()
 
 <br>
 
@@ -582,7 +582,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 <br>
 
 
-## Proibições e Classificação de Alto Risco
+## [Proibições e Classificação de Alto Risco]()
 
 <br>
 
@@ -591,7 +591,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 <br>
 
-## Transparência e Proteção de Dados
+## [Transparência e Proteção de Dados]()
 
 <br>
 
@@ -600,7 +600,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 <br>
 
-## Equilíbrio entre Inovação e Regulação
+## [Equilíbrio entre Inovação e Regulação]()
 
 <br>
 
@@ -609,43 +609,43 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br>
 
-## Datas Importantes
+## [Datas Importantes]()
 
 <br>
 
-- 12 de julho de 2024: Publicação oficial do AI Act.
-- 1º de agosto de 2024: Entrada em vigor do AI Act.
-- 2 de fevereiro de 2025: Proibição de uso dos sistemas de reconhecimento emocional no trabalho e escolas.
-- 2 de agosto de 2026: Regras específicas de sistemas de alto risco entram em vigor.
-
-
-<br>
-
-## Fiscalização e Penalidades
-
-<br>
-
-- Não conformidade pode resultar em multas administrativas de até 35 milhões de euros ou 7% do faturamento mundial da empresa, o que for maior.
-- Penalidades específicas para prestadores, distribuidores, importadores, entre outros, podem chegar a 15 milhões de euros ou 3% do faturamento anual.
-- Informações falsas ou incompletas podem gerar multas de até 7,5 milhões de euros ou 1% do faturamento.
-- Micro, pequenas e médias empresas têm multas proporcionais e limitadas.
+[-]() 12 de julho de 2024: Publicação oficial do AI Act.
+[-]() 1º de agosto de 2024: Entrada em vigor do AI Act.
+[- ]()2 de fevereiro de 2025: Proibição de uso dos sistemas de reconhecimento emocional no trabalho e escolas.
+[-]() 2 de agosto de 2026: Regras específicas de sistemas de alto risco entram em vigor.
 
 
 <br>
 
-## Passos para Conformidade
+## [Fiscalização e Penalidades](
 
 <br>
 
-1. Entender escopo e definições: Confirmar se o sistema se enquadra como sistema de reconhecimento de emoções (Art. 3(39)).
-2. Avaliar proibições e classificações: Garantir que o uso não esteja em locais proibidos; verificar se o sistema é de alto risco.
-3. Medidas de Transparência: Informar os usuários sobre o uso de dados biométricos para inferência.
-4. Proteção de Dados: Alinhar processamento com GDPR, implementando salvaguardas eficientes.
-5. Gestão de Riscos: Avaliar e mitigar vieses e riscos de discriminação.
-6. Documentação: Manter registros detalhados de conformidade.
-7. Engajamento com Autoridades: Consultar órgãos reguladores para garantir alinhamento.
-8. Monitoramento contínuo: Revisar e atualizar práticas regularmente, incluindo treinamentos.
-9. Considerações Legais e Éticas: Assegurar alinhamento com a Carta dos Direitos Fundamentais da UE e normas éticas rigorosas.
+[-]() Não conformidade pode resultar em multas administrativas de até 35 milhões de euros ou 7% do faturamento mundial da empresa, o que for maior.
+[-]() Penalidades específicas para prestadores, distribuidores, importadores, entre outros, podem chegar a 15 milhões de euros ou 3% do faturamento anual.
+[-]() Informações falsas ou incompletas podem gerar multas de até 7,5 milhões de euros ou 1% do faturamento.
+[-]() Micro, pequenas e médias empresas têm multas proporcionais e limitadas.
+
+
+<br>
+
+## [Passos para Conformidade](
+
+<br>
+
+[1](). Entender escopo e definições: Confirmar se o sistema se enquadra como sistema de reconhecimento de emoções (Art. 3(39)).
+[2](). Avaliar proibições e classificações: Garantir que o uso não esteja em locais proibidos; verificar se o sistema é de alto risco.
+[3](). Medidas de Transparência: Informar os usuários sobre o uso de dados biométricos para inferência.
+[4](). Proteção de Dados: Alinhar processamento com GDPR, implementando salvaguardas eficientes.
+[5](). Gestão de Riscos: Avaliar e mitigar vieses e riscos de discriminação.
+[6](). Documentação: Manter registros detalhados de conformidade.
+[7](). Engajamento com Autoridades: Consultar órgãos reguladores para garantir alinhamento.
+[8](). Monitoramento contínuo: Revisar e atualizar práticas regularmente, incluindo treinamentos.
+[9](). Considerações Legais e Éticas: Assegurar alinhamento com a Carta dos Direitos Fundamentais da UE e normas éticas rigorosas.
 
 
 <br><br>
