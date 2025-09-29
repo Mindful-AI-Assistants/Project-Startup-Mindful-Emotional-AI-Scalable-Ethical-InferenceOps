@@ -510,6 +510,34 @@ A --> H[📜 Conformidade Regulatória]
 <br><br>
 
 
+### 5.1 [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
+
+<br>
+
+
+| [Aspecto]()                 | [Treinamento de IA]()                           | [Inferência de IA]()                         |
+|--------------------------|-------------------------------------------|-----------------------------------------|
+| [**Descrição**]()             | Processo de ensinar o modelo com muitos dados, ajustando seus parâmetros | Processo em que o modelo já treinado usa o aprendizado para analisar dados novos e fazer previsões |
+| [**Uso de recursos**]()       | Muito alto: requer muitas horas/dias em GPUs poderosas para processar dados e ajustar pesos | Menor, mas contínuo: cada previsão usa menos recursos, porém ocorre muitas vezes ao dia/mês |
+| [**Exemplo prático**]()        | Treinar um modelo de reconhecimento de voz com milhares de horas de áudio, rodando por vários dias em servidores de alto desempenho | Usar o modelo treinado para converter a voz do usuário em texto em tempo real no celular |
+| [**Comparação de custo**]()    | Treinamento pode custar milhares de dólares em computação em nuvem para um grande modelo | Inferência pode custar centavos por mil previsões, mas o custo acumula com muitos usuários |
+| [**Frequência**]()             | Uma vez ou poucas vezes (quando o modelo precisa ser atualizado) | Contínua, toda vez que o sistema usa a IA para uma previsão ou decisão |
+| [**Duração típica**]()         | Dias a semanas dependendo do modelo e dados | Milissegundos a segundos por previsão |
+| [**Impacto da escala**]()      | Maior escala significa mais dados e mais tempo de processamento para treinar | Maior escala significa mais previsões feitas, aumentando os custos de inferência proporcionalmente |
+
+
+<br>
+
+
+### [Conclusão]()
+
+- O [**treinamento**]() é uma etapa pesada e mais cara, mas é feita esporadicamente.
+- A [**inferência**]() é uma etapa leve, porém constante, que ocorre toda vez que o sistema utiliza a IA para decisões em tempo real.
+- É comum que a soma de custos da inferência ao longo do tempo seja significativa, especialmente para serviços com muitos usuários.
+
+
+
+<br><br>
 
 
 
@@ -519,12 +547,6 @@ A --> H[📜 Conformidade Regulatória]
 
 
 
-
-
-
-
-
-<br><br><br>
 
 
 
