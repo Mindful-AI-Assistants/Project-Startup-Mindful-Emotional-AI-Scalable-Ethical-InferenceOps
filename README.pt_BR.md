@@ -586,8 +586,9 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 <br>
 
-- Proibição no ambiente de trabalho e educacional: Conforme o Artigo 5(1)(f), o uso desses sistemas nesses locais é proibido, salvo para finalidades médicas ou de segurança, dada a alta possibilidade de resultados enviesados, discriminatórios e a complexidade dos sinais emocionais em diferentes culturas e indivíduos.
-- Classificação como sistema de alto risco: O Anexo III classifica esses sistemas como “alto risco”, sujeitando-os a rigorosos requisitos regulatórios devido ao potencial de discriminação e impacto sobre direitos fundamentais.
+[-]() Proibição no ambiente de trabalho e educacional: Conforme o Artigo 5(1)(f), o uso desses sistemas nesses locais é proibido, salvo para finalidades médicas ou de segurança, dada a alta possibilidade de resultados enviesados, discriminatórios e a complexidade dos sinais emocionais em diferentes culturas e indivíduos.
+  
+[-]() Classificação como sistema de alto risco: O Anexo III classifica esses sistemas como “alto risco”, sujeitando-os a rigorosos requisitos regulatórios devido ao potencial de discriminação e impacto sobre direitos fundamentais.
 
 <br>
 
@@ -595,8 +596,9 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 <br>
 
-- O Artigo 50(3) do AI Act exige que os usuários saibam quando seus dados biométricos são processados para inferência emocional, assegurando transparência acessível inclusive para grupos vulneráveis, conforme Recital 132.
-- O Regulamento Geral sobre a Proteção de Dados (GDPR) complementa esse quadro, impondo regras estritas para o tratamento dos dados biométricos, que são dados sensíveis. Compliance com GDPR é obrigatória, garantindo a proteção dos direitos e liberdades dos indivíduos.
+[-]() O Artigo 50(3) do AI Act exige que os usuários saibam quando seus dados biométricos são processados para inferência emocional, assegurando transparência acessível inclusive para grupos vulneráveis, conforme Recital 132.
+ 
+[-]() O Regulamento Geral sobre a Proteção de Dados (GDPR) complementa esse quadro, impondo regras estritas para o tratamento dos dados biométricos, que são dados sensíveis. Compliance com GDPR é obrigatória, garantindo a proteção dos direitos e liberdades dos indivíduos.
 
 <br>
 
@@ -614,8 +616,11 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 <br>
 
 [-]() 12 de julho de 2024: Publicação oficial do AI Act.
+
 [-]() 1º de agosto de 2024: Entrada em vigor do AI Act.
+
 [- ]()2 de fevereiro de 2025: Proibição de uso dos sistemas de reconhecimento emocional no trabalho e escolas.
+
 [-]() 2 de agosto de 2026: Regras específicas de sistemas de alto risco entram em vigor.
 
 
@@ -626,8 +631,11 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 <br>
 
 [-]() Não conformidade pode resultar em multas administrativas de até 35 milhões de euros ou 7% do faturamento mundial da empresa, o que for maior.
+
 [-]() Penalidades específicas para prestadores, distribuidores, importadores, entre outros, podem chegar a 15 milhões de euros ou 3% do faturamento anual.
+
 [-]() Informações falsas ou incompletas podem gerar multas de até 7,5 milhões de euros ou 1% do faturamento.
+
 [-]() Micro, pequenas e médias empresas têm multas proporcionais e limitadas.
 
 
