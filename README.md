@@ -712,7 +712,7 @@ As AI systems become more widespread, it is essential to address potential risks
 
 <br><br>
 
-### 7.1- [Metrics to Measure Results in Real Market Cases]()
+## 7.1- [Metrics to Measure Results in Real Market Cases]()
 
 - [Mental Health (ex: Vittude)]():
   
@@ -761,7 +761,7 @@ The Brazilian company **Neoway** implemented Emotion AI technology for financial
 
 <br>
 
-### 8.1- [Metrics to Measure Fraud Detection with Mindful Emotional AI]()
+## 8.1- [Metrics to Measure Fraud Detection with Mindful Emotional AI]()
 
 - False positive rate (%)
 - Fraud detection accuracy (%)
@@ -790,7 +790,7 @@ Mindful Emotional AI recommends:
 
 <br><br>
 
-# 9.2- [Social Impact]()
+## 9.2- [Social Impact]()
 
 With Mindful Emotional AI, Brazilian companies have promoted emotional health and well-being. Stress and burnout prevention programs are strengthened by continuous emotional data analysis, creating more humane and empathetic corporate environments. The social impact includes increased productivity, engagement, and quality of life among workers and service users.
 
