@@ -38,7 +38,7 @@
 <br><br><br>
 
 
-<h1 align="center">  $$\Huge {\textbf{\color{cyan} Mindful Emotional AI:} \space \textbf{\color{white} Scalable, Ethical and InferenceOps} \space \textbf{\color{cyan} ॐ}}$$ 
+<h1 align="center">  $$\Huge {\textbf{\color{cyan} Mindful Emotional AI:} \space \textbf{\color{white} Scalable, Ethical and InferenceOps} \space \textbf{\color{cyan} 𝚿}}$$ 
 
 
 
