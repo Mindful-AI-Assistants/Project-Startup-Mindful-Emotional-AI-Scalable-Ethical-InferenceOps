@@ -878,7 +878,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br>
 
-* [Click here to see how to calculate ARPU](#) 
+* [Click here to see how to calculate ARPU](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/blob/f28665a93dde0c5fcc598e119d42571d1c799089/%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%A7%F0%9F%87%B7How%20to%20calculate%20ARPU.md) 
 
 
 <br><br>
