@@ -781,7 +781,7 @@ Mindful Emotional AI recommends:
 
 <br>
 
-### 10.1 Metrics to Measure [Best Practices for Implementation]()
+### 10.1 [Metrics to Measure Best Practices for Implementation]()
 
 - System downtime rate (% of operational time)
 - Average API latency (milliseconds)
@@ -796,7 +796,7 @@ With Mindful Emotional AI, Brazilian companies have promoted emotional health an
 
 <br>
 
-### 11.1 Metrics to Measure [Social Impact]()
+### 11.1 [Metrics to Measure Social Impact]()
 
 - Stress and burnout reduction index (%) among employees
 - Increase in perception of technological humanization (qualitative survey)
