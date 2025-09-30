@@ -471,8 +471,24 @@ flowchart TD
 
 <br><br><br>
 
+## 5.0 [Direct Comparison Between Models]()
 
-## 5. [Direct Comparison Between Models - Diagrams]()
+<br>
+
+| [Aspect]()            | [Traditional ML Ops]()        | [InferenceOps]()                        |
+|-----------------------|------------------------------|---------------------------------------|
+| [Infrastructure]()     | Duplicated                   | Centralized and shared                 |
+| [Costs]()              | High due to redundancy       | Efficient through sharing              |
+| [Governance]()         | Fragmented                   | Centralized and auditable              |
+| [Reliability]()        | Variable                    | Robust and consistent                  |
+| [Scalability]()        | Limited                      | Multi-use and scalable                 |
+| [Ethics/Compliance]()  | Complex                      | Built-in by design                     |
+
+
+<br><br>
+
+
+## 5.1. [Direct Comparison Between Models - Diagrams]()
 
 <br>
 
@@ -520,22 +536,6 @@ A --> H[📜 Regulatory Compliance]
 ```
 
 <br><br><br>
-
-## 5.1 [Direct Comparison Between Models]()
-
-<br>
-
-| [Aspect]()            | [Traditional ML Ops]()        | [InferenceOps]()                        |
-|-----------------------|------------------------------|---------------------------------------|
-| [Infrastructure]()     | Duplicated                   | Centralized and shared                 |
-| [Costs]()              | High due to redundancy       | Efficient through sharing              |
-| [Governance]()         | Fragmented                   | Centralized and auditable              |
-| [Reliability]()        | Variable                    | Robust and consistent                  |
-| [Scalability]()        | Limited                      | Multi-use and scalable                 |
-| [Ethics/Compliance]()  | Complex                      | Built-in by design                     |
-
-
-<br><br>
 
 
 ### 5.2 [Practical Examples of Computational Cost - AI Training vs Inference]()
