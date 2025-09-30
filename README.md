@@ -318,8 +318,10 @@ To strengthen operations and continuously innovate, MindfulAI integrates PUC-SP 
 
  <br>
  
-
-> This partnership promotes constant exchange between academia and the market, fostering innovation and aligned talent.
+> [!TIP]
+>
+> ### This partnership promotes constant exchange between academia and the market, fostering innovation and aligned talent
+> 
 
 <br>
 
