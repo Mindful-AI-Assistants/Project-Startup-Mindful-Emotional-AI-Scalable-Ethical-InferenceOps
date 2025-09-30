@@ -39,7 +39,7 @@
 <br><br>
 
 
-<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Emotional} \space \textbf{\color{white} 𝚿} \space \textbf{\color{cyan} ॐ}}$$ 
+<h1 align="center">  $$\Huge {\textbf{\color{cyan} Mindful Emotional AI} \space \textbf{\color{white}   InferenceOps • Ethical} \space \textbf{\color{cyan} 𝚿}}$$ 
 
 
 
