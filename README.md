@@ -761,7 +761,7 @@ The Brazilian company **Neoway** implemented Emotion AI technology for financial
 
 <br>
 
-### 9.1 Metrics to Measure [Fraud Detection with Mindful Emotional AI]()
+### 9.1 [Metrics to Measure Fraud Detection with Mindful Emotional AI]()
 
 - False positive rate (%)
 - Fraud detection accuracy (%)
@@ -1045,7 +1045,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br>
 
-## [22a.]() Links of Financial Reference
+## [22b.]() Links of Financial Reference
 
 <br>
 
