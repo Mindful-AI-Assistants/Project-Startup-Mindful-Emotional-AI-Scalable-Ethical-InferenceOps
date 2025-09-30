@@ -844,19 +844,42 @@ With Mindful Emotional AI, Brazilian companies have promoted emotional health an
 
 <br><br>
 
+
 # 19. [Financial Plan – Mindful Emotion AI]()
 
 This plan consolidates and corrects inconsistencies, providing transparent projections, operational breakdowns, break-even, and cash flow for sustainable management.
 
 <br>
 
+## 19.0 [What is SaaS? Explanation and Source of Values]()
+
+**Software as a Service (SaaS)** is a software delivery model where applications are hosted by a service provider and accessed by users over the internet, typically via a subscription model rather than one-time purchase and installation.
+
+In SaaS, the service provider manages the infrastructure, security, updates, and maintenance centrally, allowing clients to use the software on demand. This approach offers flexibility, scalability, and predictable costs.
+
+The values used in this plan are based on market research and industry benchmarks for SaaS startups, including:
+
+- Average Revenue Per User (ARPU) derived from SaaS industry reports.
+- Customer growth projections consistent with typical SaaS adoption curves.
+- Cost structure percentages reflecting cloud infrastructure, technical teams, marketing, and administrative components common in tech startups.
+- Financial benchmarks from sources like Finrofca, GetSmartCue, and Chargebee, cited below.
+
+This ensures the financial model is grounded in realistic assumptions aligned with the SaaS business model.
+
+<br>
+
 ## 19.1 [Financial Projections]()
 
-Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/blob/c68c7ffcb9fbd5615973d14cc6543a5dec45a9a4/SaaS_Software_as_a_Service.md) - Software as Servive subscription model plus custom AI services.
+Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/blob/c68c7ffcb9fbd5615973d14cc6543a5dec45a9a4/SaaS_Software_as_a_Service.md) - Software as Service subscription model plus custom AI services.
 
 - [**Active users forecast:**]() Begin with 1,000, scaling to 10,000 in 12 months.
-- [**Initial ARPU:**]() R$ 80.00/month.
+- [**Initial ARPU - Average Revenue Per User :**]() R$ 80.00/month.
 - [**Additional income:**]() Consulting/integration projects.
+
+<br>
+
+* [Click here to see how to calculate ARPU](#) 
+
 
 <br><br>
 
@@ -865,7 +888,6 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 | 1     | 1,000        | 80,000              | 40,000           | 20,000              | 20,000                |
 | 6     | 5,000        | 400,000             | 60,000           | 80,000              | 260,000               |
 | 12    | 10,000       | 800,000             | 90,000           | 160,000             | 550,000               |
-
 
 <br><br>
 
@@ -903,7 +925,6 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 ### [First-Year]() Summary Table
 
 <br>
-
 
 | [Item]()              | [Monthly Value (R$)]() | [Notes]()                                              |
 |-----------------------|-----------------------|-------------------------------------------------------|
@@ -944,12 +965,9 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 - [SaaS revenue planning – GetSmartCue](https://www.getsmartcue.com/blog/saas-financial-model-template)  
 - [Chargebee SaaS Financial Models](https://www.chargebee.com/blog/saas-financial-models/)
 
-<br><br>
 
 
 <br><br>
-
-
 
 
 
