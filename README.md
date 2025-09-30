@@ -681,7 +681,7 @@ As AI systems become more widespread, it is essential to address potential risks
 <br><br>
 
 
-| [Purpose and Linkt]()                                                                                                              | [Description]()                                                                                     |
+| [Purpose and Links]()                                                                                                              | [Description]()                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [TensorFlow's Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)                                                 | Identifies and reduces biases, protects privacy, and promotes transparency                       |
 | [Microsoft Responsible AI Toolbox](https://responsibleaitoolbox.ai/)                                                            | Assesses model fairness, provides insights for informed decisions                              |
