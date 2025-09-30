@@ -462,7 +462,26 @@ flowchart TD
 <br><br><br>
 
 
-## 5. [Comparação Direta Entre Modelos - Diagramas]()
+## 5 [Comparação Direta entre Modelos]()
+
+<br>
+
+
+
+| [Aspecto]()            | [Traditional ML Ops]()        | [InferenceOps]()                        |
+|--------------------|--------------------------|-----------------------------------|
+| [Infraestrutura]()     | Duplicada                | Centralizada e compartilhada      |
+| [Custos]()            | Altos por redundância    | Eficientes via compartilhamento   |
+| [Governança]()        | Fragmentada              | Centralizada e auditável          |
+| [Confiabilidade]()    | Variável                 | Robusta e consistente             |
+| [Escalabilidade]()    | Limitada                 | Multiuso e expansível             |
+| [Ética/Compliance]()  | Complexa                 | Embutida por design               |
+
+
+<br><br>
+
+
+## 5.1 [Comparação Direta Entre Modelos - Diagramas]()
 
 <br>
 
@@ -517,24 +536,6 @@ A --> H[📜 Conformidade Regulatória]
 
 <br>
 
-
-## 5.1 [Comparação Direta entre Modelos]()
-
-<br>
-
-
-
-| [Aspecto]()            | [Traditional ML Ops]()        | [InferenceOps]()                        |
-|--------------------|--------------------------|-----------------------------------|
-| [Infraestrutura]()     | Duplicada                | Centralizada e compartilhada      |
-| [Custos]()            | Altos por redundância    | Eficientes via compartilhamento   |
-| [Governança]()        | Fragmentada              | Centralizada e auditável          |
-| [Confiabilidade]()    | Variável                 | Robusta e consistente             |
-| [Escalabilidade]()    | Limitada                 | Multiuso e expansível             |
-| [Ética/Compliance]()  | Complexa                 | Embutida por design               |
-
-
-<br><br>
 
 ### 5.2 [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
 
