@@ -845,13 +845,13 @@ With Mindful Emotional AI, Brazilian companies have promoted emotional health an
 <br><br>
 
 
-# 19. [Financial Plan – Mindful Emotion AI]()
+# 19- [Financial Plan – Mindful Emotion AI]()
 
 This plan consolidates and corrects inconsistencies, providing transparent projections, operational breakdowns, break-even, and cash flow for sustainable management.
 
 <br>
 
-## 19.0 [What is SaaS? Explanation and Source of Values]()
+## 19.1- [What is SaaS? Explanation and Source of Values]()
 
 **Software as a Service (SaaS)** is a software delivery model where applications are hosted by a service provider and accessed by users over the internet, typically via a subscription model rather than one-time purchase and installation.
 
@@ -868,7 +868,7 @@ This ensures the financial model is grounded in realistic assumptions aligned wi
 
 <br>
 
-## 19.1 [Financial Projections]()
+## 19.2- [Financial Projections]()
 
 Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/blob/c68c7ffcb9fbd5615973d14cc6543a5dec45a9a4/SaaS_Software_as_a_Service.md) - Software as Service subscription model plus custom AI services.
 
@@ -907,14 +907,14 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br>
 
-## 19.3 [Break-Even Analysis]()
+## 19.3- [Break-Even Analysis]()
 
 - **Break-even:** Achieved with ~1,200 users (R$ 96,000/month revenue)
 - **Expected timeline:** 4–6 months post-launch, given projected ramp.
 
 <br>
 
-## 19.4 [Cash Flow and Funding]()
+## 19.4- [Cash Flow and Funding]()
 
 - **Monthly monitoring** for solvency, reinvestment.
 - **Initial funds** via angel investors/PUC-Angel.
@@ -949,7 +949,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br><br>
 
-## 19.5 [Key Management Insights]()
+## 19.5- [Key Management Insights]()
 
 - Track consistency monthly: update projections, actions, goals.
 - Align revenue/cost scaling with actuals and user base.
@@ -968,16 +968,13 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 
 <br><br>
+<br><br>
 
-
-
-
-
-
+<br><br>
 <br><br>
 
 
-## 21.  [Our Crew:]()
+## 21-  [Our Crew:]()
 
 
 - 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
@@ -998,7 +995,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 <br><br>
 
 
-# 22. [Bibliography and Links]()
+# 22- [Bibliography and Links]()
 
 
 [-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
@@ -1027,7 +1024,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 <br>
 
 
-## [22a.]() Links of Technical References, Normative and Academic Studies
+## [22a-]() Links of Technical References, Normative and Academic Studies
 
 
 <br>
@@ -1063,7 +1060,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br>
 
-## [22b.]() Links of Financial Reference
+## [22b-]() Links of Financial Reference
 
 <br>
 
