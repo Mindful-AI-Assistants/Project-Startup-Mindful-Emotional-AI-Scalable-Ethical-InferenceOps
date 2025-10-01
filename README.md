@@ -1067,8 +1067,6 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 - 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
 
-
-
 <br><br>
 
 
