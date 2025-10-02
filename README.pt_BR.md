@@ -50,10 +50,7 @@
 
 https://github.com/user-attachments/assets/e0e61bb2-9925-4653-8ac9-abe61cec8def
 
-<br><br>
 
-
-### [**Presentation**](https://www.beautiful.ai/player/-OaVeXNhzGw-lQajhNjP)
 
 <!--===  Torsion VIDEO
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
@@ -76,6 +73,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
+<br><br>
+
+
+ ### <p align="center"> [**Presentation**](https://www.beautiful.ai/player/-OaVeXNhzGw-lQajhNjP)
 
 
 <br><br><br>
@@ -83,6 +84,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 #
 
 <br><br><br>
+
+
 
 
 
