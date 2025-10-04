@@ -131,6 +131,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 ##  Sumário
 
+<br>
 
 1. [Introdução](#introduction)  
 2. [O Problema e a  Solução — InferenceOps para Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
