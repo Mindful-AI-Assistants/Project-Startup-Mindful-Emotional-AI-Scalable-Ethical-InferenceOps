@@ -867,7 +867,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 
 
-# 8-. [Caso Prático — Detecção de Fraude com Mindful Emotional AI]()
+# 8- [Caso Prático — Detecção de Fraude com Mindful Emotional AI]()
 
 <br> 
 
@@ -875,7 +875,7 @@ A empresa brasileira **Neoway** implementou a tecnologia de Emotion AI para dete
 
 <br>
 
-## 8.1 Métricas para Medir  [Detecção de Fraude com Mindful Emotional AI]()
+## 8.1- Métricas para Medir  [Detecção de Fraude com Mindful Emotional AI]()
 
 <br> 
 
@@ -925,10 +925,13 @@ Com a Mindful Emotional AI, empresas brasileiras têm promovido saúde emocional
 
 <br> 
 
-- Índice de redução de estresse e burnout (%) em colaboradores
-- Aumento na percepção de humanização tecnológica (pesquisa qualitativa)
-- Aumento da produtividade medido por metas alcançadas (%)
-- Feedback positivo de usuários e colaboradores (NPS ou similar)
+[-]() Índice de redução de estresse e burnout (%) em colaboradores
+
+-]() Aumento na percepção de humanização tecnológica (pesquisa qualitativa)
+
+[-]() Aumento da produtividade medido por metas alcançadas (%)
+
+[-]() Feedback positivo de usuários e colaboradores (NPS ou similar)
 
 
 <br><br>
@@ -1009,19 +1012,25 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 ### - [**Objetivos Estratégicos**]()
 
-- Desenvolver e lançar um MVP funcional em até 6 meses.  
-- Alcançar 1.000 clientes em até 12 meses.  
-- Estabelecer parcerias estratégicas acadêmicas e comerciais.  
-- Garantir plena conformidade com regulamentações globais.
+[-]() Desenvolver e lançar um MVP funcional em até 6 meses.  
+
+[-]() Alcançar 1.000 clientes em até 12 meses.  
+
+[-]() Estabelecer parcerias estratégicas acadêmicas e comerciais.  
+
+[-]() Garantir plena conformidade com regulamentações globais.
 
 <br>
 
 ### - [**Metas Específicas**]()  
 
-- Concluir P&D com alunos da PUC-SP até o mês 4.  
-- Implementar a infraestrutura InferenceOps até o mês 5.  
-- Obter assinaturas piloto iniciais até o mês 8.  
-- Validar o processo de governança e auditoria até o mês 10.
+[-]() Concluir P&D com alunos da PUC-SP até o mês 4.  
+
+[-]() Implementar a infraestrutura InferenceOps até o mês 5.  
+
+[-]() Obter assinaturas piloto iniciais até o mês 8.  
+
+[-]() Validar o processo de governança e auditoria até o mês 10.
 
 
 <br><br>
@@ -1058,10 +1067,13 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 
 <br>
 
-- Infraestrutura tecnológica: servidores, nuvem, ferramentas de monitoramento.  
-- Equipe interdisciplinar: cientistas de dados, engenheiros, especialistas em ética e compliance.  
-- Marketing digital e eventos para aquisição de clientes.  
-- Consultoria jurídica e treinamentos.
+[-]() Infraestrutura tecnológica: servidores, nuvem, ferramentas de monitoramento.  
+
+[-]() Equipe interdisciplinar: cientistas de dados, engenheiros, especialistas em ética e compliance.  
+
+[-]() Marketing digital e eventos para aquisição de clientes.  
+
+[-]() Consultoria jurídica e treinamentos.
 
 <br><br>
 
@@ -1069,9 +1081,11 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 
 <br>
 
-- KPIs alinhados aos objetivos: adoção de clientes, receita, satisfação, conformidade.  
-- Revisões estratégicas trimestrais para ajustes com base em dados de desempenho.  
-- Flexibilidade para adaptação rápida às mudanças do mercado.
+[-]() KPIs alinhados aos objetivos: adoção de clientes, receita, satisfação, conformidade.  
+
+[-]() Revisões estratégicas trimestrais para ajustes com base em dados de desempenho.  
+
+[-]() Flexibilidade para adaptação rápida às mudanças do mercado.
 
 
 <br><br>
