@@ -417,7 +417,7 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br>
   
-###  [Exemplos de IA Tradicional]():
+##  [Exemplos de IA Tradicional]():
 
 <br>
   
@@ -449,7 +449,7 @@ E[Equipe de Logística] --> F[Modelo Próprio]
 <br>
 
 
-###  [IA Moderna (Hoje)]()
+##  [IA Moderna (Hoje)]()
 
 <br>
 
