@@ -429,7 +429,7 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 <br><br>
 
 
-### <p align="center"> [Antes]() - ML Tradicional
+### <p align="center"> ➠ [Antes]() - ML Tradicional
 
 
 <br><br>
@@ -473,7 +473,7 @@ E[Equipe de Logística] --> F[Modelo Próprio]
 
 <br>
 
-### <p align="center">  [Depois]() - InferenceOps
+### <p align="center">  ➠  [Depois]() - InferenceOps
 
 <br><br>
 
