@@ -792,7 +792,8 @@ A empresa brasileira **Neoway** implementou a tecnologia de Emotion AI para dete
 
 ## 9- [ Boas Práticas de Implementação]()
 
-A Mindful Emotional AI recomenda:
+### [A Mindful Emotional AI recomenda:]()
+
 - Rigoroso pré-processamento de dados para alta qualidade.
 - Uso de APIs escaláveis para fácil integração com sistemas legados.
 - Monitoramento em tempo real para ajustes imediatos na performance.
