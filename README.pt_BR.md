@@ -948,7 +948,7 @@ Com a Mindful Emotional AI, empresas brasileiras têm promovido saúde emocional
 
 <br> 
 
-## 11.1-  [Missão e Visãol]()
+## -  [**Missão e Visão**l]()
 
 <br>
 
@@ -982,7 +982,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-## 11.2- [Análise SWOT]()
+## 11.1- [Análise SWOT]()
 
 
 <br>
@@ -1006,7 +1006,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-## 11.3- [Objetivos e Metas]()
+## 11.2- [Objetivos e Metas]()
 
 <br>
 
@@ -1036,7 +1036,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 <br><br>
 
 
-## 11.4- [Contexto de Negócio: Importância da Cadeia de Suprimentos]()
+## 11.3- [Contexto de Negócio: Importância da Cadeia de Suprimentos]()
 
 <br>
 
@@ -1046,7 +1046,7 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 <br><br>
 
 
-## 11.5- [Plano de Ação]()
+## 11.4- [Plano de Ação]()
 
 <br>
 
@@ -1063,7 +1063,7 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 <br><br>
 
 
-## 11.6- [Orçamento e Recursos]()
+## 11.5- [Orçamento e Recursos]()
 
 <br>
 
@@ -1075,9 +1075,11 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 
 [-]() Consultoria jurídica e treinamentos.
 
+
 <br><br>
 
-## 11.7- [Monitoramento e Avaliação]()
+
+## 11.6- [Monitoramento e Avaliação]()
 
 <br>
 
