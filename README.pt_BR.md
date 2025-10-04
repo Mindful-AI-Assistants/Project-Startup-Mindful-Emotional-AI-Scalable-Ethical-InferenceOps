@@ -583,7 +583,7 @@ A --> H[📜 Conformidade Regulatória]
 
 ## 4.2- [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
 
-<br>
+<br><br>
 
 
 | [Aspecto]()                 | [Treinamento de IA]()                           | [Inferência de IA]()                         |
@@ -660,7 +660,7 @@ O Recital 18 esclarece que esses sistemas abrangem emoções como felicidade, tr
 
 O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos fundamentais, impondo medidas para mitigar riscos de uso indevido e discriminação. A classificação de alto risco não significa permissão automática, pois o uso deve estar conforme leis existentes e princípios da Carta dos Direitos Fundamentais da UE.
 
-<br>
+<br><br>
 
 ## 5.5- [Datas Importantes]()
 
