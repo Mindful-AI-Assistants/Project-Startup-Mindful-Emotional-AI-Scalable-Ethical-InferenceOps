@@ -428,8 +428,12 @@ E[Equipe de Logística] --> F[Modelo Próprio]
   - Auditorias se tornam impossíveis.
 
 
-<br><br>
 
+<br>
+
+#
+
+<br>
 
 ### <p align="center">  [Depois]() - InferenceOps
 
