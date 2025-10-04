@@ -1159,16 +1159,22 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 
 # 19- [Plano Financeiro – Mindful Emotion AI]()
 
+<br>
+
 Este plano consolida e corrige inconsistências, fornecendo projeções transparentes, detalhamentos operacionais, ponto de equilíbrio e fluxo de caixa para uma gestão sustentável.
 
 <br>
 
 ## 19.1- [Projeções Financeiras]()
 
+<br>
+
 O crescimento é baseado num modelo de assinatura SaaS com serviços de IA customizados.
 
 - [**Previsão de usuários ativos:**]() Começa com 1.000 e escala até 10.000 em 12 meses.
+
 - [**ARPU inicial:**]() R$ 80,00/mês.
+
 - [**Receita adicional:**]() Projetos de consultoria/integração.
 
 <br><br>
@@ -1195,8 +1201,11 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 <br>
 
 - **Infraestrutura de nuvem:** ~30%
+
 - **Equipe técnica:** ~40%
+
 - **Marketing/aquisição:** ~20%
+
 - **Administrativo/jurídico:** ~10%
 
 <br>
@@ -1220,7 +1229,7 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 
 <br>
 
-### [Resumo do Primeiro Ano]()
+## [Resumo do Primeiro Ano]()
 
 <br><br>
 
@@ -1239,18 +1248,21 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 | [**Custos Variáveis**]() | 5.000                 | Suporte/otimização                                    |
 | [**Lucro Líquido**]() | 15.000                | Após todos os custos                                  |
 
+
 <br><br>
 
-- [**Ponto de equilíbrio:**]() R$ 55.000/mês  
+### - [**Ponto de equilíbrio:**]() R$ 55.000/mês  
 
-[**Receita mensal projetada:**]() R$ 70.000  
+### - [**Receita mensal projetada:**]() R$ 70.000  
 
-[**Margem de segurança inicial:**]() R$ 15.000
+### - Margem de segurança inicial:**]() R$ 15.000
 
 
 <br><br>
 
 ## 19.5- [Insights de Gestão]()
+
+<br>
 
 - Acompanhe a consistência mensalmente: atualize projeções, ações e metas.
 
@@ -1264,23 +1276,28 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 
 <br>
 
-### [**Referências:**]()
 
-- [Financial Modeling for AI Startups – Finrofca](https://www.finrofca.com/news/financial-modeling-for-ai-startups)  
+## [**Referências:**]()
 
-- [Planejamento de receita SaaS – GetSmartCue](https://www.getsmartcue.com/blog/saas-financial-model-template)  
+<br>
 
-- [Modelos SaaS – Chargebee](https://www.chargebee.com/blog/saas-financial-models/)
+### - [Financial Modeling for AI Startups – Finrofca](https://www.finrofca.com/news/financial-modeling-for-ai-startups)  
+
+### - [Planejamento de receita SaaS – GetSmartCue](https://www.getsmartcue.com/blog/saas-financial-model-template)  
+
+### - [Modelos SaaS – Chargebee](https://www.chargebee.com/blog/saas-financial-models/)
 
 <br><br>
-
-
-
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 
 ## 21-  [Nossa TRipilação]()
+
+<br>
 
 
 - 👨🏽‍🚀 [**Andson Ribeiro**](https://github.com/andsonandreribeiro09)
@@ -1296,11 +1313,12 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 - 🧑🏼‍🚀 [**Pedro Vyctor**](https://github.com/Pgbarenco)
 
 
-
 <br><br>
 
 
 # 22- [Bibliografia e Links]()
+
+<br>
 
 
 [-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
@@ -1330,7 +1348,6 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 
 
 ## [22a-]() Links de Referências Técnicas, Normativas e Acadêmicas
-
 
 <br>
 
@@ -1377,8 +1394,6 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 5- https://stripe.com/br/resources/more/revenue-planning-101-a-guide-for-businesses
 
 6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
-
-
 
 
 <br><br>
