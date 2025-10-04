@@ -946,10 +946,6 @@ Com a Mindful Emotional AI, empresas brasileiras têm promovido saúde emocional
 
 # 11- [Planejamento Estratégico para Startup de MindFul Emotional AI ]()
 
-<br> 
-
-## -  [**Missão e Visão**l]()
-
 <br>
 
 ### - [**Missão**]()  
