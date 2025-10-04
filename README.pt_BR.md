@@ -858,7 +858,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 <br><br>
 
 
-### 11.2- [Análise de Mercado e Público-Alvol]()
+### 11.2- [Análise de Mercado e Público-Alvo]()
 
 - O mercado global e nacional de IA Emocional está se expandindo rapidamente, particularmente por meio de modelos SaaS.  
 - Clientes-alvo incluem empresas dos setores de saúde, finanças, recursos humanos, atendimento ao cliente, segurança veicular e, principalmente, cadeia de suprimentos e logística.  
@@ -868,19 +868,22 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-### 11.3- [Análise SWOTl]()
+### 11.3- [Análise SWOT]()
 
 
-| Forças                         | Fraquezas                     |
+<br><br>
+
+| [Forças]()                       | [Fraquezas]()                     |
 |--------------------------------|-------------------------------|
 | Tecnologia única InferenceOps   | Startup em estágio inicial    |
 | Forte conformidade ética        | Investimento inicial significativo |
 | Parceria acadêmica com PUC-SP   | Dependência da aceitação do mercado |
 
+
 <br><br>
 
 
-| Oportunidades                   | Ameaças                        |
+| [Oportunidades]()                   | [Ameaças]()                   |
 |---------------------------------|--------------------------------|
 | Mercado de IA Emocional em crescimento | Forte concorrência internacional |
 | Adoção regulatória favorável    | Riscos de segurança e reputação |
@@ -889,9 +892,11 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-### 11.4 Objetivos e Metas
+### 11.4 p[Objetivos e Metas]()
 
-**Objetivos Estratégicos**
+<br>
+
+### - [**Objetivos Estratégicos**]()
 
 - Desenvolver e lançar um MVP funcional em até 6 meses.  
 - Alcançar 1.000 clientes em até 12 meses.  
@@ -900,7 +905,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br>
 
-**Metas Específicas**  
+### - [**Metas Específicas**]()  
 
 - Concluir P&D com alunos da PUC-SP até o mês 4.  
 - Implementar a infraestrutura InferenceOps até o mês 5.  
@@ -911,7 +916,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 <br><br>
 
 
-### 11.5 Contexto de Negócio: Importância da Cadeia de Suprimentos
+### 11.5 [Contexto de Negócio: Importância da Cadeia de Suprimentos]()
 
 A cadeia de suprimentos é um sistema crítico e complexo que integra todas as atividades envolvidas na produção e entrega de bens ou serviços, desde a aquisição de matéria-prima até a entrega final ao cliente. A gestão eficiente da cadeia envolve compras, produção, armazenamento, transporte e logística, exigindo coordenação precisa para minimizar custos, otimizar prazos e manter a qualidade. Na Mindful Emotional AI, a integração da análise emocional permite identificar precocemente erros humanos, estresse e fadiga entre operadores e gestores, alinhando a inteligência artificial à melhoria contínua da produtividade e segurança operacional. Essa abordagem inovadora busca não apenas eficiência logística, mas também ambientes de trabalho mais saudáveis e sustentáveis, garantindo conformidade ética e regulatória ao longo de todo o ciclo da cadeia de suprimentos.
 
@@ -919,7 +924,7 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 <br><br>
 
 
-### 11.6 Plano de Ação
+### 11.6 [Plano de Ação]()
 
 <br>
 
