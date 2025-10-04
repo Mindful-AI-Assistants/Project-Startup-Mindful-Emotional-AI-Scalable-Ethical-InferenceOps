@@ -183,9 +183,15 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 [**Mindful Emotional AI**]() está transformando a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados: voz, texto, expressões faciais e sinais fisiológicos—para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual. Isso inclui [**Processamento de Linguagem Natural (NLP)**](), um campo da IA que permite que computadores compreendam, interpretem e gerem a linguagem humana, permitindo que o sistema analise textos e fala como parte do reconhecimento emocional.
 
+<br>
+
 Baseada no paradigma [**InferenceOps**]() que envolve implantação, monitoramento e ajuste automatizado de modelos de IA para manter desempenho e eficiência, a startup entrega soluções [**escaláveis**]() capazes de crescer e lidar com volumes cada vez maiores de dados e usuários sem perda de qualidade ou performance, permanecendo transparente e em conformidade com regulamentações internacionais como o [**GDPR**]() (Regulamento Geral de Proteção de Dados da União Europeia) e o [**EU AI Act**]() (marco regulatório europeu para IA ética, segura e transparente).
 
+<br>
+
 Sua [**arquitetura modular**]() permite que componentes sejam adaptados ou substituídos de acordo com as necessidades de diferentes setores, como saúde, finanças, publicidade, saúde mental, automotivo e educação. Apoiada por parcerias acadêmicas e ciclos contínuos de inovação, a [**Mindful Emotional AI**]() conecta tecnologia de ponta a impactos sociais e éticos reais.
+
+<br>
 
 Ao aplicar técnicas capazes de reconhecer e interpretar emoções humanas a partir de múltiplas fontes de dados, incluindo NLP para texto e fala, a startup possibilita interações mais empáticas e personalizadas, melhora a experiência do usuário e fortalece a tomada de decisões conscientes e responsáveis em contextos que afetam diretamente o cotidiano.
 
