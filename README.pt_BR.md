@@ -584,7 +584,7 @@ A --> H[📜 Conformidade Regulatória]
 
 #
 
-<br>
+<br><br>
 
 
 ## 4.2- [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
@@ -609,13 +609,13 @@ A --> H[📜 Conformidade Regulatória]
 ### [Conclusão]()
 
 - O [**treinamento**]() é uma etapa pesada e mais cara, mas é feita esporadicamente.
+  
 - A [**inferência**]() é uma etapa leve, porém constante, que ocorre toda vez que o sistema utiliza a IA para decisões em tempo real.
+  
 - É comum que a soma de custos da inferência ao longo do tempo seja significativa, especialmente para serviços com muitos usuários.
 
 
-
 <br><br>
-
 
 
 # 5- [Dimensão Ética]()
