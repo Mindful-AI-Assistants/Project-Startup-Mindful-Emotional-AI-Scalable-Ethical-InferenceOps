@@ -1181,11 +1181,18 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 
 <br><br>
 
-_Todas as receitas, custos e lucros são consistentes com o crescimento de usuários e ARPU, escalando custos de nuvem e equipe de forma proporcional._
+
+> [!IMPORTANT]
+>
+>  _Todas as receitas, custos e lucros são consistentes com o crescimento de usuários e ARPU, escalando custos de nuvem e equipe de forma proporcional._
+>
+
 
 <br><br>
 
-## 19.2 [Estrutura de Custos Operacionais]()
+## 19.2- [Estrutura de Custos Operacionais]()
+
+<br>
 
 - **Infraestrutura de nuvem:** ~30%
 - **Equipe técnica:** ~40%
@@ -1194,7 +1201,9 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 
 <br>
 
-## 19.3 [Análise do Ponto de Equilíbrio]()
+## 19.3- [Análise do Ponto de Equilíbrio]()
+
+<br>
 
 - **Ponto de equilíbrio:** Alcançado com ~1.200 usuários (R$ 96.000/mês de receita)
 - **Prazo esperado:** 4 a 6 meses após o lançamento, conforme projeção de crescimento.
@@ -1202,6 +1211,8 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 <br>
 
 ## 19.4 [Fluxo de Caixa e Financiamento]()
+
+<br>
 
 - **Monitoramento mensal** para garantir solvência e reinvestimento.
 - **Capital inicial** via investidores-anjo/PUC-Angel.
@@ -1230,26 +1241,35 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 
 <br><br>
 
-[**Ponto de equilíbrio:**]() R$ 55.000/mês  
+- [**Ponto de equilíbrio:**]() R$ 55.000/mês  
+
 [**Receita mensal projetada:**]() R$ 70.000  
+
 [**Margem de segurança inicial:**]() R$ 15.000
+
 
 <br><br>
 
-## 19.5 [Insights de Gestão]()
+## 19.5- [Insights de Gestão]()
 
 - Acompanhe a consistência mensalmente: atualize projeções, ações e metas.
+
 - Ajuste o escalonamento de custos/receitas conforme base real de usuários.
+
 - KPIs: ARPU, churn, CAC, fluxo de caixa, margem de lucro—revisão mensal.
+
 - Use ferramentas financeiras automáticas e conciliação bancária regular para precisão [web:519].
+
 - Refaça previsões de caixa trimestralmente considerando índices confiáveis, caso haja inflação [web:521][web:522].
 
 <br>
 
-**Referências:**
+### [**Referências:**]()
 
 - [Financial Modeling for AI Startups – Finrofca](https://www.finrofca.com/news/financial-modeling-for-ai-startups)  
+
 - [Planejamento de receita SaaS – GetSmartCue](https://www.getsmartcue.com/blog/saas-financial-model-template)  
+
 - [Modelos SaaS – Chargebee](https://www.chargebee.com/blog/saas-financial-models/)
 
 <br><br>
@@ -1260,7 +1280,7 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 <br><br>
 
 
-## 21.  [Nossa TRipilação]()
+## 21-  [Nossa TRipilação]()
 
 
 - 👨🏽‍🚀 [**Andson Ribeiro**](https://github.com/andsonandreribeiro09)
@@ -1280,7 +1300,7 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 <br><br>
 
 
-# 22. [Bibliografia e Links]()
+# 22- [Bibliografia e Links]()
 
 
 [-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
@@ -1309,7 +1329,7 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 <br>
 
 
-## [22a.]() Links de Referências Técnicas, Normativas e Acadêmicas
+## [22a-]() Links de Referências Técnicas, Normativas e Acadêmicas
 
 
 <br>
@@ -1342,7 +1362,7 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 
 <br>
 
-## [22a.]() Links of Financial Reference
+## [22b-]() Links of Financial Reference
 
 <br>
 
@@ -1357,8 +1377,6 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 5- https://stripe.com/br/resources/more/revenue-planning-101-a-guide-for-businesses
 
 6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
-
-
 
 
 
