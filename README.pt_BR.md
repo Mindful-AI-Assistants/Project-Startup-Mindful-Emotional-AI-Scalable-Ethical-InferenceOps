@@ -1130,17 +1130,17 @@ _Todas as receitas, custos e lucros são consistentes com o crescimento de usuá
 ## 21.  [Nossa TRipilação]()
 
 
-- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+- 👨🏽‍🚀 [**Andson Ribeiro**](https://github.com/andsonandreribeiro09)
 
 - 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
 
-- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
+- 👨🏽‍🚀  [**José Augusto de Souza Oliveira**](https://github.com/Jojose3)
 
-- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
+- 🧑🏼‍🚀 [**Luan Fabiano**](https://github.com/LuanFabiano28)
 
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
+- 👨🏽‍🚀 [**Pedro Barrenco**](https://github.com/Pgbarenco)
   
-- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+- 🧑🏼‍🚀 [**Pedro Vyctor**](https://github.com/Pgbarenco)
 
 
 
