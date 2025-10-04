@@ -442,11 +442,7 @@ C[Equipe de Marketing] --> D[Modelo Próprio]
 E[Equipe de Logística] --> F[Modelo Próprio]
 ```
 
-<br>
-
-#
-
-<br>
+<br><br>
 
 
 ##  [IA Moderna (Hoje)]()
