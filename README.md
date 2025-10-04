@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.
 >
 
-br><br>
+<br><br>
 
 # 1- [Project Introduction - Mindful Emotional AI]()
 
