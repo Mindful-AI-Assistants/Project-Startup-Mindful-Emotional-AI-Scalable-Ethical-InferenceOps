@@ -196,7 +196,7 @@ Ao aplicar técnicas capazes de reconhecer e interpretar emoções humanas a par
 
 > [!IMPORTANT]
 >
-> Este projeto posiciona a MindfulAI como uma startup de ponta capaz de transformar a relação entre humanos e máquinas por meio de inteligência emocional artificial ética, escalável e governada.
+> ### Este projeto posiciona a MindfulAI como uma startup de ponta capaz de transformar a relação entre humanos e máquinas por meio de inteligência emocional artificial ética, escalável e governada.
 >
 
 <br><br>
@@ -212,14 +212,14 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
   
 - [**Inferência:**]() Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo recursos computacionais mais leves, porém constantes.
 
-<br><br>
+<br><
 
-> [!IMPORTANT]
+> [!TIP]
 >
 > **MindfulAI aplica essa inferência para captar emoções humanas rapidamente e com precisão.**
 >
 
-<br><br><br>
+<br><br>
 
 ### [A Importância da Ética, Governança e Conformidade em Emotion AI]()
 
@@ -272,7 +272,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 - [**Finanças e Prevenção a Fraudes:**]() detecta comportamentos suspeitos relacionados a emoções, auxiliando na prevenção de fraudes em transações bancárias, cartões de crédito e seguros, protegendo contra golpes e roubo de identidade, além de garantir maior segurança, mitigação de riscos e conformidade regulatória.
 
 
-<br><br>
+<br>
 
 > [!IMPORTANT]
 >
