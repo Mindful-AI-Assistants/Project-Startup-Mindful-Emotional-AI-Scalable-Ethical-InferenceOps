@@ -531,7 +531,11 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 - [Gerenciamento de versões:]() deploy Blue-Green ou Canary.
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 ### <p align="center"> [Diagramao]() Otimizado
 
