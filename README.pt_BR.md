@@ -318,11 +318,15 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br>
 
-- Cientistas de Dados em PLN, análise facial e auditiva.
-- Engenheiros de ML para implantação e otimização.
-- Especialistas em governança e conformidade.
-- Desenvolvedores e DevOps para infraestrutura.
-- Analistas para monitoramento e KPIs.
+[-]() Cientistas de Dados em NLP, análise facial e auditiva.
+
+[-]() Engenheiros de ML para implantação e otimização.
+
+[-]() Especialistas em governança e conformidade.
+
+[-]() Desenvolvedores e DevOps para infraestrutura.
+
+[-]() Analistas para monitoramento e KPIs.
 
 <br><br>
 
@@ -330,9 +334,11 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br>
 
-- Turnos rotativos com funções técnicas e de monitoramento.
-- Equipe de plantão para emergências.
-- Processos claros e automação para garantir continuidade.
+[-]() Turnos rotativos com funções técnicas e de monitoramento.
+
+[-]() Equipe de plantão para emergências.
+
+[-]() Processos claros e automação para garantir continuidade.
 
 <br><br>
 
