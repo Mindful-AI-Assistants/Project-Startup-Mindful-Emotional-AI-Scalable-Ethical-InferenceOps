@@ -234,8 +234,12 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
 
 ### - [Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:]()
 
+<br>
+
 - [**Ética:**]() Justiça, transparência, respeito à privacidade emocional e diversidade.
+ 
 - [**Governança:**]() Monitoramento e controle para evitar vieses e uso indevido da IA.
+ 
 - [**Conformidade:**]() Cumprimento de leis e regulamentos, como GDPR e LGPD (Lei Geral de Proteção de Dados).
 
 
@@ -255,11 +259,16 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
 
 ### - [Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece:]()
 
+<br>
 
-- Análise multidimensional de emoções por múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.
-- APIs para integração com sistemas corporativos e diversas aplicações.
-- Serviços de consultoria para implementação ética e estratégica de IA emocional.
-- Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.
+
+[-]() Análise multidimensional de emoções por múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.
+ 
+[-]() APIs para integração com sistemas corporativos e diversas aplicações.
+  
+[-]() Serviços de consultoria para implementação ética e estratégica de IA emocional.
+  
+[-]() Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.
 
 
 <br><br>
@@ -346,7 +355,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br>
 
-### - [Para fortalecer a operação e inovar constantemente, a Mindful Emotional AI integra estudantes da PUC-SP da seguinte forma:]()
+### - Para fortalecer a operação e [inovar]() constantemente, a Mindful Emotional AI [integra estudantes da PUC-SP]() da seguinte forma:]()
 
 <br>
 
