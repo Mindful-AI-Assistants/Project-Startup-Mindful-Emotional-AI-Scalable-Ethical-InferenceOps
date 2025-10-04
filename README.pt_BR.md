@@ -79,11 +79,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-<br><br><br>
+<br><br>
 
 #
 
-<br><br><br>
+<br><br>
 
 
 
@@ -202,7 +202,7 @@ Ao aplicar técnicas capazes de reconhecer e interpretar emoções humanas a par
 <br><br>
 
 
-### [Conceitos Fundamentais: Machine Learning e InferenceOps]()
+## [Conceitos Fundamentais: Machine Learning e InferenceOps]()
 
 <br>
 
