@@ -392,9 +392,12 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 <br>
   
 ### - [Exemplos de IA Tradicional]():
+
+<br>
   
-  - Um banco com um modelo básico de fraude apenas para cartões de crédito.
-  - Um e-commerce com um modelo simples de recomendação de produtos.
+  [-]() Um banco com um modelo básico de fraude apenas para cartões de crédito.
+    
+  [-]() Um e-commerce com um modelo simples de recomendação de produtos.
 
 
 <br><br>
@@ -423,16 +426,21 @@ E[Equipe de Logística] --> F[Modelo Próprio]
 ### - [IA Moderna (Hoje)]()
 
 
-- Modelos [**complexos, pesados e multimodais**]() (texto, imagem, áudio).  
-- Eles exigem GPUs, clusters e monitoramento contínuo.
+[-<br> Modelos [**complexos, pesados e multimodais**]() (texto, imagem, áudio).
+  
+[-<br> Eles exigem GPUs, clusters e monitoramento contínuo.
 
 <br>
 
-### - [Se cada equipe executar seu próprio modelo]():
+### - [Se cada equipe executar seu próprio modelo:]()
+
+<br>
   
-  - Os custos disparam.  
-  - Os resultados tornam-se inconsistentes.  
-  - Auditorias se tornam impossíveis.
+  [-]() Os custos disparam.
+    
+  [-]() Os resultados tornam-se inconsistentes.
+     
+  [-]() Auditorias se tornam impossíveis.
 
 
 
