@@ -356,7 +356,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br>
 
-### - Para fortalecer a operação e [inovar]() constantemente, a Mindful Emotional AI [integra estudantes da PUC-SP]() da seguinte forma:]()
+###  Para fortalecer a operação e [inovar]() constantemente, a Mindful Emotional AI [integra estudantes da PUC-SP]() da seguinte forma:]()
 
 <br>
 
@@ -401,7 +401,7 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br>
   
-### - [Exemplos de IA Tradicional]():
+###  [Exemplos de IA Tradicional]():
 
 <br>
   
@@ -433,7 +433,7 @@ E[Equipe de Logística] --> F[Modelo Próprio]
 <br>
 
 
-### - [IA Moderna (Hoje)]()
+###  [IA Moderna (Hoje)]()
 
 <br>
 
@@ -443,7 +443,7 @@ E[Equipe de Logística] --> F[Modelo Próprio]
 
 <br>
 
-### - [Se cada equipe executar seu próprio modelo:]()
+###  [Se cada equipe executar seu próprio modelo:]()
 
 <br>
   
@@ -486,7 +486,7 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 <br>
 
 
-### - [InferenceOps]() centraliza e operacionaliza a inferência dos modelos emocionais, promovendo escalabilidade, governança auditável, redução de custos e conformidade regulatória, oferecendo:
+###  [InferenceOps]() centraliza e operacionaliza a inferência dos modelos emocionais, promovendo escalabilidade, governança auditável, redução de custos e conformidade regulatória, oferecendo:
 
 <br>
 
@@ -508,15 +508,15 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 
 <br>
 
-• [Deploy do modelo:]() containerização via Docker e deploy em nuvem.
+- [Deploy do modelo:]() containerização via Docker e deploy em nuvem.
 
-• [Exposição da API:]() com FastAPI e Uvicorn.
+- [Exposição da API:]() com FastAPI e Uvicorn.
 
-• [Escalabilidade:]() orchestrator Kubernetes com autoscaling ativado.
+- [Escalabilidade:]() orchestrator Kubernetes com autoscaling ativado.
 
-• [Monitoramento:]() Prometheus e Grafana para métricas e alertas.
+- [Monitoramento:]() Prometheus e Grafana para métricas e alertas.
 
-• [Gerenciamento de versões:]() deploy Blue-Green ou Canary.
+- [Gerenciamento de versões:]() deploy Blue-Green ou Canary.
 
 
 <br><br>
