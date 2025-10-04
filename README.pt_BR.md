@@ -158,10 +158,15 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>    
 
+
+> [!TIP]
+>
 > Nota: Este projeto foi desenvolvido como parte da disciplina de Empreendedorismo e Inovação do programa de graduação em IA Humanística na PUC São Paulo (PUC-SP).
 > Alguns dados e cenários apresentados neste documento são fictícios, com a intenção de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.
 > MindfulAI visa construir uma solução de Emotion AI ética, escalável e inovadora alinhada às demandas técnicas, regulatórias e sociais atuais.
-
+> [!TIP]
+>
+>
 
 <br><br>
 
