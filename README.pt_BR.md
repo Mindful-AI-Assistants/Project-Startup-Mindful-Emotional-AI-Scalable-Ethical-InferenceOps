@@ -1157,13 +1157,13 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 
 <br><br>
 
-# 19. [Plano Financeiro – Mindful Emotion AI]()
+# 19- [Plano Financeiro – Mindful Emotion AI]()
 
 Este plano consolida e corrige inconsistências, fornecendo projeções transparentes, detalhamentos operacionais, ponto de equilíbrio e fluxo de caixa para uma gestão sustentável.
 
 <br>
 
-## 19.1 [Projeções Financeiras]()
+## 19.1- [Projeções Financeiras]()
 
 O crescimento é baseado num modelo de assinatura SaaS com serviços de IA customizados.
 
