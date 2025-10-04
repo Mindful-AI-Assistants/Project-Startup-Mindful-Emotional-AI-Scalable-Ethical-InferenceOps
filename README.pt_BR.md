@@ -316,7 +316,7 @@ Para fortalecer a operação e inovar constantemente, a MindfulAI integra estuda
 
 <br>  
 
->  Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.
+>  ***Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.***
 
 <br>
 
@@ -406,7 +406,7 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 
 
 
-# 2.1- [A Solução:]() InferenceOps para Emotion AI
+## 2.1- [A Solução:]() InferenceOps para Emotion AI
 
 
 <br>
@@ -430,7 +430,7 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
  <br><br>
 
 
-## 3- [Seção Técnica: InferenceOps Passo a Passo com Comandos]()
+# 3- [Seção Técnica: InferenceOps Passo a Passo com Comandos]()
 
 <br>
 
@@ -468,7 +468,7 @@ flowchart TD
 <br><br><br>
 
 
-## 4- [Comparação Direta entre Modelos]()
+# 4- [Comparação Direta entre Modelos]()
 
 <br>
 
@@ -543,7 +543,7 @@ A --> H[📜 Conformidade Regulatória]
 <br>
 
 
-### 4.2- [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
+## 4.2- [Exemplos Práticos de Custo Computacional - Treinamento vs Inferência de IA]()
 
 <br>
 
@@ -574,7 +574,7 @@ A --> H[📜 Conformidade Regulatória]
 
 
 
-## 5- [Dimensão Ética]()
+# 5- [Dimensão Ética]()
 
 Garantias de transparência, responsabilidade, privacidade fim a fim, conformidade com GDPR, LGPD e AI Act, e sustentabilidade. A dimensão ética é um pilar fundamental para a MindfulAI, refletindo o compromisso firme com a transparência, responsabilidade e alinhamento regulatório internacional.
 
@@ -678,7 +678,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 <br><br>
 
 
-## 6- [Top 10 Ferramentas para Desenvolvimento Ético de IA]()
+# 6- [Top 10 Ferramentas para Desenvolvimento Ético de IA]()
 
 <br>
 
@@ -691,7 +691,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 > * Essas ferramentas apoiam o desenvolvimento de sistemas de IA confiáveis, promovendo a inovação com respeito à justiça, privacidade, transparência e segurança.
 >
 
-<br><br>
+<br><br><br>
 
 | [Propósito e Link]()                                                                                                              | [Descrição]()                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -711,7 +711,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 <br><br>
 
 
-## 7- [Casos Reais de Mercado e Exemplos Brasileiros]()
+# 7- [Casos Reais de Mercado e Exemplos Brasileiros]()
 
 - [**Saúde Mental:**]() A startup brasileira **Vittude** utiliza tecnologias semelhantes à Mindful Emotional AI para oferecer terapia online com suporte emocional, alcançando aumento de 40% na adesão e satisfação dos pacientes.
   
@@ -726,7 +726,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br><br>
 
-### 7.1- [Métricas para Medir ResultadosCasos Reais de Mercado]()
+## 7.1- [Métricas para Medir ResultadosCasos Reais de Mercado]()
 
 
 <br>
@@ -774,7 +774,7 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 
 
-## 8-. [Caso Prático — Detecção de Fraude com Mindful Emotional AI]()
+# 8-. [Caso Prático — Detecção de Fraude com Mindful Emotional AI]()
 
 A empresa brasileira **Neoway** implementou a tecnologia de Emotion AI para detecção de fraudes financeiras, integrando sinais emocionais da comunicação do cliente com dados transacionais. O resultado foi uma redução de 35% em falsos positivos e maior eficiência na identificação de fraudes complexas, resultando em economias significativas para bancos parceiros.
 
@@ -790,7 +790,7 @@ A empresa brasileira **Neoway** implementou a tecnologia de Emotion AI para dete
 
 <br><br>
 
-## 9- [ Boas Práticas de Implementação]()
+# 9- [ Boas Práticas de Implementação]()
 
 ### [A Mindful Emotional AI recomenda:]()
 
@@ -802,7 +802,7 @@ A empresa brasileira **Neoway** implementou a tecnologia de Emotion AI para dete
 
 <br>
 
-### 9.1-  Métricas para Medir  [Boas Práticas de Implementação]()
+## 9.1-  Métricas para Medir  [Boas Práticas de Implementação]()
 
 - Taxa de downtime do sistema (% do tempo operacional)
 - Latência média da API (milissegundos)
@@ -812,13 +812,13 @@ A empresa brasileira **Neoway** implementou a tecnologia de Emotion AI para dete
 <br><br>
 
 
-## 10- [Impacto Social]()
+# 10- [Impacto Social]()
 
 Com a Mindful Emotional AI, empresas brasileiras têm promovido saúde emocional e bem-estar. Programas de prevenção ao estresse e burnout são fortalecidos pela análise contínua de dados emocionais, criando ambientes corporativos mais humanos e empáticos. O impacto social inclui maior produtividade, engajamento e qualidade de vida entre trabalhadores e usuários de serviços.
 
 <br>
 
-### 10.1- Métricas para Medir [Impacto Social]()
+## 10.1- Métricas para Medir [Impacto Social]()
 
 - Índice de redução de estresse e burnout (%) em colaboradores
 - Aumento na percepção de humanização tecnológica (pesquisa qualitativa)
@@ -840,7 +840,7 @@ Com a Mindful Emotional AI, empresas brasileiras têm promovido saúde emocional
 
 
 
-### 11.1-  [Missão e Visãol]()
+## 11.1-  [Missão e Visãol]()
 
 <br>
 
@@ -859,7 +859,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 <br><br>
 
 
-### 11.2- [Análise de Mercado e Público-Alvo]()
+## 11.2- [Análise de Mercado e Público-Alvo]()
 
 - O mercado global e nacional de IA Emocional está se expandindo rapidamente, particularmente por meio de modelos SaaS.  
 - Clientes-alvo incluem empresas dos setores de saúde, finanças, recursos humanos, atendimento ao cliente, segurança veicular e, principalmente, cadeia de suprimentos e logística.  
@@ -869,10 +869,10 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-### 11.3- [Análise SWOT]()
+## 11.3- [Análise SWOT]()
 
 
-<br><br>
+<br>
 
 | [Forças]()                       | [Fraquezas]()                     |
 |--------------------------------|-------------------------------|
@@ -881,7 +881,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 | Parceria acadêmica com PUC-SP   | Dependência da aceitação do mercado |
 
 
-<br><br>
+<br>
 
 
 | [Oportunidades]()                   | [Ameaças]()                   |
@@ -893,7 +893,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-### 11.4 p[Objetivos e Metas]()
+## 11.4 p[Objetivos e Metas]()
 
 <br>
 
@@ -917,7 +917,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 <br><br>
 
 
-### 11.5 [Contexto de Negócio: Importância da Cadeia de Suprimentos]()
+## 11.5 [Contexto de Negócio: Importância da Cadeia de Suprimentos]()
 
 A cadeia de suprimentos é um sistema crítico e complexo que integra todas as atividades envolvidas na produção e entrega de bens ou serviços, desde a aquisição de matéria-prima até a entrega final ao cliente. A gestão eficiente da cadeia envolve compras, produção, armazenamento, transporte e logística, exigindo coordenação precisa para minimizar custos, otimizar prazos e manter a qualidade. Na Mindful Emotional AI, a integração da análise emocional permite identificar precocemente erros humanos, estresse e fadiga entre operadores e gestores, alinhando a inteligência artificial à melhoria contínua da produtividade e segurança operacional. Essa abordagem inovadora busca não apenas eficiência logística, mas também ambientes de trabalho mais saudáveis e sustentáveis, garantindo conformidade ética e regulatória ao longo de todo o ciclo da cadeia de suprimentos.
 
@@ -925,7 +925,7 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 <br><br>
 
 
-### 11.6 [Plano de Ação]()
+## 11.6 [Plano de Ação]()
 
 <br>
 
@@ -942,7 +942,7 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 <br><br>
 
 
-### 11.7 Orçamento e Recursos
+## 11.7 Orçamento e Recursos
 
 
 - Infraestrutura tecnológica: servidores, nuvem, ferramentas de monitoramento.  
@@ -952,7 +952,7 @@ A cadeia de suprimentos é um sistema crítico e complexo que integra todas as a
 
 <br><br>
 
-### 11.8 Monitoramento e Avaliação
+## 11.8 Monitoramento e Avaliação
 
 - KPIs alinhados aos objetivos: adoção de clientes, receita, satisfação, conformidade.  
 - Revisões estratégicas trimestrais para ajustes com base em dados de desempenho.  
