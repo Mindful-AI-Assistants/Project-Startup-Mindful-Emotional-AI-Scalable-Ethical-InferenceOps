@@ -191,7 +191,7 @@ Ao aplicar técnicas capazes de reconhecer e interpretar emoções humanas a par
 
 
 
-<br><br>
+<br>
 
 
 > [!IMPORTANT]
@@ -212,7 +212,7 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
   
 - [**Inferência:**]() Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo recursos computacionais mais leves, porém constantes.
 
-<br><
+<br>
 
 > [!TIP]
 >
@@ -221,7 +221,7 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
 
 <br><br>
 
-### [A Importância da Ética, Governança e Conformidade em Emotion AI]()
+## [A Importância da Ética, Governança e Conformidade em Emotion AI]()
 
 <br>
 
@@ -233,13 +233,18 @@ Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 
 <br>
 
-> Nosso sistema incorpora essas dimensões na operação do InferenceOps, assegurando segurança e responsabilidade.
 
+> [!IMPORTANT]
+>
+> Nosso sistema incorpora essas dimensões na operação do InferenceOps, assegurando segurança e responsabilidade.
+>
 
 <br><br>
 
 
-### [O que Oferecemos ?]()
+## [O que Oferecemos ?]()
+
+<br>
 
 Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece:
 
@@ -252,7 +257,9 @@ Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece
 <br>
 
 
-### [Relevância da Mindful Emotional AI para Clientes dos Setores Atendidos]()
+## [Relevância da Mindful Emotional AI para Clientes dos Setores Atendidos]()
+
+<br>
 
 
 A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma compreensão profunda e em tempo real das emoções humanas a partir de dados multimodais, como voz, texto e expressões faciais. Essa capacidade gera benefícios concretos em diversos setores:
