@@ -164,8 +164,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > Nota: Este projeto foi desenvolvido como parte da disciplina de Empreendedorismo e Inovação do programa de graduação em IA Humanística na PUC São Paulo (PUC-SP).
 > Alguns dados e cenários apresentados neste documento são fictícios, com a intenção de transformar o conceito inicial em um plano viável e prepará-lo para o lançamento no mundo real.
 > MindfulAI visa construir uma solução de Emotion AI ética, escalável e inovadora alinhada às demandas técnicas, regulatórias e sociais atuais.
-> [!TIP]
->
 >
 
 <br><br>
@@ -214,12 +212,14 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
   
 - [**Inferência:**]() Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo recursos computacionais mais leves, porém constantes.
 
-<br>
-
-> ***MindfulAI aplica essa inferência para captar emoções humanas rapidamente e com precisão.***
-
-
 <br><br>
+
+> [!IMPORTANT]
+>
+> **MindfulAI aplica essa inferência para captar emoções humanas rapidamente e com precisão.**
+>
+
+<br><br><br>
 
 ### [A Importância da Ética, Governança e Conformidade em Emotion AI]()
 
