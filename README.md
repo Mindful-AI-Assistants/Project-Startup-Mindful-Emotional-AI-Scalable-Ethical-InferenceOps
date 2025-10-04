@@ -986,18 +986,21 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 ## 21-  [Our Crew:]()
 
+<br>
 
-- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+- 👨🏽‍🚀 [**Andson Ribeiro**](https://github.com/andsonandreribeiro09)
 
 - 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
 
-- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
+- 👨🏽‍🚀  [**José Augusto de Souza Oliveira**](https://github.com/Jojose3)
 
-- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
+- 🧑🏼‍🚀 [**Luan Fabiano**](https://github.com/LuanFabiano28)
 
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email](https://github.com/Pgbarenco)
+- 👨🏽‍🚀 [**Pedro Barrenco**](https://github.com/Pgbarenco)
   
-- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+- 🧑🏼‍🚀 [**Pedro Vyctor**](https://github.com/Pgbarenco)
+
 
 
 <br><br>
