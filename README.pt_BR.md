@@ -175,7 +175,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 [**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa [*IA Humanística e Ciência de Dados* da PUC-SP]. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional e governança em tempo real.
 
-<br>
+<br><br>
 
 ## [Por que a Mindful Emotional AI é Inovadora?]()
 
@@ -190,8 +190,7 @@ Sua [**arquitetura modular**]() permite que componentes sejam adaptados ou subst
 Ao aplicar técnicas capazes de reconhecer e interpretar emoções humanas a partir de múltiplas fontes de dados, incluindo NLP para texto e fala, a startup possibilita interações mais empáticas e personalizadas, melhora a experiência do usuário e fortalece a tomada de decisões conscientes e responsáveis em contextos que afetam diretamente o cotidiano.
 
 
-
-<br>
+<br><br>
 
 
 > [!IMPORTANT]
@@ -212,7 +211,8 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
   
 - [**Inferência:**]() Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo recursos computacionais mais leves, porém constantes.
 
-<br>
+
+<br><br>
 
 > [!TIP]
 >
@@ -231,8 +231,8 @@ Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 - [**Governança:**]() Monitoramento e controle para evitar vieses e uso indevido da IA.
 - [**Conformidade:**]() Cumprimento de leis e regulamentos, como GDPR e LGPD (Lei Geral de Proteção de Dados).
 
-<br>
 
+<br><br>
 
 > [!IMPORTANT]
 >
@@ -246,7 +246,7 @@ Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 
 <br>
 
-Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece:
+### - [Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece:]()
 
 - Análise multidimensional de emoções por múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.
 - APIs para integração com sistemas corporativos e diversas aplicações.
@@ -254,7 +254,7 @@ Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece
 - Soluções preditivas que antecipam necessidades emocionais para personalizar respostas e ações.
 
 
-<br>
+<br><br>
 
 
 ## [Relevância da Mindful Emotional AI para Clientes dos Setores Atendidos]()
@@ -279,7 +279,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 - [**Finanças e Prevenção a Fraudes:**]() detecta comportamentos suspeitos relacionados a emoções, auxiliando na prevenção de fraudes em transações bancárias, cartões de crédito e seguros, protegendo contra golpes e roubo de identidade, além de garantir maior segurança, mitigação de riscos e conformidade regulatória.
 
 
-<br>
+<br><br>
 
 > [!IMPORTANT]
 >
@@ -313,7 +313,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 - Desenvolvedores e DevOps para infraestrutura.
 - Analistas para monitoramento e KPIs.
 
-<br>
+<br><br>
 
 ## [Suporte 24/7]()
 
@@ -323,13 +323,13 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 - Equipe de plantão para emergências.
 - Processos claros e automação para garantir continuidade.
 
-<br>
+<br><br>
 
 ## [Integração com Estudantes da PUC-SP]()
 
-<br>
+<br><br>
 
-### [Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:]()
+## [Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:]()
 
 <br>
 
@@ -349,8 +349,8 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 > [!IMPORTANT]
 >
-> *  ***Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.***
-
+>  **Essa parceria promove troca constante entre academia e mercado, fomentando inovação e talentos alinhados.**
+>
 
 <br><br> 
 
@@ -365,7 +365,6 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 
 # 2- [O Problema:]() IA Emocional Tradicional vs IA Emocional Moderna
-
 
 <br>
 
