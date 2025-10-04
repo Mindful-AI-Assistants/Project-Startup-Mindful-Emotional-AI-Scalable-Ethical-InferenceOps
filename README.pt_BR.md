@@ -194,7 +194,7 @@ Sua [**arquitetura modular**]() permite que componentes sejam adaptados ou subst
 
 <br>
 
-Ao aplicar técnicas capazes de reconhecer e interpretar [emoções humanas]() a partir [de múltiplas fontes de dados](), incluindo [NLP para texto e fala](), a startup possibilita interações mais empáticas e personalizadas, melhora a experiência do usuário e fortalece a tomada de decisões conscientes e responsáveis em contextos que afetam diretamente o cotidiano.
+Ao aplicar técnicas capazes de reconhecer e interpretar [emoções humanas]() a partir [de múltiplas fontes de dados](), incluindo [NLP]()  para texto e fala, a startup possibilita interações mais [empáticas]()  e [personalizadas]() , melhora a experiência do usuário e fortalece a tomada de decisões [conscientes]()  e [responsáveis]()  em contextos que afetam diretamente o cotidiano.
 
 
 <br><br>
