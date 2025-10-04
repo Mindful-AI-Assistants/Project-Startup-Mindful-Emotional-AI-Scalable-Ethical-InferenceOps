@@ -633,16 +633,17 @@ A --> H[📜 Conformidade Regulatória]
 | [**Impacto da escala**]()      | Maior escala significa mais dados e mais tempo de processamento para treinar | Maior escala significa mais previsões feitas, aumentando os custos de inferência proporcionalmente |
 
 
+<br><br>
+
+## [Conclusão]()
+
 <br>
 
-
-### [Conclusão]()
-
-- O [**treinamento**]() é uma etapa pesada e mais cara, mas é feita esporadicamente.
+[-]() O [**treinamento**]() é uma etapa pesada e mais cara, mas é feita esporadicamente.
   
-- A [**inferência**]() é uma etapa leve, porém constante, que ocorre toda vez que o sistema utiliza a IA para decisões em tempo real.
+[-]() A [**inferência**]() é uma etapa leve, porém constante, que ocorre toda vez que o sistema utiliza a IA para decisões em tempo real.
   
-- É comum que a soma de custos da inferência ao longo do tempo seja significativa, especialmente para serviços com muitos usuários.
+[-]() É comum que a soma de custos da inferência ao longo do tempo seja significativa, especialmente para serviços com muitos usuários.
 
 
 <br><br>
