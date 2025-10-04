@@ -283,7 +283,6 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
 
 A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma compreensão profunda e em tempo real das emoções humanas a partir de dados multimodais, como voz, texto e expressões faciais. Essa capacidade gera benefícios concretos em diversos setores:
 
-<br>
 
 - [**Atendimento ao Cliente:**]() proporciona interações mais empáticas, aumenta a satisfação, reduz conflitos e fortalece a fidelização.
   
