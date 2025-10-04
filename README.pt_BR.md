@@ -779,9 +779,9 @@ O AI Act busca equilibrar a inovação tecnológica com proteção aos direitos 
 
 <br><br>
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 >
-> * Essas ferramentas apoiam o desenvolvimento de sistemas de IA confiáveis, promovendo a inovação com respeito à justiça, privacidade, transparência e segurança.
+> Essas ferramentas apoiam o desenvolvimento de sistemas de IA confiáveis, promovendo a inovação com respeito à justiça, privacidade, transparência e segurança.
 >
 
 <br><br><br>
