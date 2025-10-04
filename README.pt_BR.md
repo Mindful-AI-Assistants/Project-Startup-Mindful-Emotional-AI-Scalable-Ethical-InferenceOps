@@ -385,9 +385,9 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 
 <br>
 
-[-]() [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
+- [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
 
-[-]()  [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
+-  [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
 
 <br>
   
@@ -425,10 +425,11 @@ E[Equipe de Logística] --> F[Modelo Próprio]
 
 ### - [IA Moderna (Hoje)]()
 
+<br>
 
-[-<br> Modelos [**complexos, pesados e multimodais**]() (texto, imagem, áudio).
+[-]() Modelos [**complexos, pesados e multimodais**]() (texto, imagem, áudio).
   
-[-<br> Eles exigem GPUs, clusters e monitoramento contínuo.
+[-]() Eles exigem GPUs, clusters e monitoramento contínuo.
 
 <br>
 
