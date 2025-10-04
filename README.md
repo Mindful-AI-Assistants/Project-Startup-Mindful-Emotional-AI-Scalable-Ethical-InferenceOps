@@ -995,7 +995,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 - 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
 
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
+- 👨🏽‍🚀 **Pedro Barrenco**  - [email](https://github.com/Pgbarenco)
   
 - 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
