@@ -216,6 +216,8 @@ Ao aplicar técnicas capazes de reconhecer e interpretar [emoções humanas]() a
 
 Machine Learning (ML) é um método pelo qual computadores aprendem padrões a partir dos dados. Após o treinamento, um modelo pode fazer previsões com novos dados — isso é chamado de inferência (Inference).
 
+<br>
+
 - [**Treinamento:**]() Fase intensiva onde o modelo é alimentado com dados e ajusta seus parâmetros para aprender padrões. Consome muita capacidade computacional e ocorre periodicamente.
   
 - [**Inferência:**]() Fase contínua onde o modelo usa o que aprendeu para fazer previsões em tempo real, exigindo recursos computacionais mais leves, porém constantes.
