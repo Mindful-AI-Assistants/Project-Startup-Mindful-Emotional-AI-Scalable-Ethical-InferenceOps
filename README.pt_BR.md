@@ -225,7 +225,7 @@ Machine Learning (ML) é um método pelo qual computadores aprendem padrões a p
 
 <br>
 
-Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
+### - [Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:]()
 
 - [**Ética:**]() Justiça, transparência, respeito à privacidade emocional e diversidade.
 - [**Governança:**]() Monitoramento e controle para evitar vieses e uso indevido da IA.
@@ -248,6 +248,7 @@ Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 
 ### - [Mindful Emotional AI propõe uma plataforma abrangente de Emotion AI que oferece:]()
 
+
 - Análise multidimensional de emoções por múltiplos canais (voz, texto, vídeo, sinais fisiológicos) com dashboards e relatórios.
 - APIs para integração com sistemas corporativos e diversas aplicações.
 - Serviços de consultoria para implementação ética e estratégica de IA emocional.
@@ -263,6 +264,8 @@ Emotion AI lida com dados pessoais e sensíveis, portanto é crucial respeitar:
 
 
 A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma compreensão profunda e em tempo real das emoções humanas a partir de dados multimodais, como voz, texto e expressões faciais. Essa capacidade gera benefícios concretos em diversos setores:
+
+<br>
 
 - [**Atendimento ao Cliente:**]() proporciona interações mais empáticas, aumenta a satisfação, reduz conflitos e fortalece a fidelização.
   
@@ -280,6 +283,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 
 <br><br>
+
 
 > [!IMPORTANT]
 >
@@ -329,7 +333,7 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 <br>
 
-### - [Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:]()
+### - [Para fortalecer a operação e inovar constantemente, a Mindful Emotional AI integra estudantes da PUC-SP da seguinte forma:]()
 
 <br>
 
@@ -446,7 +450,7 @@ Z --> M[Modelo Centralizado / Infraestrutura Compartilhada]
 <br>
 
 
-### [InferenceOps]() centraliza e operacionaliza a inferência dos modelos emocionais, promovendo escalabilidade, governança auditável, redução de custos e conformidade regulatória, oferecendo:
+### - [InferenceOps]() centraliza e operacionaliza a inferência dos modelos emocionais, promovendo escalabilidade, governança auditável, redução de custos e conformidade regulatória, oferecendo:
 
 <br>
 
