@@ -327,9 +327,9 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 
 ## [Integração com Estudantes da PUC-SP]()
 
-<br><br>
+<br>
 
-## [Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:]()
+### - [Para fortalecer a operação e inovar constantemente, a MindfulAI integra estudantes da PUC-SP da seguinte forma:]()
 
 <br>
 
