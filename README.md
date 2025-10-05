@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  - [European Comission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
 >
->
+> - [Brazil's Adequacy under the GDPR: Level of Personal Data Protection according to Regulation (EU) 2016/679 - 2025/10]()
 >
 >
 >
