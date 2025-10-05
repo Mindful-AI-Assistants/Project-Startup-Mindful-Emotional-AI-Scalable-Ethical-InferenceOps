@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
->  - What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+>  - [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >  
 >  - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
