@@ -113,18 +113,23 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
-
 > [!IMPORTANT]
 >
->  ### Links das Startups neste Projeto: Brasil e Além 🛸
+>  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
-> - [Planejamento Estratégico Bossa Invest](https://bossainvest.com)
+> - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
-> - [EU AI ACT - Práticas Emocionais Proibidas em IA](https://bluearrow.ai/emotion-recognition/)
+> - [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >  
 > - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
 > 
-> -  [O que é AI Iference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+> -  [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+>
+>  - [European Comission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
+>
+>
+>
+>
 >
 
 
