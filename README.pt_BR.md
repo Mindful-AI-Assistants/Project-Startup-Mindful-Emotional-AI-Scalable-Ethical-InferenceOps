@@ -117,17 +117,19 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
->  - What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+>  - [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >  
 >  - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
 >  - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
+>  
+>  - [Thje-state-of-crm-data-management-in-202522-2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
 > 
 >  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >
 >  - 🇪🇺 [European Comission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
 >
->  - 🇪🇺 [Brazil's Adequacy under the GDPR: Level of Personal Data Protection according to Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/blob/aa592cf9c99b36cdd352d883a79829c547cb9b8c/%F0%9F%87%AA%F0%9F%87%BAAdequacy_GDPR_BRA_PersonalDataProtectiom.md)
+>  - 🇪🇺 [Brazil's Adequacy under the GDPR: Level of Personal Data Protection according to Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
 >
 >
 >
