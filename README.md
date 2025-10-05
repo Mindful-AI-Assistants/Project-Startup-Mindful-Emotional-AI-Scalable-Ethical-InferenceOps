@@ -125,6 +125,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >  - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
 >  - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
+>  
+>  - [Thje-state-of-crm-data-management-in-202522-2025]()
 > 
 >  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >
