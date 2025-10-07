@@ -190,7 +190,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-[**Mindful Emotional AI**]() está transformando a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados: voz, texto, expressões faciais e sinais fisiológicos—para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual. Isso inclui [**Processamento de Linguagem Natural (NLP)**](), um campo da IA que permite que computadores compreendam, interpretem e gerem a linguagem humana, permitindo que o sistema analise textos e fala como parte do reconhecimento emocional.
+[**Mindful Emotional AI**]() está transformando a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados: voz, texto, expressões faciais e sinais fisiológicos para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual. Isso inclui [**Processamento de Linguagem Natural (NLP)**](), um campo da IA que permite que computadores compreendam, interpretem e gerem a linguagem humana, permitindo que o sistema analise textos e fala como parte do reconhecimento emocional.
 
 <br>
 
