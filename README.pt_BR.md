@@ -1039,16 +1039,31 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <br><br>
 
-<!--
+<!-- 🏄🏄🏄🏄
 
 ## 11.3- Modelo da Tríplice Hélice
+
+<br>
 
 O modelo da Tríplice Hélice é uma abordagem colaborativa que promove a inovação por meio da interação dinâmica entre três pilares fundamentais: a universidade (faculdade), o setor produtivo (empresas) e o governo (incluindo investidores e bancos). Cada um desses agentes desempenha um papel essencial e complementar no ecossistema de inovação e desenvolvimento tecnológico.
 
 
+<br>
+
+- **Universidade (Faculdade):**
+Responsável pela geração de conhecimento científico e tecnológico, pesquisa aplicada, capacitação de recursos humanos e desenvolvimento de novas soluções que possam embasar os produtos e serviços inovadores.
+
+<br>
+
+- **Empresas:**
+Aplicam na prática as soluções geradas, transformando conhecimento em produtos, serviços e processos economicamente viáveis. As empresas são o motor da execução, produção e comercialização, promovendo a inovação no mercado real.
+
+<br>
+
+- **Governo (Investidores e Bancos):**
+Atuando como financiadores e reguladores, fornecem os recursos financeiros necessários para pesquisas, desenvolvimento e escalabilidade dos projetos. Além disso, criam um ambiente regulatório favorável à inovação e asseguram o suporte institucional para parcerias e crescimento.
+
 -->
-
-
 
 
 <br><br>
