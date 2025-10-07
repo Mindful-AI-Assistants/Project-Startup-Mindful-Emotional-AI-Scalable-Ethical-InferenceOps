@@ -1041,7 +1041,7 @@ Ser referência global em tecnologia de IA Emocional, reconhecida por inovação
 
 <!-- 🏄🏄🏄🏄
 
-## 11.3- Modelo da Tríplice Hélice
+## 11.3- [Modelo da Tríplice Hélice]()
 
 <br>
 
@@ -1050,7 +1050,8 @@ O modelo da Tríplice Hélice é uma abordagem colaborativa que promove a inova�
 
 <br>
 
-- **Universidade (Faculdade):**
+- [**Universidade (Faculdade):**]()
+
 Responsável pela geração de conhecimento científico e tecnológico, pesquisa aplicada, capacitação de recursos humanos e desenvolvimento de novas soluções que possam embasar os produtos e serviços inovadores.
 
 <br>
