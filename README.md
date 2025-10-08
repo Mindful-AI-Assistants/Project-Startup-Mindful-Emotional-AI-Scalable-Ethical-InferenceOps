@@ -124,7 +124,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >  
 >  - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
->  - [Venturus - Mind fulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
+>  - [Venturus - Mindfula AI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
 >
 >  - 🇧🇷 [BNDS (National Bank for Development) - Investment in Innovation](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/inovacao)
 > 
