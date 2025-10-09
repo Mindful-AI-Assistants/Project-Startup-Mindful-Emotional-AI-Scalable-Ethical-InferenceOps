@@ -935,7 +935,7 @@ A thorough business analysis is crucial to ensure the viability, scalability, an
 
 
 
-
+<!--
 
 <br><br>
 <br><br>
@@ -1072,8 +1072,10 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 <br><br>
 
 <br><br>
-<br><br>
 
+<!--
+
+<br><br>
 
 ## 21-  [Our Crew:]()
 
@@ -1180,6 +1182,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
 
+--><
 
 <br><br>
 
