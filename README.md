@@ -146,6 +146,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 ## Table of Contents
 
+><br>
+
 1. [Introduction](#introduction)  
 2. [The Problem and the Solution — InferenceOps for Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
 3. [Technical Section: InferenceOps Step by Step with Commands](#technical-section-inferenceops-step-by-step-with-commands)  
