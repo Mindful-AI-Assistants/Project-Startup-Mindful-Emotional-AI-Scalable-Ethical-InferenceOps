@@ -141,12 +141,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-##  Sumário
+##  Indice
 
 <br>
 
+
 1. [Introdução](#introduction)  
-2. [O Problema e a  Solução — InferenceOps para Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
+2. [O Problema e a Solução — InferenceOps para Emotion AI](#the-solution-inferenceops-for-emotion-ai)  
 3. [Seção Técnica: InferenceOps Passo a Passo com Comandos](#technical-section-inferenceops-step-by-step-with-commands)  
 4. [Comparação Direta Entre Modelos - Diagramas](#direct-comparison-between-models)  
 5. [Dimensão Ética](#ethical-dimension)  
@@ -165,7 +166,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 18. [Estrutura do Repositório](#repository-structure)  
 19. [Plano Financeiro - MindfulAI](#financial-plan---mindfulai)  
 20. [Código e Exemplos](#code-and-examples)  
-22. [Governança, Compliance, Documentação e Processos](#governança-compliance-documentação-e-processos)
+22. [Governança, Compliance, Documentação e Processos](#governança-compliance-documentação-e-processos)  
 22. [Equipe](#team)  
 23. [Bibliografia](#bibliography)
 
