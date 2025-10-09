@@ -126,6 +126,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >  - 🇧🇷 [BNDS (Banco Nacional de Desenvolvimento) - Investimento em Inovação](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/inovacao)
 > 
 >  - [Thje-state-of-crm-data-management-in-202522-2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
+>  
+> - - 🇬🇧 [Architectures of Global AI Governance: From Technological Change to Human Choice by Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
 > 
 >  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >
