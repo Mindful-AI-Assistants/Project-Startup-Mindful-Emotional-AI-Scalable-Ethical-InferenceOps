@@ -1387,29 +1387,30 @@ O crescimento é baseado num modelo de assinatura SaaS com serviços de IA custo
 # 22- [Bibliografia e Links]()
 
 <br>
+[-] Christensen, C. (1997). *The innovator’s dilemma*. Harvard Business Review Press.  
 
+[-] European Union. (2024). *EU AI Act — Regulation on Artificial Intelligence.*  
 
-[-]() Christensen, C. (1997). "The Innovator’s Dilemma". Harvard Business Review Press.
+[-] Floridi, L. (2019). *The ethics of artificial intelligence*. Oxford University Press.  
 
-[-]() European Union. (2024). EU AI Act — Regulation on Artificial Intelligence.
+[-] Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep learning*. MIT Press.  
 
-[-]() Floridi, L. (2019). The Ethics of Artificial Intelligence. Oxford University Press.
+[-] Jordan, M., & Mitchell, T. (2015). Machine learning: Trends, perspectives, and prospects. *Science, 349*(6245).  
 
-[-]() Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+[-] Maas, M. M. (2025). *Architectures of global AI governance: From technological change to human choice.* Oxford University Press. ISBN: 978-0191988455 (online), 978-0198877837 (impressa). (OUP Academic)  
 
-[-]() Jordan, M. & Mitchell, T. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245).
+[-] Porter, M. E. (1985). *Competitive advantage: Creating and sustaining superior performance*. Free Press.  
 
-[-]() Porter, M. E. (1996). "What is Strategy?". Harvard Business Review, 74(6), 61-78.
+[-] Porter, M. E. (1996). What is strategy? *Harvard Business Review, 74*(6), 61–78.  
 
-[-]() Porter, M. E. (1985). "Competitive Advantage: Creating and Sustaining Superior Performance". Free Press.
+[-] Thiel, P., & Masters, B. (2014). *Zero to one: Notes on startups, or how to build the future*. 1st ed. New York: Crown Business.  
 
-[-]() TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
+[-] Thiel, P., & Masters, B. (2014). *Zero to one: Notas sobre startups, ou como construir o futuro*. 1. ed. Rio de Janeiro: Objetiva.  
 
-[-]() THIEL, Peter; MASTERS, Blake. Zero to One: notas sobre startups, ou como construir o futuro. 1. ed. Rio de Janeiro: Objetiva, 2014.
+[-] TitanML. (2025). *TitanML inference engine: Efficient AI at scale.* Retrieved from https://www.titanml.co  
 
-[-]()  THIEL, Peter; MASTERS, Blake. Zero to One: notes on startups, or how to build the future. 1st ed. New York: Crown Business, 2014.
+[-] Various articles on Brazilian innovation cases, business strategies, and market disruptions.  
 
-[-]() Various articles on Brazilian innovation cases, business strategies, and market disruptions.
 
 
 <br>
