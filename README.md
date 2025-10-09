@@ -1099,7 +1099,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 <br><br>
 
 
-# 22- [Bibliography and Links]()
+# 23- [Bibliography and Links]()
 
 
 [-] Christensen, C. (1997). *The innovator’s dilemma*. Harvard Business Review Press.  
@@ -1130,7 +1130,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 <br>
 
 
-## [22a-]() Links of Technical References, Normative and Academic Studies
+## [32a-]() Links of Technical References, Normative and Academic Studies
 
 
 <br>
@@ -1166,7 +1166,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br>
 
-## [22b-]() Links of Financial Reference
+## [23b-]() Links of Financial Reference
 
 <br>
 
