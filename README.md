@@ -1067,17 +1067,13 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 - [Chargebee SaaS Financial Models](https://www.chargebee.com/blog/saas-financial-models/)
 
 
+-->
 
-<br><br>
-<br><br>
 
-<br><br>
-
-<!--
 
 <br><br>
 
-## 21-  [Our Crew:]()
+## 22-  [Our Crew:]()
 
 <br>
 
@@ -1098,6 +1094,7 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 <br><br>
 
+<!---
 
 # 23- [Bibliography and Links]()
 
@@ -1182,7 +1179,8 @@ Growth is based on a [SaaS](https://github.com/Mindful-AI-Assistants/Project-Sta
 
 6 - https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs/break-even-point
 
---><
+-->
+
 
 <br><br>
 
