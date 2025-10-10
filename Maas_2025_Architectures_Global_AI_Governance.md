@@ -2,11 +2,9 @@
 <br>
 
 
-==================================================================
-###  🇬🇧  English Version
-==================================================================
+###  ======================== 🇬🇧  English ======================== 
+<br>
 
-<br><br>
 
 # Architectures of Global AI Governance: From Technological Change to Human Choice  
 *by Matthijs M. Maas*  
@@ -86,11 +84,8 @@ Maas, Matthijs M. *Architectures of Global AI Governance: From Technological Cha
 <br><br>
 
 
+###  ====================== 🇧🇷 Portugues ====================== 
 
-
-==================================================================
-###  🇧🇷 Portugues
-==================================================================
 
 <br>
 
@@ -170,6 +165,6 @@ Maas oferece recomendações conceituais e práticas para melhorar a governança
 <br>
 
 ## Referência Bibliográfica  
-Maas, Matthijs M. *Architectures of Global AI Governance: From Technological Change to Human Choice*. Oxford University Press, 2025. ISBN: 978-0191988455 (online), 978-0198877837 (impressa). ([OUP Academic](https://academic.oup.com/book/61416?utm_source=chatgpt.com))
+Maas, Matthijs M. *Architectures of Global AI Governance: From Technological Change to Human Choice*. Oxford University Press, 2025. ISBN: 978-0191988455 (online), 978-0198877837 (impressa). ([OXFORD Academic](https://academic.oup.com/book/61416?utm_source=chatgpt.com))
 
 
