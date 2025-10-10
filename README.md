@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 19. [Financial Plan - MindfulAI](#financial-plan---mindfulai)  
 20. [Code and Examples](#code-and-examples)  
 22. [ Mindful Emotional AI - Governance, Compliance, Documentation and Processes](#governance-compliance-documentation-and-processes)  
-22. [Team](#team)  
+22. [💚 Our Crew](#team)  
 23. [Bibliography](#bibliography)
 
 
