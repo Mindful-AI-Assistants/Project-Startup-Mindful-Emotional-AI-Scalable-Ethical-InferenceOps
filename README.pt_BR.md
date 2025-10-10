@@ -1466,10 +1466,6 @@ Além disso, utiliza frameworks globais contemporâneos para governança de IA, 
 
 -->
 
-================[🏄==============
-
-
-
 
 
 <br><br>
