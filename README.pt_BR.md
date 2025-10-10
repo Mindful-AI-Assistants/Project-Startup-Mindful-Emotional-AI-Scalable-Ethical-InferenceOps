@@ -166,7 +166,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 18. [Estrutura do Repositório](#repository-structure)  
 19. [Plano Financeiro - MindfulAI](#financial-plan---mindfulai)  
 20. [Código e Exemplos](#code-and-examples)  
-22. [Governança, Compliance, Documentação e Processos](#governança-compliance-documentação-e-processos)  
+22. [ Mindful Emotional AI - Governança, Compliance e Processos](#governança-compliance-documentação-e-processos)  
 22. [Equipe](#team)  
 23. [Bibliografia](#bibliography)
 
