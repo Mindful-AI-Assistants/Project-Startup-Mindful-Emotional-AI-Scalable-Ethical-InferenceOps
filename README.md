@@ -90,58 +90,93 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <!--Confidentiality Statement-->
 
 
+<br><br>
 
+#
+
+<br><br>
 
 
 > [!TIP]
 >
->  ### Founders and Partners
+> <br>
+> 
+> #### [**Founders**]() & [**Partners**]()
+> 
+> <br>
+> 
+> * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)*
+>   
+> <br>
+> 
+>  * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
 >
-> * [**Founder:**]() Fabiana ⚡️ Campanari  
+> <br>
 >
-> * [**Partners:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Josie Augusto 
+> * [**Partners:**]()  
+>  
+>   - Pedro Victor  
+>   - Pedro Barrenco  
+>   - Andson Ribeiro  
+>   - Luan Fabiano  
+>   - Jose Augusto
 >
-> * Open to [students]() from the Humanistic AI and Data Science program at [PUC-SP]() 
+> <br>
 >
-> * [**Supporters:**]()Reitor/Director/Prof- thi session is not readyb yet...
->
-> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
 
+<br><br>
 
-
-<br>
-
-<!--End-->
 #
 
 <br><br>
 
 > [!IMPORTANT]
 >
->  ###  Startup Links in this Projec: Brazil & Beyond 🛸
-> 
->  - [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
->  
->  - [Bossa Invest Strategic Planning](https://bossainvest.com)
->  
->  - [Venturus - Mindfula AI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
+> <br>
 >
->  - 🇧🇷 [BNDS (National Bank for Development) - Investment in Innovation](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/inovacao)
-> 
->  - [Thje-state-of-crm-data-management-in-202522-2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
-> 
->  - 🇬🇧 [Architectures of Global AI Governance: From Technological Change to Human Choice by Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
-> 
->  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
+> * Open to [students]() from the Humanistic AI & Data Science program at [PUC-SP]()
+>   
+> * [**Supporters:**]() Rector/Director/Prof — this section is not ready yet...
+>   
+> * All activities comply with [**PUC-SP academic and ethical guidelines**]()
 >
->  - 🇪🇺 [European Comission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
->
->  - 🇪🇺🇧🇷 [Brazil's Adequacy under the GDPR: Level of Personal Data Protection according to Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
->
->
+> <br>
 >
 
 <br><br>
+
+#
+
+<br><br>
+
+> [!TIP]
+>
+>  ### Startup Links in this Project: Brazil & Beyond 🛸
+> 
+>  - [What is AIference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+>  
+>  - [Bossa Invest Strategic Planning](https://bossainvest.com)
+>  
+>  - [Venturus - MindfulAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
+>
+>  - 🇧🇷 [BNDES (National Development Bank) - Innovation Investment](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/inovacao)
+> 
+>  - [The State of CRM Data Management in 2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
+>  
+> - 🇬🇧 [Architectures of Global AI Governance: From Technological Change to Human Choice by Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
+> 
+>  - 🇪🇺 [EU AI ACT - Emotionally Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
+>
+>  - 🇪🇺 [European Commission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
+>
+>  - 🇪🇺🇧🇷 [Brazil's GDPR Adequacy: Level of Personal Data Protection under Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
+>
+> <br>
+>
+
+
+<br><br><br>
+
 
 
 ## Table of Contents
