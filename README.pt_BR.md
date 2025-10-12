@@ -80,7 +80,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-
 <br><br>
 
 #
@@ -92,17 +91,15 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > <br>
 > 
-> #### [**Founders**]() & [**Partners**]()
+> #### [**Fundadores**]() & [**Parceiros**]()
 > 
 > <br>
 > 
-> * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)*
+> * **Fundadora:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psicóloga (PUC-SP)*; *Graduação em Humanistic AI & Data Science (PUC-SP)*
 >   
 > <br>
 > 
->  * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
->
-> <br>
+>  * **Colaborador Especial:** [**Dr. André Iório, Ph.D. em Psiquiatria Clínica e Psicologia**](https://saudemental.space/) — *Médico, Psiquiatra (USP)*; *Ph.D. em Psicologia Clínica (PUC-SP)*
 >
 > <br>
 >
@@ -112,7 +109,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >   - Pedro Barrenco  
 >   - Andson Ribeiro  
 >   - Luan Fabiano  
->   - Jose Augusto  
+>   - Jose Augusto
 >
 > <br>
 >
@@ -124,6 +121,20 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
+> [!IMPORTANT]
+>
+> <br>
+>
+> * Parte dos resultados deste projeto será apresentada pelo [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) no [**Summit IEIA**](https://www.summitieia.com/) — o [*Principal Evento Internacional*](https://www.summitieia.com/) sobre [*Inteligência Emocional & Inteligência Artificial*](https://www.summitieia.com/).
+>
+> <br>
+
+
+<br><br>
+
+#
+
+<br><br>
 
 
 > [!IMPORTANT]
@@ -132,12 +143,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * Aberto a [estudantes]() do programa de IA Humanística e Ciência de Dados da [PUC-SP]()
 >   
-> * [**Apoiadores:**]() Reitor/Diretor/Prof — esta sessão ainda não está pronta...
+> * [**Apoiadores:**]() Reitor/Diretor/Prof — esta seção ainda não está pronta...
 >   
 > * Todas as atividades cumprem as [**diretrizes acadêmicas e éticas da PUC-SP**]()
 >
 > <br>
 >
+
 
 
 <br><br>
@@ -146,31 +158,35 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
-
 > [!TIP]
 >
->  ###  Startup Links in this Projec: Brazil & Beyond 🛸
+>  #### [Links de Startups neste Projeto](): Brasil & Além 🛸
 > 
->  - [What is AIference ?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+> <br>
+>
+>  - [O que é AIference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >  
 >  - [Bossa Invest Strategic Planning](https://bossainvest.com)
 >  
->  - [Venturus - MindfulaAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
+>  - [Venturus - MindfulAI](https://venturusai.com/business/1TwGzr-mindfulai/report/finances)
 >
->  - 🇧🇷 [BNDS (Banco Nacional de Desenvolvimento) - Investimento em Inovação](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/inovacao)
+>  - 🇧🇷 [BNDES (Banco Nacional de Desenvolvimento) - Investimento em Inovação](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/inovacao)
 > 
->  - [Thje-state-of-crm-data-management-in-202522-2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
+>  - [O Estado da Gestão de Dados de CRM em 2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
 >  
-> - 🇬🇧 [Architectures of Global AI Governance: From Technological Change to Human Choice by Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
+> - 🇬🇧 [Arquiteturas de Governança Global de IA: Da Mudança Tecnológica à Escolha Humana, Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
 > 
->  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
+>  - 🇪🇺 [EU AI ACT - Práticas de IA Emocionalmente Proibidas](https://bluearrow.ai/emotion-recognition/)
 >
->  - 🇪🇺 [European Comission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
+>  - 🇪🇺 [Documentos Regulamentares da Comissão Europeia](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
 >
->  - 🇪🇺🇧🇷 [Brazil's Adequacy under the GDPR: Level of Personal Data Protection according to Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
+>  - 🇪🇺🇧🇷 [Adequação do Brasil ao GDPR: Nível de Proteção de Dados Pessoais segundo o Regulamento (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
 >
+> <br>
 >
->
+
+<br><br><br>
+
 
 <br><br>
 
