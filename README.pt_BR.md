@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
- ### <p align="center"> [**Presentation**](https://www.beautiful.ai/player/-OaVeXNhzGw-lQajhNjP)
+ ### <p align="center"> [***Apresentação em Slides***](https://www.beautiful.ai/player/-OaVeXNhzGw-lQajhNjP)
 
 <br><br>
 
