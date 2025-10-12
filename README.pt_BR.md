@@ -92,15 +92,17 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > <br>
 > 
-> ### Fundadores e Parceiros
+> #### [**Founders**]() & [**Partners**]()
 > 
 > <br>
 > 
-> * [**Fundadora:**]() Fabiana ⚡️ Campanari — Psicóloga (PUC-SP); graduação em Humanistic AI & Data Science (PUC-SP).
+> * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)*
 >   
 > <br>
 > 
->  * **Colaborador Especial:** [**Dr. André Iório, Ph.D. em Psiquiatria Clínica e Psicologia**](https://saudemental.space/) — Médico, Psiquiatra (USP); Ph.D. em Psicologia Clínica (PUC-SP)
+>  * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
+>
+> <br>
 >
 > <br>
 >
