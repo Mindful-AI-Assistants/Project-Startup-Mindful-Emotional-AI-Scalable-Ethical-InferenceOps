@@ -143,16 +143,37 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > <br>
 >
 
+
 <br><br>
 
 #
 
 <br><br>
 
+
+> [!IMPORTANT]
+>
+>
+> <br>
+>
+> * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
+>
+> <br>
+
+
+<br><br>
+
+#
+
+<br><br>
+
+
 > [!TIP]
 >
->  #### Startup Links in this Project: Brazil & Beyond 🛸
+>  #### [Startup Links in this Project](): Brazil & Beyond 🛸
 > 
+> <br>
+>
 >  - [What is AIference?](https://www.cloudflare.com/learning/ai/inference-vs-training/)
 >  
 >  - [Bossa Invest Strategic Planning](https://bossainvest.com)
