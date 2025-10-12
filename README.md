@@ -130,6 +130,25 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
+
+> [!IMPORTANT]
+>
+>
+> <br>
+>
+> * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*](https://www.summitieia.com/) on [*Emotional Intelligence & Artificial Intelligence*](https://www.summitieia.com/).
+>
+> <br>
+
+
+<br><br>
+
+#
+
+<br><br>
+
+
+
 > [!IMPORTANT]
 >
 > <br>
@@ -150,22 +169,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
-
-> [!IMPORTANT]
->
->
-> <br>
->
-> * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*](https://www.summitieia.com/) on [*Emotional Intelligence & Artificial Intelligence*](https://www.summitieia.com/).
->
-> <br>
-
-
-<br><br>
-
-#
-
-<br><br>
 
 
 > [!TIP]
