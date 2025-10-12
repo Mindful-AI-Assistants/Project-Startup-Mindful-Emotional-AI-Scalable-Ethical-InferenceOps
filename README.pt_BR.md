@@ -88,32 +88,64 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-
-
-
 > [!TIP]
 >
->  ### Fundadores e Parceiros
+> <br>
+> 
+> ### Fundadores e Parceiros
+> 
+> <br>
+> 
+> * [**Fundadora:**]() Fabiana ⚡️ Campanari — Psicóloga (PUC-SP); graduação em Humanistic AI & Data Science (PUC-SP).
+>   
+> <br>
+> 
+>  * **Colaborador Especial:** [**Dr. André Iório, Ph.D. em Psiquiatria Clínica e Psicologia**](https://saudemental.space/) — Médico, Psiquiatra (USP); Ph.D. em Psicologia Clínica (PUC-SP)
 >
-> * [**Fundadora:**]() Fabiana ⚡️ Campanari  
+> <br>
 >
-> * [**Parceiros:***]() Pedro Victor, Pedro Barrenco, Andson Ribeiro, Luan Fabiano, Jose Augusto 
+> * [**Parceiros:**]()  
+>  
+>   - Pedro Victor  
+>   - Pedro Barrenco  
+>   - Andson Ribeiro  
+>   - Luan Fabiano  
+>   - Jose Augusto  
 >
-> * Aberto a [estudantes]() do programa de IA Humanística e Ciência de Dados da [PUC-SP]() 
+> <br>
 >
-> * [**Apoiadores:**]()Reitor/Diretor/Prof- esta sessão ainda não está pronta...
->
-> * Todas as atividades cumprem as [**diretrizes acadêmicas e éticas da PUC-SP**]().
 
 
-
-<br>
+<br><br>
 
 #
 
 <br><br>
 
+
+
 > [!IMPORTANT]
+>
+> <br>
+>
+> * Aberto a [estudantes]() do programa de IA Humanística e Ciência de Dados da [PUC-SP]()
+>   
+> * [**Apoiadores:**]() Reitor/Diretor/Prof — esta sessão ainda não está pronta...
+>   
+> * Todas as atividades cumprem as [**diretrizes acadêmicas e éticas da PUC-SP**]()
+>
+> <br>
+>
+
+
+<br><br>
+
+#
+
+<br><br>
+
+
+> [!TIP]
 >
 >  ###  Startup Links in this Projec: Brazil & Beyond 🛸
 > 
@@ -127,7 +159,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 >  - [Thje-state-of-crm-data-management-in-202522-2025](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/bccd942f5a89eb511645ea073115c24b53e3a28d/Thje-state-of-crm-data-management-in-202522-2025)
 >  
-> - - 🇬🇧 [Architectures of Global AI Governance: From Technological Change to Human Choice by Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
+> - 🇬🇧 [Architectures of Global AI Governance: From Technological Change to Human Choice by Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
 > 
 >  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >
@@ -141,7 +173,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-##  Indice
+##  Table of Contents
 
 <br>
 
