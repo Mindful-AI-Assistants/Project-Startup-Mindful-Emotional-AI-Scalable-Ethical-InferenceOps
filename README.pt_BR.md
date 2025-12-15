@@ -6,31 +6,6 @@
 
 
 
-⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-　　　　　　*　　　　　　　　　　　.　✦
-　　　　　　*　　　　　　　　. 　　
-.　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
-　　　　　⠀　　　　⠀　　,
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝛹](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)  𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚   .⭒⋅⊹｡
-　　　　　　　　　　　　　.
-　　　　　　*⠀　　⠀  　　　　　　　　　　　　
-
-　　　　.　　　　.　　　⠀
-　　　　　　　　　　　.   
-　　　　　　　
-　　　˚　　　　　　　　　　　　　.     
-
- .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,    
-　　　*　　⠀.
-　　　　　.　　　　　　　　　　⠀[𖤐](https://github.com/user-attachments/assets/f239865a-de13-4975-a3fd-54d2bb456e01)
-　˚　　　　　　　　　　　　　　
-.⠀ 　　　　　　　　　　.　　　　　　　　.
-　　　　　✦⠀　   　　　,　　    　　　　　　　　.
-
-
-
 <br><br>
 
 
@@ -87,32 +62,16 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-> [!TIP]
->
+> [!IMPORTANT]
+> 
+> #### * 🚨 The confluence of Emotion AI-InferenceOps (Emotion Recognition AI systems) with the regulated field of Psychology in Brazil presents a complex legal and ethical challenge under both the proposed Brazilian AI Bill and the EU AI Act. <br>
+> #### * RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT  <br>
+> #### * ⚠️ Learn more about prohibited AI practices in the EU: [Check out the EU Artificial Intelligence Act — Article 5: Prohibited AI Practices](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5) to understand which AI uses are considered unacceptably risky and completely banned by the European Union.<br>
+> #### * ⚠️ Learn about Conformity Assessment for AI Systems (Recital 29):[Access Recital 29 — EU Artificial Intelligence Act](https://artificialintelligenceact.eu/recital/29/) about AI uses that are completely banned by the European Union. <br>
+> #### * 🚧  6th AI Congress  PUC-SP, Nov 2025 - Brazil & the EU Artificial Intelligence Act: [Access Full Research & Details]() - (PS: repository will be build with full resources)
 > <br>
 > 
-> #### [**Fundadores**]() & [**Parceiros**]()
-> 
-> <br>
-> 
-> * **Fundadora:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psicóloga (PUC-SP)*; *Graduação em Humanistic AI & Data Science (PUC-SP)*
->   
-> <br>
-> 
->  * **Colaborador Especial:** [**Dr. André Iório, Ph.D. em Psiquiatria Clínica e Psicologia**](https://saudemental.space/) — *Médico, Psiquiatra (USP)*; *Ph.D. em Psicologia Clínica (PUC-SP)*
->
-> <br>
->
-> * [**Parceiros:**]()  
->  
->   - Pedro Victor  
->   - Pedro Barrenco  
->   - Andson Ribeiro  
->   - Luan Fabiano  
->   - Jose Augusto <br>
->   - ***Add The Whole ClassMates - I am Doping thois For them , For me , For My country*** 
->
- 
+
 
 <br><br>
 
@@ -121,13 +80,18 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-> [!IMPORTANT]
->
-> * Parte dos resultados deste projeto será apresentada pelo [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) no [**Summit IEIA**](https://www.summitieia.com/) — o [*Principal Evento Internacional*](https://www.summitieia.com/) sobre [*Inteligência Emocional & Inteligência Artificial*] <br>(
->
+> [!NOTE]
+>  
+>  #### * 🇪🇺 Under the EU AI Act, the use of AI systems intended for emotion recognition is specifically addressed and categorized, often as high-risk or even prohibited. <br>
+>  #### * [Check Here](https://www.indeed-innovation.com/the-mensch/eu-ai-act-compliance-2025/) - ***EU AI Act Compliance 2025: A Complete Guide for Business Leaders***  <br>
+>  #### * Prohibited Risk: AI systems intended to infer emotions of a natural person in the areas of the workplace and educational institutions are strictly prohibited, with limited exceptions (e.g., for safety reasons). This would directly impact any "EmotionAI-InferenceOps" used by an educational institution like PUC-SP or within the CRP/CFP structure for management or assessment, unless solely for safety/medical purposes. <br>
+> #### * High Risk: Emotion recognition systems not falling under the specific prohibition are generally classified as high-risk when used in areas that affect fundamental rights, such as: <br>
+> #### * Biometric Categorisation: AI systems intended to be used for biometric categorization based on sensitive attributes or characteristics inferred from those attributes.  <br>
+> #### * Essential Services/Healthcare: AI used to evaluate eligibility for essential public assistance benefits and services, including healthcare services (which applies to mental health).  <br>
+> <br>
 >
 
-
+<!--
 <br><br>
 
 #
@@ -148,6 +112,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > <br>
 >
 
+-->
 
 
 <br><br>
