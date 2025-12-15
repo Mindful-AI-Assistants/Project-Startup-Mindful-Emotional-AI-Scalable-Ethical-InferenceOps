@@ -18,7 +18,7 @@ seaborn==0.13.2
 
 # Data Analysis Libraries:
 scipy==1.16.3
-scikit-learn==1.7.2
+scikit-learn==1.8.0
 
 # Machine Learning Libraries:
 tensorflow==2.20.0
