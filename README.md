@@ -134,13 +134,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!IMPORTANT]
 > 
-> #### * * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)* <br>
-> ### * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
-> #### * This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
+>  * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)* <br>
+>  **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
+> * This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
 > * To explore all related materials, analyses, and notebooks, visit the repositories: <br>
 >
 > * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP) <br>
->
+
 > * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied) <br>
 >  
 
