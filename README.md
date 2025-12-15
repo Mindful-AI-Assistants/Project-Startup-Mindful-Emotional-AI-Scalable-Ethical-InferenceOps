@@ -140,11 +140,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > * To explore all related materials, analyses, and notebooks, visit the repositories: <br>
 >
 > * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP) <br>
-
 > * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied) <br>
->  
-
-
+> * **EU AI ACT 2025 - Human-Centered Regulation Across: Europe and Brazil** - [4-Entrepreneurship_Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act]()
+> <br>
+> 
 
 <!--Confidentiality Statement-->
 
