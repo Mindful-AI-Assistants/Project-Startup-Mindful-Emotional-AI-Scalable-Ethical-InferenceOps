@@ -13,7 +13,7 @@ numpy==2.3.5
 pandas==2.3.3
 
 # Data Visualization Libraries:
-matplotlib==3.10.7
+matplotlib==3.10.8
 seaborn==0.13.2
 
 # Data Analysis Libraries:
