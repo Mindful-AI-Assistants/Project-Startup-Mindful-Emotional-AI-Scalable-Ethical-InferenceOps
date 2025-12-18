@@ -5,13 +5,13 @@
  
 
 
-<br><br>
+<br><br><br>
 
 
  ### <p align="center">    🦄 **[Project Startup]()**  𝚿
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 <h1 align="center">  $$\Huge {\textbf{\color{cyan} Mindful Emotional AI} \space \textbf{\color{white}   InferenceOps • Ethical} \space \textbf{\color{cyan} 𝚿}}$$ 
