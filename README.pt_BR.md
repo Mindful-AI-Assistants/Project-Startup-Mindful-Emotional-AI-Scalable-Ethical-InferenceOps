@@ -6,7 +6,7 @@
 
 
 
-<br><br>
+<br><br><br>
 
 
  ### <p align="center">  🦄 ✯ **[Startupo Project]()** ✯
@@ -1645,7 +1645,7 @@ Além disso, utiliza frameworks globais contemporâneos para governança de IA, 
 
 #
 
-##### <p align="center"> Copyright 2025 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE)
+##### <p align="center"> Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE)
 
 
 
