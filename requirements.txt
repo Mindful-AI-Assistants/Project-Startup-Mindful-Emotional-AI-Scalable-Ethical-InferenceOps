@@ -2,8 +2,8 @@
 
 # Framework Web Application:
 
-streamlit==1.52.2
-streamlit==1.52.2
+streamlit==1.53.0
+streamlit==1.53.0
 Django==6.0.1
 
 
