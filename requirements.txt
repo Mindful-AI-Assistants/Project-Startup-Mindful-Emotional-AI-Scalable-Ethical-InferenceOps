@@ -22,9 +22,9 @@ scikit-learn==1.8.0
 
 # Machine Learning Libraries:
 tensorflow==2.20.0
-keras==3.13.1
+keras==3.13.2
 tensorflow==2.20.0
-keras==3.13.1
+keras==3.13.2
 
 
 # Natural Language Processing Libraries:
