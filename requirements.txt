@@ -4,7 +4,7 @@
 
 streamlit==1.54.0
 streamlit==1.54.0
-Django==6.0.2
+Django==6.0.4
 
 
 
