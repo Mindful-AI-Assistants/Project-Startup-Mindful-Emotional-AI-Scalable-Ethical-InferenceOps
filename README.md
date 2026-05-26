@@ -173,9 +173,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  - 🇪🇺🇧🇷 [Brazil's GDPR Adequacy: Level of Personal Data Protection under Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)  <br>
 > 
-> - [StartupBlink](https://www.startupblink.com/) 
-
-> - [Global Startup Ecosystem Index 2026](https://lp.startupblink.com/report/?utm_campaign=stickybanner&utm_medium=stickybanner&utm_source=sticky)
+> - [StartupBlink](https://www.startupblink.com/)  <br>
+>
+>  - [Global Startup Ecosystem Index 2026](https://lp.startupblink.com/report/?utm_campaign=stickybanner&utm_medium=stickybanner&utm_source=sticky)
 > 
 >  <br>
 > 
