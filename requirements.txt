@@ -33,7 +33,7 @@ spacy==3.8.11
 
 # Web Scraping Libraries:
 beautifulsoup4==4.14.3
-requests==2.32.5
+requests==2.33.0
 
 # Database Libraries:
 sqlalchemy==2.0.46
